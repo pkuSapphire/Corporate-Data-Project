@@ -1,0 +1,3180 @@
+gvkey,entity_pname,has_funda_data,conm,sic,naics,spcindcd,spcseccd,fic
+001059,"A.P.S., Inc.",True,A P S INC,5010,236210,130,976,USA
+001623,Amsted Industries Inc.,True,AMSTED INDUSTRIES,3320,221320,460,970,USA
+001628,Anaconda Co. (The),True,ANACONDA CO,3310,212111,460,970,USA
+001692,Apollo Computer Inc.,True,APOLLO COMPUTER INC,3571,334111,190,940,USA
+001726,ARCO Pipeline Co.,True,ARCO PIPELINE CO,4610,221210,395,935,USA
+001803,Associated Dry Goods Corp.,True,ASSOCIATED DRY GOODS CORP,5311,452110,430,976,USA
+001921,Avondale Mills Inc.,True,AVONDALE MILLS INC,2200,313,468,976,USA
+001967,Prudential Equity Group LLC,True,BACHE GROUP INC,6211,,822,800,USA
+001993,Baltimore & Ohio Railroad Co.,True,BALTIMORE & OHIO RAILROAD CO,4011,482111,610,600,USA
+002001,Popular Inc.,True,BANPONCE CORP-OLD,6020,522110,817,800,USA
+002018,Bank Leumi le-Israel B.M.,False,,,,,,
+002042,Barclays American Corp.,True,BARCLAYSAMERICANCORPORATION,6141,522220,845,800,USA
+002099,Harry & David Operations Corp.,True,BEAR CREEK CORP,0100,454110,112,970,USA
+002102,Beatrice Co.,True,BEATRICE COS INC,2000,311,250,978,USA
+002195,BI-LO LLC,True,BI-LO INC,5411,,440,978,USA
+002321,Transamerica Commercial Finance Corp.,True,TRANSAMERICA COMML FINL CP,6153,522298,850,800,USA
+002434,Brown Co.,True,BROWN CO,2600,,400,970,USA
+002500,UTGR Inc.,True,BURRILLVILLE RACING ASSN,7948,,262,976,USA
+002627,Blackstone Mortgage Trust Inc.,True,CALIFORNIA REAL ESTATE-OLD,6798,525930,850,800,USA
+002629,California-Western States Life Insurance Co.,True,CALIF-WSTRN STATES LIFE INS,6311,,825,800,USA
+002664,Earthgrains Co. (The),True,CAMPBELL TAGGART INC,2050,,250,978,USA
+002664,Campbell Taggart Inc.,True,CAMPBELL TAGGART INC,2050,,250,978,USA
+002700,Canadian Reynolds Metals Co. Ltd.,True,CANADIAN REYNOLDS METAL,3330,,358,925,USA
+002706,Canadian Pacific Enterprises Ltd.,True,CANADIAN PACIFIC ENTERPRISES,3312,331111,460,970,CAN
+002779,Clinchfield Railroad Co.,True,CAROLINA CLINCHFIELD OHIO RY,6519,531190,305,976,USA
+002789,Carrier Global Corp.,True,CARRIER CORP,3585,,345,925,USA
+002894,CCC Intelligent Solutions Inc.,True,CCC INFORMATION SERVICES INC,6411,524210,330,800,USA
+002977,Chesapeake & Ohio Railway Co.,True,CHESAPEAKE & OHIO RAILWAY CO,4011,482111,610,600,USA
+003067,Oxy USA Inc.,True,CITIES SERVICE CO,1311,211111,380,935,USA
+003176,Collins & Aikman Corp.,True,COLLINS & AIKMAN CORP  -OLD,2221,313210,468,976,USA
+003241,"NationsBank of Tennessee N.A., Nashville",True,COMMERCE UNION CORP,6020,522110,817,800,USA
+003337,CSK Holding Corp.,True,COMPUTER SERVICES CORP,7374,,453,940,JPN
+003374,Unitil Energy Systems Inc.,True,CONCORD ELECTRIC CO,4911,,705,700,USA
+003411,Consolidated Cigar Corp.,True,CONSOLIDATED CIGAR CORP,2100,,470,978,USA
+003453,Wilcac Life Insurance Co.,True,CONTINENTAL ASSURANCE CO,6311,524113,825,800,USA
+003627,Crown Zellerbach Corp.,True,CROWN ZELLERBACH,2621,322121,400,970,USA
+003680,Cyprus Mines Corp.,True,CYPRUS MINES CORP,1000,,360,970,USA
+003724,Overhead Door Corp.,True,DALLAS CORP,3442,332321,305,976,USA
+003828,DecisionOne Corp.,True,DECISION INDUSTRIES CORP,3575,334113,190,940,USA
+003868,Dennison Manufacturing Co.,True,DENNISON MFG CO,2670,3222,210,970,USA
+004314,ELTRA Corp.,True,ELTRA CORP,3621,,220,925,USA
+004323,Menlo Worldwide Forwarding Inc.,True,EMERY AIR FREIGHT CORP,4513,492110,620,600,USA
+004327,Emhart Corp.,True,EMHART CORP,3452,332722,355,925,USA
+004461,Ethan Allen Retail Inc.,True,ETHAN ALLEN INC  -CL A,2510,532210,315,976,USA
+004482,BANA Holding Corp,False,EXCHANGE INTERNATIONAL CORP,6020,522110,,,USA
+004504,ExxonMobil Pipeline Co.,True,EXXON PIPELINE CO,4610,486,395,935,USA
+004581,Farmers Group Inc.,True,FARMERS GROUP INC,6411,524210,330,800,USA
+004582,Farmers New World Life Insurance Co.,True,FARMERS NEW WORLD LIFE INS,6311,,825,800,USA
+004711,National Westminster Bancorp of New Jersey,True,FIRST JERSEY NATIONAL CORP,6020,522110,817,800,USA
+004792,Florida Gas Transmission Co. LLC,True,FLORIDA GAS TRANSMISSION CO,4923,211111,710,700,USA
+005055,General Foods Corp.,True,GENERAL FOODS CORP,2000,311,250,978,USA
+005067,General Medical Corp.,True,GENERAL MEDICAL CORP,5190,,175,976,USA
+005249,Banner Life Insurance Co.,True,GOVERNMENT EMPLOYEES LIFE,6311,,825,800,USA
+005274,Graphic Controls Corp.,True,GRAPHIC CONTROLS CORP,2761,621498,370,925,USA
+005314,Great Northern Nekoosa Corp.,True,GREAT NORTHERN NEKOOSA CORP,2650,3222,210,970,USA
+005382,Gulf Oil Corp.,True,GULF CORP,2911,,390,935,USA
+005400,HCC Industries Inc.,True,HCC INDUSTRIES,3679,334419,220,925,USA
+005491,BMO Bankcorp Inc.,True,HARRIS BANKCORP INC,6020,532112,817,800,USA
+005500,Hartford Electric Light Co.,True,HARTFORD ELECTRIC LIGHT CO,4911,,705,700,USA
+005592,Heritage Communications Inc.,True,HERITAGE COMMUNICATIONS INC,2750,32311,458,978,USA
+005629,High Voltage Engineering Corp.,True,HIGH VOLTAGE ENGINEERING,3825,334515,230,940,USA
+005699,Hoover Universal Inc.,True,HOOVER UNIVERSAL INC,2531,221320,370,925,USA
+005762,Howmet Corp.,True,HOWMET CORP,3330,423830,358,925,USA
+005769,Hudson Pulp & Paper Corp.,True,HUDSON PULP & PAPER-COMM,2600,,400,970,USA
+005779,Hunt Cos. Inc.,True,HUNT BUILDING CORP,1520,,305,976,USA
+005866,IVAC Corp.,True,IVAC CORP,3841,,300,905,USA
+005898,Imperial Brands PLC,True,IMPERIAL GROUP PLC,2111,312221,470,978,GBR
+005966,Inland Paperboard & Packaging Inc,True,INLAND CONTAINER CORP,2650,332812,210,970,USA
+006176,MidAmerican Energy Co.,True,IOWA RESOURCES INC,4911,221122,705,700,USA
+006336,Kansas City Southern Railway Co.,True,KANSAS CITY SO RAILWAY CO,4011,482111,610,600,USA
+006628,Lear Corp.,True,LEAR SIEGLER INC,3812,334511,220,925,USA
+006720,Life Insurance Co. of Georgia,True,LIFE INS CO OF GEORGIA,6311,524113,825,800,USA
+006738,"Chase Lincoln First Bank, N.A., Rochester",True,LINCOLN FIRST BANKS,6020,,817,800,USA
+006775,UFJ Bank Ltd.,False,,,,,,
+006794,Londontown Corp.,True,LONDONTOWN CORP,2300,,465,976,USA
+006861,MCA Inc.,True,MCA INC,7812,512110,245,978,USA
+007082,Sweetheart Cup Co. Inc.,True,MARYLAND CUP CORP,2650,,210,970,USA
+007162,McGraw-Edison Co.,True,MCGRAW-EDISON CO,3612,,220,925,USA
+007178,SnyderGeneral Corp.,True,MCQUAY INC,3585,,345,925,USA
+007363,NGPL PipeCo LLC,True,MIDCON CORP,4922,486210,710,700,USA
+007363,MidCon LLC,True,MIDCON CORP,4922,486210,710,700,USA
+007392,Bayer Corp.,True,MILES LABORATORIES INC,2834,325412,285,905,USA
+007460,Missouri Power & Light Co.,True,MISSOURI POWER & LIGHT,4931,,705,700,USA
+007474,Mobil Alaska Pipeline Co.,True,MOBIL ALASKA PIPELINE CO,4610,486990,395,935,USA
+007476,ExxonMobil Oil Corp.,True,MOBIL OIL CORP,2911,324110,390,935,USA
+007675,Nabisco Inc.,True,NABISCO INC,2000,115210,250,978,USA
+007744,"National Industries Inc., KY",True,NATIONAL INDUSTRIES INC,5190,,175,976,USA
+007749,"National Medical Care, Inc.",True,NATIONAL MEDICAL CARE,8090,999990,292,905,USA
+007795,Natural Gas Pipeline Co. of America,True,NATURAL GAS PIPELINE-AMERICA,4923,486210,710,700,USA
+007981,NorthernTel Ltd Partnership,True,NORTHERN TELEPHONE CO LTD,4813,561499,463,974,USA
+007996,Northwestern Bell Telephone Co.,True,NORTHWESTERN BELL TELEPHONE,4813,513310,463,974,USA
+008119,Old National Bancorp,False,OLD NATIONAL BANCORPORATION,6020,522110,,,USA
+008124,Graphic Packaging International LLC,True,OLINKRAFT INC,2600,,400,970,USA
+008124,Riverwood International Corp.,True,OLINKRAFT INC,2600,,400,970,USA
+008198,Otis Worldwide Corp.,True,OTIS ELEVATOR CO,3530,,345,925,USA
+008275,Pacific Northwest Bell Telephone Co.,True,PACIFIC NOWEST BELL TELEPHON,4813,513310,463,974,USA
+008393,Paul Revere Life Insurance Co.,True,PAUL REVERE LIFE INS CO,6311,524,825,800,USA
+008416,Pebble Beach Co.,True,PEBBLE BEACH CORP,1400,531120,202,970,USA
+008430,American Premier Underwriters Inc.,True,PENN CENTRAL CO,4011,,,,USA
+008528,PharMerica Inc.,True,PHARMACY CORP OF AMERICA INC,5122,422210,280,905,USA
+008541,Philadelphia Life Insurance Co.,True,PHILADELPHIA LIFE INS CO,6311,,825,800,USA
+008556,Claymont Steel Inc.,True,PHOENIX STEEL CORP,3312,,460,970,USA
+008575,Piedmont Aviation Inc.,True,PIEDMONT AVIATION INC,4512,481111,605,600,USA
+008739,Reynolds Consumer Products Inc.,True,PRESTO PRODUCTS INC,3080,,355,925,USA
+008821,Pullman Leasing Co.,True,PULLMAN LEASING CO,6172,522220,850,800,USA
+009077,Reserve Oil & Gas Co.,True,RESERVE OIL & GAS CO,5171,,355,925,USA
+009377,St. Louis-San Francisco Railway,True,ST LOUIS-SAN FRAN RAILWAY,4011,525,610,600,USA
+009381,St. Regis Corp.,True,ST REGIS CORP,2621,,400,970,USA
+009389,Samsonite Group S.A.,True,SAMSONITE CORP  -OLD,3100,,355,925,USA
+009427,B.F Saul Real Estate Investment Trust,True,SAUL (B.F.) REAL ESTATE INV,6798,999990,850,800,USA
+009547,Joseph E. Seagram & Sons Inc.,True,SEAGRAM (JOSEPH E.) & SONS,2080,111332,145,978,USA
+009575,Security Life of Denver Insurance Co.,True,SECURITY LIFE DENVER INS CO,6311,524,825,800,USA
+009654,Shell Pipe Line Corp.,True,SHELL PIPE LINE CORP,4610,486,395,935,USA
+009775,GlaxoSmithKline LLC,True,SMITHKLINE BECKMAN CORP,2834,325412,285,905,USA
+009801,Coinmach Corp.,True,SOLON AUTOMATED SERVICES INC,7200,,175,976,USA
+009889,Southwest Forest Industries Inc.,True,SOUTHWEST FOREST INDUSTRIES,2621,322121,400,970,USA
+009978,Stamford Water Co.,True,STAMFORD WATER CO,4941,2213,725,700,USA
+010001,Standard Oil Co.,True,STANDARD OIL CO,2911,324110,390,935,USA
+010055,Stellex Technologies Inc.,True,STELLEX INDUSTRIES INC,3559,541330,247,940,USA
+010227,Apogent Technologies Inc.,True,SYBRON CORP  -OLD,3843,339114,300,905,USA
+010562,Ticor Title Insurance Co.,True,TICOR,6361,,850,800,USA
+010696,Transamerica Occidental Life Insurance Co.,True,TRANSAMERICA OCCIDENTAL LIFE,6311,524113,825,800,USA
+010698,Transwestern Pipeline Co LLC,True,TRANSWESTERN PIPELINE CO,4922,211111,710,700,USA
+010811,UOP LLC,True,UOP INC,3350,,358,925,USA
+010818,USM Corp.,True,USM CORP,3559,,247,940,USA
+010900,Gulf South Pipeline Co. LLC,True,UNITED GAS PIPELINE CO,4922,486210,710,700,USA
+010927,Trizec Hahn Corp.,True,UNITED SISCOE MINES INC,1000,,360,970,USA
+010954,U.S. Leasing Corp.,True,U S LEASING CORP,6172,522220,850,800,USA
+011052,Utah Power & Light Co.,True,UTAH POWER & LIGHT,4911,2211,705,700,USA
+011254,Wagner Electric Corp.,True,WAGNER ELECTRIC CORP,3714,,130,976,USA
+011405,Western Maryland Railway,True,WESTERN MARYLAND RAILWAY CO,4011,,610,600,USA
+011504,American Pad & Paper Co. of Delaware Inc.,True,WILLIAMHOUSE REGENCY INC,2670,3222,210,970,USA
+011653,Yonkers Racing Corp.,True,YONKERS RACEWAY INC,7948,,262,976,USA
+012462,Hamilton Beach Brands Inc.,True,WEAREVER-PROCTOR SILEX INC,3634,335211,315,976,USA
+012579,21st Century Fox America Inc.,True,NEWS AMERICA HOLDINGS CO,2711,511110,415,976,USA
+012687,St. Joe Minerals Corp.,True,ST JOE GOLD CORP,1040,212221,265,970,USA
+013084,Aristech Chemical Corp.,True,ARISTECH CHEMICAL CORP,2821,325211,167,970,USA
+013560,Ellco Leasing Corp.,True,EQUITABLE LOMAS LEASING CP,7377,532420,454,940,USA
+013647,Colorado Prime Corp.,True,COLORADO PRIME CORP,5960,454390,449,976,USA
+013851,Hewlett-Packard Finance Co.,True,HEWLETT-PACKARD FINANCE CO,6153,522220,850,800,USA
+013905,Penske Truck Leasing Co. L.P.,True,HERTZ PENSKE TRUCK LEASING,7510,5321,175,976,USA
+014109,OXY Petrochemicals Inc.,True,CAIN CHEMICAL  -CL A,2860,3251,167,970,USA
+014291,Sony Pictures Entertainment Inc.,True,COLUMBIA PICTURES ENTMNT INC,7812,512110,245,978,USA
+014393,Noverco Inc.,True,NOVERCO INC,4924,221210,710,700,CAN
+014570,Easco Corp.,True,EASCO CORP-NEW,3350,331316,358,925,USA
+014612,Argo Group US Inc.,False,ARGO GROUP INTL 6.5 SR NT 42,,,,,
+014838,Pamida Inc.,True,PAMIDA INC-DEL,5331,452990,432,976,USA
+014956,SnyderGeneral Corp.,True,SNYDERGENERAL CORP,3585,333415,345,925,USA
+015121,Nissan Motor Acceptance Co. LLC,True,NISSAN MOTOR ACCEPTANCE CORP,6141,522220,845,800,USA
+015245,Exxon Capital Holdings Corp.,True,EXXON CAPITAL HOLDINGS CORP,4610,486,395,935,USA
+015270,Webcraft Technologies Inc.,True,WEBCRAFT TECHNOLOGIES INC,2750,32311,458,978,USA
+015309,Northwest Airlines Inc.,True,NORTHWEST AIRLINES INC,4512,481111,605,600,USA
+015482,Credit Lyonnais,False,,,,,,
+015483,Daiwa Securities Group Inc.,False,DAIWA SECURITIES GROUP INC,6211,523120,822,800,JPN
+015484,Mitsubishi UFJ Trust and Banking Corp.,False,,,,,,
+015498,Hang Seng Bank Ltd.,False,HANG SENG BANK LTD,6020,522110,810,800,HKG
+015499,Hokkaido Takushoku Bank Ltd.,False,,,,,,
+015511,Hokuriku Bank Ltd.,False,,,,,,
+015512,ASR Nederland N.V.,False,,,,,,
+015515,Banco Espanol de Credito S.A.,False,BANCO ESP DE CREDITO,6020,522110,810,800,ESP
+015516,Banca Commerciale Italiana SpA,False,,,,,,
+015522,Banco Popular Espanol S.A.,False,,,,,,
+015528,Bank of Scotland PLC,False,,,,,,
+015529,Bank of New Zealand,False,,,,,,
+015530,Bank of East Asia Ltd. (The),False,BANK OF EAST ASIA LTD,6020,522110,810,800,HKG
+015531,Banque Cantonale Vaudoise,False,,,,,,
+015535,Basler Kantonalbank,False,,,,,,
+015538,Den norske Bank ASA,False,DNB ASA,6020,522110,810,800,NOR
+015540,Pearl Group Holdings (No 1) Ltd,False,,,,,,
+015546,Credit Foncier de France,False,,,,,,
+015547,Natixis S.A.,False,NATIXIS,6020,522110,810,800,FRA
+015549,UniCredit SpA,False,UNICREDIT SPA,6020,522110,810,800,ITA
+015549,UniCredit Corporate Banking SpA,False,UNICREDIT SPA,6020,522110,810,800,ITA
+015551,Aioi Insurance Co. Ltd.,False,,,,,,
+015553,Aioi Nissay Dowa Insurance Co. Ltd.,False,,,,,,
+015553,Nissay Dowa General Insurance Co. Ltd.,False,,,,,,
+015554,Edinburgh Investment Trust PLC,False,,,,,,
+015556,Fuji Bank Ltd.,False,,,,,,
+015560,The Fuji Fire & Marine Insurance Co. Ltd.,False,,,,,,
+015562,Bank Cler AG,False,,,,,,
+015567,Gunma Bank Ltd.,False,,,,,,
+015570,Compagnie Bancaire,False,,,,,,
+015573,ING Belgium S.A./N.V.,False,,,,,,
+015575,Commerzbank AG,False,COMMERZBANK AG,6020,522110,810,800,DEU
+015578,Mannheimer AG Holding,False,,,,,,
+015579,Bank of Yokohama Ltd.,False,CONCORDIA FINANCIAL GROUP,6020,522110,810,800,JPN
+015584,Ageas N.V.,False,,,,,,
+015586,Banco di Napoli SpA,False,,,,,,
+015589,Paribas S.A.,False,,,,,,
+015589,Compagnie Financiere de Paribas,False,,,,,,
+015590,Basellandschaftliche Kantonalbank,False,,,,,,
+015593,Mediobanca SpA,False,MEDIOBANCA BANCA DI CREDITO,6020,522110,810,800,ITA
+015594,MEPC Ltd.,False,,,,,,
+015596,Graubuendner Kantonalbank,False,,,,,,
+015599,Bayerische Hypotheken- und Wechsel-Bank AG,False,,,,,,
+015600,Jyske Bank A/S,False,,,,,,
+015601,Asahi Bank Ltd.,False,,,,,,
+015603,Legal & General Group PLC,False,LEGAL & GEN GROUP PLC,6311,524113,825,800,GBR
+015608,Pohjola Group PLC,False,,,,,,
+015609,Overseas Union Bank Ltd.,False,,,,,,
+015610,Nichido Fire & Marine Insurance Co. Ltd.,False,,,,,,
+015611,"NZI Corp., Ltd.",False,,,,,,
+015616,Nikko Securities Co. Ltd.,False,NIKKO CORDIAL CORP,6211,523120,822,800,JPN
+015618,Nedbank Group Ltd.,False,NEDBANK GROUP LTD,6020,522110,810,800,ZAF
+015619,ING Groep N.V.,False,,,,,,
+015621,Mutual & Federal Insurance Co. Ltd.,False,,,,,,
+015624,Sakura Bank Ltd.,False,,,,,,
+015625,Mitsubishi Estate Co. Ltd.,False,MITSUBISHI ESTATE CO LTD,6512,531120,305,976,JPN
+015626,Chuo Mitsui Trust & Banking Co. Ltd.,False,,,,,,
+015626,Mitsui Trust & Banking Co. Ltd.,False,,,,,,
+015632,Public Bank Bhd.,False,,,,,,
+015638,Schroders PLC,False,,,,,,
+015640,Skandia Insurance Co. Ltd.,False,,,,,,
+015645,Standard Chartered PLC,False,STANDARD CHARTERED PLC,6020,522110,810,800,GBR
+015647,Storebrand ASA,False,,,,,,
+015650,Sumitomo Marine & Fire Insurance Co. Ltd.,False,,,,,,
+015651,Sumitomo Mitsui Trust Bank Ltd.,False,,,,,,
+015654,Svenska Handelsbanken AB,False,SVENSKA HANDELSBANKEN,6020,522110,810,800,SWE
+015655,Svenska Kreditforsakringsaktiebolaget,False,,,,,,
+015657,Tat Lee Bank Ltd.,False,,,,,,
+015658,Tokai Bank Ltd.,False,,,,,,
+015660,UFJ Trust Bank Ltd.,False,,,,,,
+015662,Resona Bank Ltd.,False,,,,,,
+015662,Daiwa Bank Ltd.,False,,,,,,
+015669,Mizuho Trust & Banking Co. Ltd.,False,,,,,,
+015669,Mizuho Asset Trust & Banking Co. Ltd.,False,,,,,,
+015670,"Yamaichi Securities Co., Ltd.",False,,,,,,
+015671,Skandinaviska Enskilda Banken AB (publ),False,SKANDINAVISKA ENSKILDA BANK,6020,522110,810,800,SWE
+015673,Credit Suisse AG,False,,,,,,
+015673,Credit Suisse First Boston,False,,,,,,
+015674,Zurich Insurance Co. Ltd.,False,,,,,,
+015677,Munich Reinsurance Co.,False,MUNICH RE CO,6311,524130,825,800,DEU
+015678,Luzerner Kantonalbank,False,,,,,,
+015681,ERGO Group AG,False,,,,,,
+015682,Allianz Elementar Versicherungs - AG,False,,,,,,
+015684,International Credit Ins. Corp.,False,,,,,,
+015685,Industrial Bank of Japan Ltd.,False,,,,,,
+015688,Malayan Banking Bhd.,False,MALAYAN BANKING BERHAD,6020,522110,810,800,MYS
+015691,Allianz Suisse Versicherungs - Gesellschaft,False,,,,,,
+015695,FirstRand Bank Ltd.,False,,,,,,
+015698,Japan Securities Finance Co. Ltd.,False,,,,,,
+015699,Investor AB,False,INVESTOR AB PUBL,6799,523999,850,800,SWE
+015701,"La Suisse, Societe d'Assurances sur la Vie",False,,,,,,
+015702,Irish Bank Resolution Corporation Limited,False,,,,,,
+015703,KBC Group N.V.,False,KBC GROUP NV,6020,522110,810,800,BEL
+015703,Kredietbank N.V.,False,KBC GROUP NV,6020,522110,810,800,BEL
+015722,Banco Atlantico S.A.,False,,,,,,
+015723,Ausonia Assicurazioni SpA,False,,,,,,
+015725,Allianz Lebensversicherungs AG,False,,,,,,
+015726,Banca Nazionale del Lavoro SpA (former),False,,,,,,
+015727,Capitalia SpA,False,,,,,,
+015728,Banco Exterior de Espana S.A.,False,,,,,,
+015730,Oberbank AG,False,,,,,,
+015734,Banque Nationale de Belgique,False,,,,,,
+015736,SBI Shinsei Bank Ltd.,False,,,,,,
+015738,Nissan Fire & Marine Insurance Co. Ltd.,False,,,,,,
+015742,RHB Bank Bhd.,False,,,,,,
+015745,Credito Emiliano SpA,False,,,,,,
+015748,Chiba Bank Ltd.,False,,,,,,
+015749,Hysan Development Co. Ltd.,False,,,,,,
+015753,Oversea-Chinese Banking Corp. Ltd.,False,OVERSEA CHINESE BANKING,6200,523,810,800,SGP
+015756,QBE Insurance Group Ltd.,False,QBE INSURANCE GROUP LIMITED,6311,5241,835,800,AUS
+015773,Sampo PLC,False,SAMPO PLC,6331,5241,835,800,FIN
+015785,AXA Versicherungen AG,False,,,,,,
+015787,Toro Assicurazioni SpA,False,,,,,,
+015788,Swiss Bank Corp.,False,,,,,,
+015807,Banca Toscana SpA,False,,,,,,
+015809,"Banco Pastor, S.A.",False,,,,,,
+015811,Mizuho Securities Co. Ltd.,False,,,,,,
+015812,Nisshin Fire & Marine Insurance Co. Ltd.,False,,,,,,
+015814,Refuge Assurance Plc,False,,,,,,
+015818,My Money Bank,False,,,,,,
+015826,La Fondiaria Assicurazioni SpA,False,,,,,,
+015829,Eurohypo AG-Europaeische Hypothekenbank der Deutschen Bank,False,,,,,,
+015829,Frankfurter Hypothekenbank Centralboden AG,False,,,,,,
+015834,Interunfall Versicherung AG,False,,,,,,
+015839,Lloyd Adriatico SpA,False,,,,,,
+015845,Sophia,False,,,,,,
+015846,Bankinter S.A.,False,BANKINTER SA,6020,522110,810,800,ESP
+015862,Unipol Gruppo Finanziario SpA,False,UNIPOL ASSICURAZIONI SPA,6331,524126,835,800,ITA
+015863,Nordea Bank Abp,False,,,,,,
+015865,Zuger Kantonalbank,False,,,,,,
+015866,Generali Holding Vienna AG,False,,,,,,
+015869,Milano Assicurazioni SpA,False,,,,,,
+015875,NIPPONKOA Insurance Co. Ltd.,False,,,,,,
+015883,Bank of Aland PLC,False,,,,,,
+015890,Alleanza Toro S.p.A,False,,,,,,
+015890,Alleanza Assicurazioni SpA,False,,,,,,
+015894,BKS Bank AG,False,,,,,,
+015902,Chiyoda Fire & Marine Insurance Co. Ltd.,False,,,,,,
+015910,Mercantile Investment Trust PLC (The),False,,,,,,
+015911,Societe Fonciere Lyonnaise S.A.,False,,,,,,
+015912,GPT Group,False,,,,,,
+015914,UnipolSai Assicurazioni,False,,,,,,
+015926,Joyo Bank Ltd.,False,,,,,,
+015930,AGF Union-Fenix Seguros y Reaseguros S.A.,False,,,,,,
+015932,Westfield Corp.,False,WESTFIELD CORP,6798,531120,305,976,AUS
+015933,Sompo Japan Insurance Inc.,False,,,,,,
+015934,General Reinsurance AG,False,,,,,,
+015936,Klepierre S.A.,False,KLEPIERRE SA,6798,531120,305,976,FRA
+015937,77 Bank Ltd.,False,,,,,,
+015945,CA Auto Bank SpA,False,,,,,,
+016174,Generali Italia SpA,False,,,,,,
+016174,Assitalia - le Assicurazioni d'Italia,False,,,,,,
+016189,Stockland,False,,,,,,
+016196,LGT Bank AG,False,,,,,,
+016198,Santander Consumer Finance S.A.,False,,,,,,
+016204,BNP Paribas Personal Finance,False,,,,,,
+016216,Berner Allgemeine Vers.Ges. AG,False,,,,,,
+016242,"LaSalle Bank, FSB",False,TALMAN HOME FED SAVINGS & LN,6726,525990,,,USA
+016258,Schweizerische National Vers.Ges.,False,,,,,,
+016267,Leonardo SpA,False,LEONARDO SPA,3721,336411,110,925,ITA
+016276,Credit Universel,False,,,,,,
+016278,Countrywide Banking Corp. Ltd.,False,,,,,,
+016281,Mapfre S.A.,False,,,,,,
+016285,Entenial,False,,,,,,
+016301,Tokyo Tatemono Co. Ltd.,False,,,,,,
+016310,VP Bank AG,False,,,,,,
+016316,Green Property Ltd.,False,,,,,,
+016330,UniCredit Leasing SpA,False,,,,,,
+016331,Exor N.V.,False,EXOR N V,9998,551112,460,970,NLD
+016331,EXOR SpA,False,EXOR N V,9998,551112,460,970,NLD
+016334,Jardine Strategic Holdings Ltd.,False,JARDINE STRATEGIC LIMITED,9997,999977,440,978,BMU
+016346,"Metrovacesa, S.A.",False,,,,,,
+016365,Bank J. Safra Sarasin Ltd.,False,,,,,,
+016382,Parmalat Finanziaria SpA,False,,,,,,
+016383,Unibail-Rodamco-Westfield SE,False,UNIBAIL RODAMCO WESTFIELD SE,6798,531120,305,976,FRA
+016385,Allianz SpA,False,,,,,,
+016385,Allianz Subalpina SpA,False,,,,,,
+016386,Vittoria Assicurazioni SpA,False,,,,,,
+016388,Locindus S.A.,False,,,,,,
+016390,La Previdente Assicurazioni SpA,False,,,,,,
+016397,Fideuram - Intesa Sanpaolo Private Banking SpA,False,,,,,,
+016398,Citycon Oyj,False,,,,,,
+016399,Hitachi Capital Corp.,False,,,,,,
+016400,Nordea Bank Norge ASA,False,,,,,,
+016447,Ageas SA/NV,False,AGEAS SA/NV,6311,5241,850,800,BEL
+016447,Ageas (consolidated),False,AGEAS SA/NV,6311,5241,850,800,BEL
+016449,Danske Bank A/S,False,,,,,,
+016450,Scentre Group Trust 1,False,,,,,,
+016591,Hopewell Holdings Ltd.,False,HOPEWELL HOLDINGS LTD,6510,531,305,976,HKG
+016621,Wharf (Holdings) Ltd.,False,THE WHARF (HOLDINGS) LTD,6500,531,305,976,HKG
+016726,Employers Casualty Co.,False,EMPLOYERS CASUALTY CO,6331,524126,,,USA
+016906,Kentucky Central Life Insurance Co.,False,KENTUCKY CENTRAL LIFE INS CO,6311,524113,,,USA
+017404,Associated British Foods PLC,False,ASSOCIATED BRITISH FOODS PLC,2000,311,250,978,GBR
+017629,"Burns, Philp & Co. Ltd.",False,,,,,,
+017703,Casio Computer Co. Ltd.,False,,,,,,
+017774,Comalco Ltd.,False,,,,,,
+017827,Dai Nippon Printing Co. Ltd.,False,DAI NIPPON PRINTING CO LTD,2750,32311,410,976,JPN
+017830,Daiwa House Industry Co. Ltd.,False,DAIWA HOUSE INDUSTRY CO LTD,1520,2361,305,976,JPN
+017965,Sino-Forest Corp.,False,EMERALD PLANTATION HOLDINGS,0800,115310,,,CYM
+018526,Hong Kong and China Gas Co. Ltd. (The),False,HONG KONG AND CHINA GAS COMP,4923,221210,710,700,HKG
+018687,Hitachi Cable Ltd.,False,,,,,,
+018709,Kajima Corp.,False,KAJIMA CORP,1600,237,240,925,JPN
+018715,Kao Corp.,False,KAO CORP,2840,3256,320,978,JPN
+018716,JFE Steel Corp.,False,,,,,,
+018716,Kawasaki Steel Corp.,False,,,,,,
+018754,Kumagai Gumi Co. Ltd.,False,,,,,,
+018766,Ladbrokes Coral Group PLC,False,LADBROKES CORAL GROUP PLC,7990,7132,262,976,GBR
+018877,Meiji Seika Kaisha Ltd.,False,,,,,,
+019002,Minebea Co. Ltd.,False,MINEBEA MITSUMI INC,3562,332991,220,925,JPN
+019045,Mitsubishi Chemical Holdings Corp.,False,MITSUBISHI CHEMICAL GROUP,2800,325,167,970,JPN
+019045,Mitsubishi Rayon Co. Ltd.,False,MITSUBISHI CHEMICAL GROUP,2800,325,167,970,JPN
+019045,Mitsubishi Chemical Corp.,False,MITSUBISHI CHEMICAL GROUP,2800,325,167,970,JPN
+019048,Mitsukoshi Ltd.,False,,,,,,
+019097,NKK Corp.,False,,,,,,
+019099,Nagoya Railroad Co. Ltd.,False,,,,,,
+019112,Denso Corp.,False,DENSO CORP,3714,336320,130,976,JPN
+019115,NSK Ltd.,False,NSK LTD,3714,336310,345,925,JPN
+019141,Oji Paper Co. Ltd.,False,OJI HOLDINGS CORP,2621,322,400,970,JPN
+019157,Omron Corp.,False,OMRON CORP,3600,335,220,925,JPN
+019195,North Coast Life Insurance Co.,False,NORTH COAST LIFE INSURACE CO,6311,524113,,,USA
+019271,Pioneer International Ltd.,False,,,,,,
+019336,Peninsular & Oriental Steam Navigation Co. (The),False,,,,,,
+019348,Invensys PLC,False,INVENSYS PLC,7373,541512,230,940,GBR
+019348,Siebe PLC,False,INVENSYS PLC,7373,541512,230,940,GBR
+019358,Howard Smith Ltd.,False,,,,,,
+019380,CMB Wing Lung Bank Ltd.,False,,,,,,
+019413,Sumitomo Electric Industries Ltd.,False,SUMITOMO ELECTRIC INDS LTD,3357,335929,360,970,JPN
+019414,Sumitomo Metal Industries Ltd.,False,,,,,,
+019421,Sun Hung Kai Properties Ltd.,False,SUN HUNG KAI PROPERTIES LTD,6500,531,305,976,HKG
+019449,TI Group PLC,False,,,,,,
+019457,Taiyo Yuden Co. Ltd.,False,,,,,,
+019579,J Sainsbury PLC,False,SAINSBURY (J) PLC,5411,445110,440,978,GBR
+019591,Sandvik AB,False,SANDVIK AB,3530,3331,358,925,SWE
+019641,EMI Group PLC,False,,,,,,
+019646,Tokyu Land Corp.,False,,,,,,
+019656,Toto Ltd.,False,,,,,,
+019934,Yamazaki Baking Co. Ltd.,False,YAMAZAKI BAKING CO LTD,2050,31181,250,978,JPN
+020082,American Gilsonite Co.,False,AMERICAN GILSONITE CO,2990,324199,,,USA
+020145,Furukawa Electric Co. Ltd.,False,,,,,,
+020161,Taiheiyo Cement Corp.,False,,,,,,
+021386,Ashikaga Bank Ltd.,False,,,,,,
+021388,RTL Group S.A.,False,,,,,,
+021391,Banque Internationale a Luxembourg,False,,,,,,
+021401,NH Hotel Group S.A.,False,,,,,,
+021408,Groupe Bruxelles Lambert S.A.,False,GROUPE BRUXELLES LAMBERT,6799,523999,850,800,BEL
+021419,Koa Fire & Marine Insurance Co. Ltd.,False,,,,,,
+021437,Darling Ingredients Inc.,True,DARLING DELAWARE CO,2013,311612,250,978,USA
+021447,OP Corporate Bank PLC,False,,,,,,
+021463,Swiss Life Holding AG,False,,,,,,
+021467,Zurich Insurance Co. South Africa Ltd.,False,,,,,,
+021472,AMP Diversified Property Trust,False,,,,,,
+021480,United Friendly Insurance Ltd (Life Fund),False,,,,,,
+021481,Vontobel Holding AG,False,,,,,,
+022336,Credit Saison Co. Ltd.,False,,,,,,
+022522,Hachijuni Bank Ltd.,False,HACHIJUNI BANK,6020,522110,810,800,JPN
+022739,Sentinel Security Life Insurance Co.,False,SENTINEL SECURITY LIFE INSUR,6311,524113,,,USA
+023087,Baloise Holding AG,False,BALOISE HOLDING AG,6311,524113,825,800,CHE
+023163,HSBC Bank PLC,False,,,,,,
+023207,Witan Investment Trust PLC,False,,,,,,
+023274,La Concorde Cie. d'Assurances,False,,,,,,
+023429,F.A.T.A. ASSICURAZIONI DANNI SpA,False,,,,,,
+023438,Mitsubishi UFJ Morgan Stanley Securities Co. Ltd.,False,,,,,,
+023438,Kokusai Securities Co. Ltd.,False,,,,,,
+023470,"Trygg-Hansa Forsakrings AB, Publikt.",False,,,,,,
+023586,CIR-Compagnie Industriali Riunite SpA,False,,,,,,
+023595,UNIQA Insurance Group AG,False,,,,,,
+023595,Vers. Der Osterreichischen Bundeslander,False,,,,,,
+023711,Yamanashi Chuo Bank Ltd.,False,,,,,,
+023867,Hokkaido Bank Ltd.,False,,,,,,
+023896,Advance Bank Australia Ltd.,False,,,,,,
+023900,Bank of Fukuoka Ltd.,False,,,,,,
+023904,HSBC Continental Europe,False,,,,,,
+023905,Fukuoka City Bank Ltd.,False,,,,,,
+023915,Union des Assurances de Paris,False,,,,,,
+024016,Chinese Estates Holdings Ltd.,False,,,,,,
+024049,FS Energy and Power Fund,False,FS ENERGY AND POWER FUND,6797,523910,,,USA
+024052,Allianz France,False,,,,,,
+024052,Assurances Generales de France (AGF),False,,,,,,
+024055,Keiyo Bank Ltd.,False,,,,,,
+024057,Toho Bank Ltd.,False,,,,,,
+024207,Higo Bank Ltd.,False,,,,,,
+024512,Commonwealth Bank of Australia,False,COMMONWEALTH BANK AUSTRALIA,6020,522110,810,800,AUS
+024562,Bayerische Landesbank,False,,,,,,
+024563,Credit Agricole S.A.,False,CREDIT AGRICOLE SA,6020,522110,810,800,FRA
+024564,Banca Popolare di Milano SCRL,False,,,,,,
+024566,Chuo Mitsui Trust & Banking Co. Ltd.,False,,,,,,
+024566,Mitsui Trust & Banking Co. Ltd.,False,,,,,,
+024567,Credit Industriel et Commercial,False,,,,,,
+024569,Hyakujushi Bank Ltd.,False,,,,,,
+024570,Juroku Bank Ltd.,False,,,,,,
+024571,Nanto Bank Ltd.,False,,,,,,
+024573,Yamaguchi Bank Ltd.,False,,,,,,
+024577,Portigon AG,False,,,,,,
+024580,Shoko Chukin Bank,False,,,,,,
+024582,Norinchukin Bank,False,,,,,,
+024584,Banca Monte dei Paschi di Siena SpA,False,,,,,,
+024585,Landeskreditbank Baden-Wuerttemberg - Foerderbank - (L-Bank),False,,,,,,
+024585,L-BANK Landeskreditbank Baden-Wuerttemberg,False,,,,,,
+024588,KfW,False,,,,,,
+024591,Hamburg Commercial Bank AG,False,,,,,,
+024591,Hamburgische Landesbank Girozentrale,False,,,,,,
+024594,DekaBank Deutsche Girozentrale,False,,,,,,
+024602,Natexis Banque,False,,,,,,
+024603,SEB AG,False,,,,,,
+024605,ASLK-CGER Bank,False,,,,,,
+025251,NH Investment & Securities Co. Ltd.,False,,,,,,
+025252,Hanil Bank,False,,,,,,
+025253,SeoulBank,False,,,,,,
+025253,Hana Bank,False,,,,,,
+025253,Hana Bank (Old),False,,,,,,
+025256,Mirae Asset Securities Co. Ltd.,False,,,,,,
+025258,KEB Hana Bank,False,,,,,,
+025259,iM Bank,False,,,,,,
+025261,"Commercial Bank of Korea, Ltd.",False,,,,,,
+025607,Krung Thai Bank Public Co. Ltd.,False,,,,,,
+025609,Bangkok Bank Public Co. Ltd.,False,BANGKOK BANK PCL,6020,522110,810,800,THA
+025610,Bank of Ayudhya Public Co. Ltd.,False,,,,,,
+025842,Standard Chartered Bank Korea Ltd.,False,,,,,,
+025885,Capitalia SpA,False,,,,,,
+025888,OMX AB,False,,,,,,
+027833,KASIKORNBANK PCL,False,KASIKORNBANK PCL,6020,522110,810,800,THA
+028032,AachenMuenchener Lebensversicherung AG,False,,,,,,
+028569,Credito Bergamasco,False,,,,,,
+028839,NH Hotel Group S.A.,False,,,,,,
+029379,Kagoshima Bank Ltd.,False,,,,,,
+029532,C.A. La Electricidad De Caracas,False,,,,,,
+030238,AG Australia Holdings Ltd.,False,,,,,,
+030282,Manila Electric Company,False,,,,,,
+030485,Landwirtschaftliche Rentenbank,False,,,,,,
+030486,Ogaki Kyoritsu Bank Ltd.,False,,,,,,
+030487,Shiga Bank Ltd.,False,,,,,,
+030505,Halifax Group PLC,False,HBOS PLC,6036,522120,810,800,GBR
+030505,HBOS PLC,False,HBOS PLC,6036,522120,810,800,GBR
+030508,Kiyo Bank Ltd.,False,,,,,,
+030509,San-in Godo Bank Ltd.,False,,,,,,
+030511,Fundacion Bancaria Caja de Ahorros y Pensiones de Barcelona,False,,,,,,
+030513,Dexia Crediop SpA,False,,,,,,
+030515,Nationwide Building Society,False,,,,,,
+030516,Alliance & Leicester PLC,False,,,,,,
+030517,Woolwich PLC,False,,,,,,
+030519,Credit Agricole Corporate and Investment Bank,False,,,,,,
+030520,Caisse des Depots et Consignations,False,,,,,,
+030521,Landesbank Hessen-Thueringen Girozentrale,False,,,,,,
+030523,Oesterreichische Kontrollbank AG,False,,,,,,
+030525,Credit du Nord S.A.,False,,,,,,
+030543,Rolo Banca 1473 SpA,False,,,,,,
+030553,Bank of Taiwan,False,,,,,,
+030579,Bank Hapoalim B.M.,False,BANK HAPOALIM B M,6020,522110,810,800,ISR
+030581,Banco do Brasil S.A.,False,BANCO DO BRASIL,6020,522110,810,800,BRA
+030725,Polyus PJSC,False,POLYUS PJSC,1040,212221,,,RUS
+030875,Caja de Ahorros y Monte de Piedad de Madrid,False,,,,,,
+031071,Taisei Fire & Marine Insurance Co. Ltd.,False,,,,,,
+031073,Oita Bank Ltd.,False,,,,,,
+031076,Michinoku Bank Ltd.,False,,,,,,
+031079,Bank of Ikeda Ltd.,False,,,,,,
+031080,Bank of Iwate Ltd.,False,,,,,,
+031084,Aomori Bank Ltd.,False,,,,,,
+031087,North Pacific Bank Ltd.,False,,,,,,
+031160,First Commercial Bank Ltd.,False,,,,,,
+031160,First Financial Holding Co. Ltd.,False,,,,,,
+031161,TMBThanachart Bank Public Co. Ltd.,False,,,,,,
+031207,GCC S.A.B. de C.V.,False,,,,,,
+031646,Banco de Credito del Peru,False,,,,,,
+031647,Banco Espirito Santo S.A.,False,BANCO ESPIRITO SANTO SA,6020,522110,810,800,PRT
+031649,Chang Hwa Commercial Bank Ltd.,False,,,,,,
+031650,Depfa Deutsche Pfandbriefbank AG,False,,,,,,
+031902,SCE Trust VI,False,SCE TRUST VI,6726,525990,,,USA
+032252,La Quinta Holdings Inc.,False,,,,,,
+032421,Auction.com LLC,False,,,,,,
+032422,Traverse Midstream Partners LLC,False,,,,,,
+032423,"Anvil International, LLC",False,,,,,,
+032424,BCP Renaissance Parent LLC,False,,,,,,
+032425,Badger Intermediate Holdings LLC,False,,,,,,
+032426,Auction.com Holding Co. Inc.,False,,,,,,
+032863,Sea Containers Ltd.,False,SEACO LTD,4011,482111,,,BMU
+033150,ConvergeOne Holdings Inc.,False,CONVERGEONE HOLDINGS INC,7370,519130,,,USA
+033484,Fusion Connect Inc.,False,FUSION CONNECT INC,4899,517919,,,USA
+035359,"Cadence Bank, N.A.",False,,,,,,
+035443,Hexion Holdings Corp.,False,HEXION HLDGS CORP,2820,3251,,,USA
+036107,KLDiscovery Inc.,False,KLDISCOVERY INC,7370,54151,,,USA
+039956,Cyxtera DC Holdings Inc.,False,APPGATE INC,7372,511210,,,USA
+040599,Monitronics International Inc.,False,MONITRONICS INTL INC,7380,561621,,,USA
+043315,Apollo Asset Management Inc.,False,APOLLO ASSET MANAGEMENT INC,6282,523940,,,USA
+043362,Sandoz Group AG,False,SANDOZ GROUP AG,2834,325412,,,CHE
+043615,SCE Trust VII,False,SCE TRUST VII,6726,525990,,,USA
+045318,SCE Trust VIII,False,SCE TRUST VIII,6726,525990,,,USA
+062410,Alpha Services and Holdings S.A.,False,,,,,,
+062410,Alpha Bank A.E.,False,,,,,,
+062806,Mosenergo PJSC,False,MOSENERGO PJSC,4991,22111,705,700,RUS
+063387,Vilniaus Bankas,False,,,,,,
+064297,Security Capital U.S. Realty,False,,,,,,
+065025,Philippine National Bank,False,,,,,,
+100001,Accor S.A.,False,ACCOR SA,7011,721110,310,976,FRA
+100012,Mitsubishi Heavy Industries Ltd.,False,MITSUBISHI HEAVY INDUST LTD,3510,333,355,925,JPN
+100022,BMW AG,False,BAYERISCHE MOTOREN WERKE AKT,3711,336111,120,976,DEU
+100037,Linde GmbH,False,LINDE AG,2810,325120,355,925,DEU
+100042,MAN SE,False,,,,,,
+100045,Smiths Group PLC,False,SMITHS GROUP PLC,3812,334511,220,925,GBR
+100048,Fanuc Ltd.,False,FANUC CORP,3559,333249,220,925,JPN
+100050,Genting Bhd.,False,GENTING BHD,7990,713,310,976,MYS
+100053,Coal & Allied Industries Ltd.,False,,,,,,
+100054,HOCHTIEF AG,False,HOCHTIEF AG,1540,2362,240,925,DEU
+100060,Travis Perkins PLC,False,,,,,,
+100061,Evonik Degussa GmbH,False,,,,,,
+100082,Comptoirs Modernes S.A.,False,,,,,,
+100102,Bilfinger SE,False,,,,,,
+100104,Seiyu Ltd.,False,,,,,,
+100111,Pilkington PLC,False,,,,,,
+100115,BTR Nylex Ltd.,False,,,,,,
+100116,Legrand France,False,,,,,,
+100131,Tesco PLC,False,TESCO PLC,5399,452311,440,978,GBR
+100140,Nissin Food Products Co. Ltd.,False,,,,,,
+100144,Nissho Iwai Corp.,False,,,,,,
+100149,Next PLC,False,NEXT PLC,5651,448140,452,976,GBR
+100153,Nippon Yusen KK,False,NIPPON YUSEN KABUSHIKI KAISH,4731,483111,612,600,JPN
+100155,Nippon Steel Corp.,False,NIPPON STEEL CORP,3312,331110,460,970,JPN
+100156,Matsushita Electric Works Ltd.,False,,,,,,
+100158,Nippon Oil Co. Ltd.,False,,,,,,
+100181,Vodafone Holding GmbH,False,,,,,,
+100182,Sarawak Energy Bhd.,False,,,,,,
+100192,Coca-Cola Amatil Ltd.,False,COCA-COLA AMATIL LTD,2086,312111,145,978,AUS
+100194,Japan Energy Corp.,False,,,,,,
+100194,Nippon Mining Holdings Inc.,False,,,,,,
+100199,Big Food Group PLC (The),False,,,,,,
+100208,Nippon Meat Packers Inc.,False,,,,,,
+100221,Mycal Corp.,False,,,,,,
+100226,Murata Manufacturing Co. Ltd.,False,MURATA MANUFACTURING CO LTD,3670,3344,235,940,JPN
+100234,Amada Co. Ltd.,False,AMADA CO LTD,3540,3335,355,925,JPN
+100235,ALPS Electric Co. Ltd.,False,ALPS ALPINE CO LTD,3670,3344,220,925,JPN
+100247,All Nippon Airways Co. Ltd.,False,,,,,,
+100251,AGL Energy Ltd.,False,AGL ENERGY,4932,221210,710,700,AUS
+100253,Ajinomoto Co. Inc.,False,AJINOMOTO CO INC,2030,3114,250,978,JPN
+100259,AGC Inc.,False,AGC INC,3211,327211,355,925,JPN
+100272,Kokuyo Co. Ltd.,False,,,,,,
+100276,Kobe Steel Ltd.,False,KOBE STEEL LTD,3310,331110,460,970,JPN
+100288,Kawasaki Heavy Industries Ltd.,False,KAWASAKI HEAVY INDUSTR LTD,3790,336,355,925,JPN
+100290,Ono Pharmaceutical Co. Ltd.,False,ONO PHARMACEUTICAL CO LTD,2834,325412,285,905,JPN
+100298,BPB PLC,False,,,,,,
+100302,Kansai Electric Power Co. Inc.,False,KANSAI ELECTRIC POWER CO,4911,2211,705,700,JPN
+100306,Kaneka Corp.,False,,,,,,
+100312,Rheinmetall AG,False,RHEINMETALL AG,3480,332994,355,925,DEU
+100336,Daiichi Sankyo Co. Ltd.,False,DAIICHI SANKYO COMPANY LTD,2834,325412,285,905,JPN
+100346,Carrefour S.A.,False,CARREFOUR SA,5399,452311,440,978,FRA
+100351,Deutsche Erdoel AG,False,,,,,,
+100360,Safeway PLC,False,,,,,,
+100362,IHI Corp.,False,,,,,,
+100365,Hokkaido Electric Power Co. Inc.,False,,,,,,
+100369,Bridgestone Corp.,False,BRIDGESTONE CORP,3011,326211,130,976,JPN
+100373,Heidelberg Materials AG,False,HEIDELBERG MATERIALS AG,3241,327310,202,970,DEU
+100376,Signature Aviation PLC,False,SIGNATURE AVIATION PLC,4581,488190,620,600,GBR
+100382,Daicel Chemical Industries Ltd.,False,,,,,,
+100385,Denki Kagaku Kogyo KK,False,,,,,,
+100393,Hitachi Metals Ltd.,False,,,,,,
+100408,Ebara Corp.,False,,,,,,
+100412,Fujisawa Pharmaceutical Co. Ltd.,False,,,,,,
+100431,Hapag-Lloyd AG,False,HAPAG-LLOYD AG,4412,483111,620,600,DEU
+100433,HOYA Corp.,False,HOYA CORP,3851,339115,230,940,JPN
+100435,Itochu Corp.,False,ITOCHU CORP,5000,42,355,925,JPN
+100439,Chugoku Electric Power Co. Inc.,False,CHUGOKU ELECTRIC POWER CO,4911,2211,705,700,JPN
+100441,Chugai Pharmaceutical Co. Ltd.,False,CHUGAI PHARMACEUTICAL CO LTD,2834,325412,285,905,JPN
+100442,Orica Ltd.,False,ORICA LTD,2890,325920,167,970,AUS
+100444,Nippon Paper Group Inc.,False,,,,,,
+100444,Nippon Paper Industries Co. Ltd.,False,,,,,,
+100449,KUKA AG,False,,,,,,
+100450,Chubu Electric Power Co. Inc.,False,,,,,,
+100454,Australian National Industries Ltd.,False,,,,,,
+100461,Brambles Ltd.,False,BRAMBLES LTD,7359,532490,175,976,AUS
+100471,Email Ltd.,False,,,,,,
+100472,SABMiller PLC,False,SABMILLER PLC,2082,312120,140,978,GBR
+100476,Incitec Ltd.,False,,,,,,
+100486,Nikon Corp.,False,NIKON CORP,3827,333314,235,940,JPN
+100488,Kyushu Electric Power Co. Inc.,False,,,,,,
+100490,Konica Minolta Holdings Inc.,False,KONICA MINOLTA INC,3861,333310,403,940,JPN
+100490,Konica Corp.,False,KONICA MINOLTA INC,3861,333310,403,940,JPN
+100516,Kyowa Hakko Kogyo Co. Ltd.,False,,,,,,
+100519,Brother Industries Ltd.,False,BROTHER INDUSTRIES LTD,3570,3341,190,940,JPN
+100522,Mitsui Fudosan Co. Ltd.,False,,,,,,
+100526,Isetan Co. Ltd.,False,,,,,,
+100545,Marubeni Corp.,False,MARUBENI CORP,5000,421,475,976,JPN
+100547,Marui Group Co. Ltd.,False,MARUI GROUP CO LTD,6141,522291,430,976,JPN
+100548,Mazda Motor Corp.,False,MAZDA MOTOR CORP,3711,336111,120,976,JPN
+100551,Minolta Co. Ltd.,False,,,,,,
+100552,Misawa Homes Co. Ltd.,False,,,,,,
+100555,Mitsubishi Corp.,False,MITSUBISHI CORP,5099,423990,475,976,JPN
+100562,Swire Pacific Ltd.,False,SWIRE PACIFIC LTD,9997,999977,605,600,HKG
+100563,Mitsubishi Gas Chemical Co. Inc.,False,,,,,,
+100565,Mitsubishi Materials Corp.,False,,,,,,
+100566,Mitsubishi Oil Co. Ltd.,False,,,,,,
+100569,Mitsubishi Logistics Corp.,False,,,,,,
+100574,Mitsui O.S.K. Lines Ltd.,False,MITSUI OSK LINES LTD,4412,483111,612,600,JPN
+100583,Maeda Corp.,False,,,,,,
+100625,Uny Co. Ltd.,False,,,,,,
+100639,Sapporo Holdings Ltd.,False,,,,,,
+100640,Sekisui Chemical Co. Ltd.,False,,,,,,
+100641,Stanley Electric Co. Ltd.,False,,,,,,
+100650,Weir Group PLC (The),False,WEIR GROUP PLC,3561,333914,345,925,GBR
+100658,Tokyo Electron Ltd.,False,TOKYO ELECTRON LTD,3559,333242,247,940,JPN
+100660,Tokyu Corp.,False,,,,,,
+100661,Tokyu Department Store Co. Ltd.,False,,,,,,
+100665,CLP Holdings Ltd.,False,CLP HOLDINGS LTD,4991,2211,705,700,HKG
+100670,Yamato Holdings Co. Ltd.,False,,,,,,
+100671,Yokogawa Electric Corp.,False,,,,,,
+100672,Mitsubishi Pharma Corp.,False,,,,,,
+100676,TUI AG,False,TUI AG,4700,561510,620,600,DEU
+100683,Nitto Denko Corp.,False,NITTO DENKO CORP,3080,325520,220,925,JPN
+100686,Olympus Corp.,False,OLYMPUS CORP,3845,334510,230,940,JPN
+100688,Tokyo Electric Power Co. Holdings Inc.,False,TOKYO ELECTRIC POWER CO HOLD,4911,2211,705,700,JPN
+100688,Tokyo Electric Power Co. Inc.,False,TOKYO ELECTRIC POWER CO HOLD,4911,2211,705,700,JPN
+100689,Sumitomo Chemical Co. Ltd.,False,SUMITOMO CHEMICAL CO LTD,2800,325,160,970,JPN
+100690,Tohoku Electric Power Co. Inc.,False,,,,,,
+100691,Nippon Express Co. Ltd.,False,,,,,,
+100692,Nippon Sheet Glass Co. Ltd.,False,,,,,,
+100694,Sumitomo Heavy Industries Ltd.,False,SUMITOMO HEAVY INDUSTRIES,3530,333,345,925,JPN
+100696,Showa Denko KK,False,RESONAC HOLDINGS CORPORATION,2800,325,160,970,JPN
+100697,Shin-Etsu Chemical Co. Ltd.,False,SHIN-ETSU CHEMICAL CO LTD,2860,3251,167,970,JPN
+100702,Ushio Inc.,False,,,,,,
+100721,Oki Electric Industry Co. Ltd.,False,,,,,,
+100724,Toray Industries Inc.,False,TORAY INDUSTRIES INC,2820,3252,468,976,JPN
+100729,Toppan Printing Co. Ltd.,False,TOPPAN HOLDINGS INC,2750,32311,458,978,JPN
+100736,K+S AG,False,K&S AG,2870,32531,202,970,DEU
+100744,Holmen AB,False,,,,,,
+100746,Ceconomy AG,False,CECONOMY AG,5399,452311,430,976,DEU
+100746,Metro AG (old before demerger),False,CECONOMY AG,5399,452311,430,976,DEU
+100749,Douglas Holding AG,False,,,,,,
+100764,Suedzucker AG,False,,,,,,
+100798,Clondalkin Industries Ltd.,False,,,,,,
+100799,Mitsubishi Chemical Corp.,False,,,,,,
+100799,Mitsubishi Rayon Co. Ltd.,False,,,,,,
+100801,Kerry Group PLC,False,KERRY GROUP PLC,2090,3119,250,978,IRL
+100810,Eridania Beghin-Say,False,,,,,,
+100834,Ciba-Geigy Ltd.,False,,,,,,
+100838,Xstrata Queensland Ltd.,False,MIM HOLDINGS LTD,1000,212,360,970,AUS
+100846,Osaka Gas Co. Ltd.,False,,,,,,
+100848,Tokyo Gas Co. Ltd.,False,TOKYO GAS CO LTD,4923,221210,710,700,JPN
+100859,Southcorp Ltd.,False,,,,,,
+100894,Woolworths Group Ltd.,False,,,,,,
+100906,NGK Insulators Ltd.,False,,,,,,
+100912,Stora Kopparbergs Bergslags AB,False,,,,,,
+100918,Lend Lease Group,False,LENDLEASE GROUP,6500,531,305,976,AUS
+100919,Obayashi Corp.,False,,,,,,
+100926,Sekisui House Ltd.,False,SEKISUI HOUSE LTD,1520,236,240,925,JPN
+100942,Reno De Medici SpA,False,,,,,,
+100949,Taisei Corp.,False,TAISEI CORP,1540,2362,240,925,JPN
+100954,Moeve,False,,,,,,
+100957,Iberdrola S.A.,False,IBERDROLA SA,4911,2211,705,700,ESP
+100982,Shimizu Corp.,False,,,,,,
+100992,Kansai Paint Co. Ltd.,False,,,,,,
+100993,Goodman Fielder Ltd.,False,,,,,,
+101004,DS Smith PLC,False,,,,,,
+101017,Metsa Board Corp.,False,,,,,,
+101034,Kurita Water Industries Ltd.,False,,,,,,
+101035,NGK Spark Plug Co. Ltd.,False,,,,,,
+101040,JSR Corp.,False,JSR CORPORATION,2820,32521,167,970,JPN
+101042,Kawasaki Kisen Kaisha Ltd.,False,,,,,,
+101044,Nippon Sanso Corp.,False,,,,,,
+101052,EMAP PLC,False,,,,,,
+101052,Ascential Holdings Ltd.,False,,,,,,
+101064,Brake Bros Ltd.,False,,,,,,
+101068,Sumitomo Bakelite Co. Ltd.,False,,,,,,
+101069,Teijin Ltd.,False,,,,,,
+101070,Hankyu Hanshin Holdings Inc.,False,,,,,,
+101074,Skylark Co. Ltd.,False,,,,,,
+101083,Saipem SpA,False,SAIPEM S P A,1382,213112,620,600,ITA
+101086,Snow Brand Milk Products Co. Ltd.,False,,,,,,
+101097,Bouygues S.A.,False,BOUYGUES SA,1600,237,463,974,FRA
+101103,Kowloon Motor Bus Co. (1933) Ltd. (The),False,,,,,,
+101110,Lion Corp.,False,,,,,,
+101127,Mitsui Chemicals Inc.,False,,,,,,
+101138,Daikin Industries Ltd.,False,DAIKIN INDUSTRIES LTD,3585,333415,345,925,JPN
+101143,Italcementi SpA,False,ITALCEMENTI SPA,3270,3273,202,970,ITA
+101154,Zeon Corp.,False,,,,,,
+101155,Suzuki Motor Corp.,False,SUZUKI MOTOR CO LTD,3711,336111,120,976,JPN
+101160,Sumitomo Osaka Cement Co. Ltd.,False,,,,,,
+101161,GELSENWASSER AG,False,,,,,,
+101163,FKI PLC,False,,,,,,
+101173,Casino Guichard - Perrachon S.A.,False,,,,,,
+101185,Takara Holdings Inc.,False,,,,,,
+101187,Dragados SA,False,,,,,,
+101209,Altadis S.A.,False,,,,,,
+101214,Sumitomo Warehouse Co. Ltd.,False,,,,,,
+101222,Ciments Francais S.A.,False,,,,,,
+101239,Lion Nathan Pty Ltd.,False,,,,,,
+101240,BAA Ltd.,False,,,,,,
+101247,Kuraray Co. Ltd.,False,KURARAY CO LTD,2800,325,167,970,JPN
+101248,EssilorLuxottica,False,ESSILORLUXOTTICA SOCIETE,3851,339115,300,905,FRA
+101277,Compagnie Generale des Etablissements Michelin S.C.A.,False,COMPAGNIE GENERALE DES,3011,326211,130,976,FRA
+101301,Scottish & Newcastle PLC,False,,,,,,
+101302,Synthomer PLC,False,,,,,,
+101304,Holcim Ltd,False,HOLCIM LTD,3241,327310,202,970,CHE
+101305,Safran SA,False,SAFRAN SA,3724,336412,180,940,FRA
+101315,Arnotts Ltd.,False,,,,,,
+101320,Spie S.A.,False,,,,,,
+101328,Alusuisse Group Ltd.,False,,,,,,
+101330,Union Fenosa S.A.,False,,,,,,
+101336,Schneider Electric S.E.,False,SCHNEIDER ELECTRIC S E,3612,335311,705,700,FRA
+101350,Sika AG,False,SIKA AG,2891,325520,167,970,CHE
+101359,Tobu Railway Co. Ltd.,False,,,,,,
+101364,Cementir Holding N.V.,False,,,,,,
+101377,Seino Transportation Co. Ltd.,False,,,,,,
+101394,Solvay S.A.,False,SOLVAY SA,2800,325,167,970,BEL
+101396,Pernod Ricard S.A.,False,PERNOD RICARD SA,2084,312130,145,978,FRA
+101406,Bull (Groupe),False,,,,,,
+101407,DIC Corp.,False,,,,,,
+101420,Capral Aluminium Ltd.,False,,,,,,
+101448,Mitsui Engineering & Shipbuilding Co. Ltd.,False,,,,,,
+101467,Vallourec,False,VALLOUREC SA,3533,333132,460,970,FRA
+101472,Carter Holt Harvey Ltd.,False,,,,,,
+101513,St Barbara Ltd.,False,ST BARBARA LTD,1040,212221,265,970,AUS
+101538,Coloplast A/S,False,COLOPLAST A/S,3842,339113,300,905,DNK
+101556,Norske Skogindustrier ASA,False,NORSKE SKOGINDUSTRIER A/S,2821,322122,400,970,NOR
+101563,L E Lundbergforetagen AB,False,,,,,,
+101569,Interplex Holdings Pte. Ltd.,False,,,,,,
+101601,Wesfarmers Ltd.,False,WESFARMERS LTD,5399,455219,450,976,AUS
+101602,Daiichi Pharmaceutical Co. Ltd.,False,,,,,,
+101603,CIMIC Group Ltd.,False,,,,,,
+101605,Reece Ltd.,False,,,,,,
+101612,Gruppo Editoriale L'Espresso SpA,False,,,,,,
+101613,Nufarm Ltd.,False,,,,,,
+101634,Dyckerhoff AG,False,,,,,,
+101651,Hirose Electric Co. Ltd.,False,,,,,,
+101652,Tosoh Corp.,False,,,,,,
+101714,Huhtamaki Oyj,False,,,,,,
+101732,FNAC Darty SA,False,,,,,,
+101746,Nichimen Corp.,False,,,,,,
+101748,Kanematsu Corp.,False,,,,,,
+101750,Ube Industries Ltd.,False,,,,,,
+101754,Nippon Electric Glass Co. Ltd.,False,,,,,,
+101757,Nishimatsu Construction Co. Ltd.,False,,,,,,
+101759,Toyota Industries Corp.,False,TOYOTA INDUSTRIES CORP,3530,333923,120,976,JPN
+101766,Hitachi Zosen Corp.,False,,,,,,
+101769,Shikoku Electric Power Co. Inc.,False,,,,,,
+101778,Showa Shell Sekiyu KK,False,,,,,,
+101779,Tokyo Broadcasting System Inc.,False,,,,,,
+101780,JGC Corp.,False,JGC HOLDINGS CORP,8711,541330,240,925,JPN
+101784,Hutchison Whampoa Ltd.,False,HUTCHISON WHAMPOA LTD,9997,999977,355,925,HKG
+101788,Nisshin Seifun Group Inc.,False,,,,,,
+101811,Compagnie de Saint-Gobain,False,COMPAGNIE DE SAINT GOBAIN,5200,444,205,925,FRA
+101830,Teikoku Oil Co. Ltd.,False,,,,,,
+101846,Sumitomo Corp.,False,SUMITOMO CORP,5090,4239,475,976,JPN
+101851,Fuji Electric Holdings Co. Ltd.,False,FUJI ELECTRIC CO LTD,3620,3353,220,925,JPN
+101866,Meiji Dairies Corp.,False,,,,,,
+101877,Sime Darby Bhd.,False,,,,,,
+101892,Nippon Paint Co. Ltd.,False,,,,,,
+101902,Yakult Honsha Co. Ltd.,False,,,,,,
+101915,Izumiya Co. Ltd.,False,,,,,,
+101932,Kikkoman Corp.,False,KIKKOMAN CORP,2030,311941,250,978,JPN
+101937,Gildemeister AG,False,,,,,,
+101939,Toda Corp.,False,,,,,,
+101940,Toyota Tsusho Corp.,False,,,,,,
+101941,Keisei Electric Railway Co. Ltd.,False,,,,,,
+101942,Henkel AG & Co. KGaA,False,HENKEL AG & CO KGAA,2840,3256,320,978,DEU
+101944,Capgemini SE,False,CAPGEMINI SE,7370,5415,185,940,FRA
+101947,Hankyu Department Stores Inc.,False,,,,,,
+101951,Mitsui Mining & Smelting Co. Ltd.,False,,,,,,
+101953,Toyo Ink Mfg. Co. Ltd.,False,,,,,,
+101985,Nippon TV Network,False,,,,,,
+101986,Nippon Shokubai Co. Ltd.,False,,,,,,
+102017,E.ON Sverige AB,False,,,,,,
+102021,Toho Gas Co. Ltd.,False,,,,,,
+102071,Vifor Pharma AG,False,,,,,,
+102075,Odakyu Electric Railway Co. Ltd.,False,,,,,,
+102106,China Overseas Grand Oceans Group Ltd.,False,,,,,,
+102138,MISC Bhd.,False,,,,,,
+102146,Terumo Corp.,False,TERUMO CORP,3841,339112,300,905,JPN
+102155,Sumitomo Forestry Co. Ltd.,False,,,,,,
+102163,Safilo SpA,False,,,,,,
+102200,Metal Manufactures Ltd.,False,,,,,,
+102203,Yokohama Rubber Co. Ltd.,False,,,,,,
+102225,BIL International Ltd.,False,,,,,,
+102234,Air New Zealand Ltd.,False,,,,,,
+102240,Aisin Corp.,False,,,,,,
+102245,Daifuku Co. Ltd.,False,,,,,,
+102250,Hugo Boss AG,False,HUGO BOSS AG,2300,315,465,976,DEU
+102255,Takashimaya Co. Ltd.,False,,,,,,
+102256,Mori Seiki Co. Ltd.,False,,,,,,
+102258,"Kamigumi Co., Ltd.",False,,,,,,
+102260,ITV PLC,False,ITV PLC,4833,515120,150,978,GBR
+102267,Webuild SpA,False,,,,,,
+102269,NTN Corp.,False,,,,,,
+102274,CEMEX Espana S.A.,False,,,,,,
+102276,H & M Hennes & Mauritz AB,False,HENNES & MAURITZ AB,5621,448120,452,976,SWE
+102278,House Foods Corp.,False,,,,,,
+102296,Vinci S.A.,False,VINCI SA,1600,237,240,925,FRA
+102299,Forvia SE,False,,,,,,
+102311,Hokuriku Electric Power Co.,False,,,,,,
+102317,Buzzi SpA,False,,,,,,
+102357,COREALCREDIT BANK AG,False,,,,,,
+102373,Mitsubishi Motors Corp.,False,,,,,,
+102377,Bank Vontobel AG,False,,,,,,
+102398,QCT Resources Ltd.,False,,,,,,
+102414,Kinden Corp.,False,,,,,,
+102441,Daimaru Inc.,False,,,,,,
+102454,DSM-Firmenich AG,False,DSM FIRMENICH AG,2800,325,167,970,CHE
+102456,Central Glass Co. Ltd.,False,,,,,,
+102461,Calsonic Kansei Corp.,False,,,,,,
+102473,TonenGeneral Sekiyu KK,False,,,,,,
+102477,Finnair Oyj,False,,,,,,
+102503,Toyo Seikan Kaisha Ltd.,False,,,,,,
+102532,Kintetsu Corp.,False,,,,,,
+102550,Johnson Electric Holdings Ltd.,False,JOHNSON ELECTRIC HOLDINGS,3690,3359,220,925,BMU
+102551,Sumitomo Rubber Industries Ltd.,False,,,,,,
+102559,Nagasakiya Co. Ltd.,False,,,,,,
+102566,Babcock International Group PLC,False,,,,,,
+102570,Campofrio Food Group S.A.U.,False,,,,,,
+102574,Kingspan Group plc,False,KINGSPAN GROUP PLC,3440,3323,155,976,IRL
+102596,Glanbia PLC,False,GLANBIA PLC,2834,325412,250,978,IRL
+102602,Ipreo Holdings LLC,False,,,,,,
+102603,Severn Trent PLC,False,SEVERN TRENT PLC,4941,221310,725,700,GBR
+102605,Sumitomo Realty & Development Co. Ltd.,False,,,,,,
+102608,SIG Group AG,False,,,,,,
+102609,Toyo Suisan Kaisha Ltd.,False,TOYO SUISAN KAISHA LTD,2000,311,250,978,JPN
+102620,Ibiden Co. Ltd.,False,,,,,,
+102629,Abertis Infraestructuras S.A.,False,,,,,,
+102635,RWE Thames Water PLC,False,,,,,,
+102640,Mabuchi Motor Co. Ltd.,False,,,,,,
+102649,Hyder Ltd.,False,,,,,,
+102655,Katokichi Co. Ltd.,False,,,,,,
+102660,Fukuyama Transporting Co. Ltd.,False,,,,,,
+102666,Wessex Water Services Ltd.,False,,,,,,
+102675,Getronics N.V.,False,,,,,,
+102694,Kelda Group Ltd.,False,,,,,,
+102700,Morinaga Milk Industry Co. Ltd.,False,,,,,,
+102705,Southern Water Services Ltd.,False,,,,,,
+102717,Fujikura Ltd.,False,,,,,,
+102722,Schmolz + Bickenbach AG,False,,,,,,
+102730,Daily Mail & General Trust PLC,False,,,,,,
+102734,Keio Corp.,False,,,,,,
+102743,Mundys SpA,False,ATLANTIA SPA,4700,488490,620,600,ITA
+102744,Toho Co. Ltd.,False,,,,,,
+102753,Sankyu Inc.,False,,,,,,
+102761,Mitsui-Soko Co. Ltd.,False,,,,,,
+102765,Imerys SA,False,,,,,,
+102787,Keihin Electric Express Railway Co. Ltd.,False,,,,,,
+102797,Verbund AG,False,VERBUND AG,4911,2211,705,700,AUT
+102811,EEW Energy from Waste GmbH,False,,,,,,
+102813,Prosegur Compania De Seguridad S.A.,False,,,,,,
+102847,Seibu Railway Co. Ltd.,False,,,,,,
+102902,Compagnie Financiere Richemont S.A.,False,COMPAGNIE FINANCIERE RICHEMO,3911,339910,452,976,CHE
+102903,Caltex Australia Ltd.,False,AMPOL LTD,2911,324110,390,935,AUS
+102915,SSAB AB,False,SSAB CORP,3310,3312,460,970,SWE
+102968,Wienerberger AG,False,,,,,,
+103036,Industrivarden AB,False,,,,,,
+103039,Komori Corp.,False,,,,,,
+103043,Nichirei Corp.,False,,,,,,
+103053,Rohm Co. Ltd.,False,ROHM CO LTD,3674,334413,235,940,JPN
+103084,Newcrest Mining Ltd.,False,NEWCREST MINING LTD,1040,212221,265,970,AUS
+103103,SNAITECH SpA,False,,,,,,
+103106,Stena Line AB,False,,,,,,
+103133,EVN AG,False,,,,,,
+103143,TXU Europe Ltd.,False,,,,,,
+103144,EDF Energy Ltd.,False,,,,,,
+103148,Northern Electric PLC,False,,,,,,
+103152,National Grid Electricity Distribution (South West) PLC,False,,,,,,
+103153,Yorkshire Electricity Group PLC,False,,,,,,
+103165,Compagnie de Navigation Mixte,False,,,,,,
+103172,Wendel SE,False,WENDEL,9998,999988,210,970,FRA
+103176,Thyssenkrupp AG,False,THYSSENKRUPP AG,3390,331,460,970,DEU
+103182,Johnston Press PLC,False,,,,,,
+103193,Strabag SE,False,,,,,,
+103204,ASG Technologies Group Inc.,False,,,,,,
+103204,Allen Systems Group Inc.,False,,,,,,
+103212,ESCADA AG,False,,,,,,
+103228,Keyence Corp.,False,KEYENCE CORP,3829,334519,230,940,JPN
+103255,Bertelsmann SE & Co. KGaA,False,,,,,,
+103260,Rexel S.A.,False,REXEL SA,5063,423610,222,940,FRA
+103264,OPmobility SE,False,,,,,,
+103292,A.P. Moller - Maersk A/S,False,A.P. MOLLER - MAERSK A/S,4412,483111,612,600,DNK
+103332,Pasminco Ltd.,False,,,,,,
+103533,Sixt SE,False,,,,,,
+103562,Seven-Eleven Japan Co. Ltd.,False,,,,,,
+103613,Sociedad General de Aguas de Barcelona S.A.,False,,,,,,
+103830,Sega Corp.,False,,,,,,
+103850,Genting Malaysia Bhd.,False,GENTING MALAYSIA BHD,7990,7132,310,976,MYS
+103895,Remy Cointreau S.A.,False,REMY COINTREAU SA,2084,312140,140,978,FRA
+103912,IOI Corp. Bhd.,False,,,,,,
+103936,ASM Pacific Technology Ltd.,False,,,,,,
+104129,Telekom Malaysia Bhd.,False,,,,,,
+104346,Flagstone Alliance Insurance & Reinsurance PLC,False,,,,,,
+104356,H&K AG,False,,,,,,
+104357,Kabel Deutschland Holding AG,False,,,,,,
+104364,Tele Columbus AG,False,,,,,,
+104398,Newmont Australia Ltd.,False,NORMANDY MINING LTD,1040,212221,265,970,AUS
+104544,Federal Grid Co. of the Unified Energy System,False,,,,,,
+104546,Ingosstrakh Insurance Co.,False,,,,,,
+104548,Promsvyazbank PJSC,False,,,,,,
+104558,Advanced Info Service Public Co. Ltd.,False,ADVANCED INFO SERVICE PCL,4899,517312,462,974,THA
+104579,Al Khazna Insurance Co.,False,,,,,,
+104584,GS Engineering & Construction Corp.,False,,,,,,
+104587,Daelim Industrial Co. Ltd.,False,,,,,,
+104593,Hyundai Steel Co.,False,,,,,,
+104604,Samsung Electronics Co. Ltd.,False,SAMSUNG ELECTRONICS CO LTD,3674,334413,220,925,KOR
+104605,KCC Corp.,False,,,,,,
+104606,Kia Corp.,False,,,,,,
+104607,Hyundai Motor Co.,False,HYUNDAI MOTOR CO LTD,3711,336111,120,976,KOR
+104610,Daewoo Corp.,False,,,,,,
+104643,Sage Group PLC (The),False,SAGE GROUP PLC,7372,511210,185,940,GBR
+104652,Edison SpA,False,,,,,,
+104709,Athlon Car Lease International B.V.,False,,,,,,
+104796,Pendragon PLC,False,,,,,,
+104814,Tenaga Nasional Bhd.,False,TENAGA NASIONAL BHD,4911,2211,705,700,MYS
+104854,Uni-Charm Corp.,False,UNICHARM CORPORATION,3842,339113,210,970,JPN
+104858,Shimano Inc.,False,SHIMANO INC,3751,336991,475,976,JPN
+104864,Icade S.A.,False,ICADE,6798,531120,305,976,FRA
+104881,Television Francaise 1 S.A.,False,,,,,,
+104887,Aoyama Trading Co. Ltd.,False,,,,,,
+104893,Nankai Electric Railway Co. Ltd.,False,,,,,,
+104940,Keihan Electric Railway Co. Ltd.,False,,,,,,
+104944,Publishing and Broadcasting Ltd.,False,,,,,,
+104950,FamilyMart Co. Ltd.,False,FAMILYMART CO LTD,5412,445120,440,978,JPN
+104958,Fairfax Media Ltd.,False,,,,,,
+104960,PMP Ltd.,False,,,,,,
+104981,Securitas AB,False,,,,,,
+104997,"Inmobiliaria Colonial, Socimi, S.A.",False,,,,,,
+105036,China Overseas Land & Investment Ltd.,False,CHINA OVERSEAS LAND & INVEST,6552,237210,305,976,HKG
+105111,Industrias Penoles S.A.B. de C.V.,False,,,,,,
+105118,Port of Tauranga Ltd.,False,,,,,,
+105198,Citic Ltd.,False,CITIC LTD,9997,999977,355,925,HKG
+105408,Arab Insurance Group (B.S.C.),False,,,,,,
+105539,Bank United,False,,,,,,
+105544,Banque Marocaine du Commerce Exterieur,False,,,,,,
+105890,"Cimpor Cimentos de Portugal, S.G.P.S. S.A.",False,,,,,,
+105973,ConAgra Capital L.C.,False,,,,,,
+106148,Demirbank Turk A.S.,False,,,,,,
+106253,El Paso Tennessee Pipeline Co.,False,,,,,,
+106292,Entergy Louisiana Capital I,False,ENTERGY LOUISIANA CAP I,4911,2211,,,USA
+106416,Desjardins Trust Inc.,False,FIDUCIE DESJARDINS,6726,525990,,,CAN
+107225,Lenovo Group Ltd.,False,LENOVO GROUP LTD,3570,3341,175,976,HKG
+107288,Royal Utilities Income Fund,False,LUSCAR COAL INCOME FUND,1221,212111,,,CAN
+107307,MCMS Inc.,False,,,,,,
+108296,White Mountains Services Corporation,False,,,,,,
+109379,Banco Comercial S.A.,False,,,,,,
+115141,Private Export Funding Corp.,False,,,,,,
+116368,OMZ,False,,,,,,
+116961,Valmet Corp.,False,,,,,,
+117015,Duke Realty L.P.,False,,,,,,
+120316,OpTel Inc.,False,,,,,,
+123803,Regency Centers L.P.,False,,,,,,
+123803,"Regency Retail Partnership, L.P.",False,,,,,,
+125457,Rio Paranapanema Energia S.A,False,,,,,,
+126425,CBS Operations Inc.,False,CBS OPERATIONS INC,7812,512110,,,USA
+126896,Production Resource Group LLC,False,,,,,,
+130039,Alliant Energy Resources LLC,False,,,,,,
+132983,United Parcel Service of America Inc.,False,,,,,,
+135709,Ooredoo QPSC,False,,,,,,
+141894,Nizhnekamskneftekhim PAO,False,,,,,,
+142392,Broadwing Communications Inc.,False,,,,,,
+142673,Empire District Electric Trust I,False,EMPIRE DISTRICT ELEC TRUST I,6726,999990,,,USA
+143075,Pegasus Satellite Communications Inc.,False,,,,,,
+143260,Intercorp Peru Ltd.,False,,,,,,
+143693,Superior National Insurance Group Inc.,False,SNTL CORP,6351,5241,,,USA
+146198,Diamond Brands Operating Corp.,False,,,,,,
+146545,Tommy Hilfiger U.S.A. Inc.,False,HILFIGER (TOMMY) U S A INC,,999990,,,USA
+147728,Bowlero Corp.,False,,,,,,
+147728,AMF Bowling Worldwide Inc.,False,,,,,,
+148233,Manitoba (Province of),False,MANITOBA PROV CDA,9995,999990,,,CAN
+148730,Berry Plastics Corp. (old),False,,,,,,
+148991,NextEra Energy Capital Holdings Inc.,False,NEXTERA ENEGY CAPITAL HLDGS,6159,2211,,,USA
+149523,IES Utilities Inc.,False,,,,,,
+149757,Titan Petrochemicals Group Ltd.,False,,,,,,
+153151,Uranium One Inc.,False,URASIA ENERGY LTD,1000,212,,,CAN
+154941,Hera SpA,False,,,,,,
+155319,America West Airlines Inc.,False,,,,,,
+156236,BrightView Landscapes LLC,False,,,,,,
+156621,R.H. Donnelley Inc.,False,,,,,,
+157304,Bank Rakyat Indonesia (Persero) Tbk. PT,False,PT BANK RAKYAT INDONESIA (PE,6020,522110,,,IDN
+157593,CoBank ACB,False,COBANK ACB,6020,522110,,,USA
+157594,International Finance Corp.,False,,,,,,
+160512,American & Foreign Power Inc.,False,,,,,,
+160515,Worldspan L.P.,False,,,,,,
+160517,"Williams Holdings of Delaware, Inc.",False,,,,,,
+160558,Unitymedia Hessen GmbH & Co. KG,False,,,,,,
+160558,iesy Hessen GmbH,False,,,,,,
+160559,MobiFon Holdings B.V.,False,,,,,,
+160685,Brand Services Inc.,False,BRAND SERVICES INC,1700,454312,,,USA
+160757,iPCS Escrow Company,False,,,,,,
+162093,Assured Guaranty US Holdings Inc.,False,,,,,,
+162094,Axtel S.A.B. de C.V.,False,,,,,,
+162097,"Bank One, Texas, N.A., Dallas",False,,,,,,
+162101,Venezuela,False,,,,,,
+162128,Deutsche Telekom International Finance B.V.,False,,,,,,
+162130,Equinox Holdings Inc.,False,,,,,,
+162133,WII Components Inc.,False,,,,,,
+162140,Wells Fargo Bank N.A.,False,,,,,,
+162155,Imperial Bank,False,,,,,,
+162157,FIA Card Services N.A.,False,,,,,,
+162162,"National City Bank, Cleveland, OH",False,,,,,,
+162168,Polypore Inc.,False,,,,,,
+162194,Seneca Gaming Corp.,False,,,,,,
+162199,TW Telecom Holdings Inc.,False,,,,,,
+162208,"First Bank N.A., Minneapolis, MN",False,,,,,,
+162290,Haights Cross Communications Inc.,False,,,,,,
+162611,Real Mex Restaurants Inc.,False,,,,,,
+162755,Hungary,False,,,,,,
+162852,AMH Holdings LLC,False,,,,,,
+162888,"Midwest Generation, LLC",False,,,,,,
+162936,Nalco Co.,False,,,,,,
+162944,Nordstrom Credit Inc.,False,,,,,,
+162952,Nova Scotia Power Inc.,False,NOVA SCOTIA POWER INC,,999990,,,CAN
+163140,Alestra S. de R.L. de C.V.,False,,,,,,
+163153,Australia,False,,,,,,
+163163,Deutsche Bank Trust Co. Americas,False,,,,,,
+163170,Celulosa Arauco y Constitucion S.A.,False,,,,,,
+163179,Chile,False,,,,,,
+163182,China Development Bank,False,,,,,,
+163192,Cole National Group Inc.,False,,,,,,
+163213,Deutsche Ausgleichsbank,False,,,,,,
+163226,AusNet Electricity Services Pty Ltd.,False,,,,,,
+163235,Finland,False,,,,,,
+163241,Fresh Foods Inc.,False,,,,,,
+163249,Catalonia (Autonomous Community of),False,,,,,,
+163276,Japan Finance Organization for Municipalities,False,,,,,,
+163276,Japan Finance Corp. for Municipal Enterprises,False,,,,,,
+163287,New Brunswick (Province of),False,,,,,,
+163289,New Zealand,False,,,,,,
+163290,Newfoundland and Labrador (Province of),False,,,,,,
+163330,Texon International PLC,False,,,,,,
+163355,American Seafoods Group LLC,False,,,,,,
+163372,Centennial Cellular Operating Co. LLC,False,,,,,,
+163390,COMFORCE Operating Inc.,False,,,,,,
+163394,Consolidated Rail Corp.,False,,,,,,
+163395,CoreStates Capital Corp.,False,,,,,,
+163420,Capital One Bank (U.S.) N.A.,False,,,,,,
+163424,Comerica Bank,False,,,,,,
+163443,Ferrellgas L.P.,False,,,,,,
+163452,"FrontierVision Operating Partners, L.P.",False,,,,,,
+163470,Holt Group Inc. (The),False,,,,,,
+163496,Bank One Michigan,False,,,,,,
+163509,Protection One Alarm Monitoring Inc.,False,,,,,,
+163537,Petroleos Mexicanos,False,,,,,,
+163568,Allied Security Holdings LLC,False,,,,,,
+163677,Americanas S.A.,False,,,,,,
+163767,Safety Products Holdings Inc.,False,,,,,,
+163837,Warner Chilcott Corp.,False,,,,,,
+163881,Telcordia Technologies Inc.,False,,,,,,
+163896,X5 Retail Group N.V.,False,,,,,,
+163912,FastenTech Inc.,False,,,,,,
+164194,Triad Financial Corp.,False,,,,,,
+164272,Marquee Holdings Inc.,False,,,,,,
+164322,Jamaica,False,,,,,,
+164472,Residential Capital LLC,False,,,,,,
+164473,MSC - Medical Services Co.,False,,,,,,
+164519,Ahern Rentals Inc.,False,,,,,,
+164574,Frank's Nursery & Crafts Inc.,False,FNC REALTY CORP,6500,531,,,USA
+164725,LifeCare Holdings Inc.,False,,,,,,
+165057,Huntsman Advanced Materials LLC,False,,,,,,
+165220,Ames True Temper Inc.,False,,,,,,
+165248,Broder Bros. Co.,False,,,,,,
+165581,Vericast Corp.,False,,,,,,
+165641,AAC Group Holding Corp.,False,,,,,,
+165801,SGS International Inc.,False,,,,,,
+165951,RathGibson Inc.,False,,,,,,
+166143,Gregg Appliances Inc.,False,,,,,,
+166367,Lazard Group LLC,False,,,,,,
+166466,"Mesquite Gaming, LLC",False,,,,,,
+171081,University Health Network,False,,,,,,
+174154,CMP Susquehanna Radio Holdings Corp.,False,,,,,,
+174167,WCI Steel Inc.,False,WCI STEEL ACQUISITION INC,3312,331111,,,USA
+174478,Kimball Hill Inc.,False,,,,,,
+174568,Innophos Investments Holdings Inc.,False,,,,,,
+174701,Altra Power Transmission Inc.,False,,,,,,
+174702,Ashton Woods Finance Co.,False,,,,,,
+174745,Goodman Global Holdings Inc.,False,,,,,,
+175273,Telefonica Emisiones S.A.U.,False,,,,,,
+175348,PQ Corp.,False,,,,,,
+175366,KazMunaiGas Exploration Production JSC,False,,,,,,
+175611,Edgen Murray Corp.,False,,,,,,
+175840,Dollarama Group LP,False,,,,,,
+176039,Vitamin Shoppe Industries Inc.,False,,,,,,
+176985,Buffets Inc.,False,,,,,,
+177091,BR Malls Participacoes S.A.,False,,,,,,
+177212,CU Inc.,False,CU INC,4931,2211,,,CAN
+177236,VTB Bank JSC,False,,,,,,
+177345,PIK Group JSC,False,PJSC PIK-SPECIALIZED HOME,6552,237210,,,RUS
+177355,University of Western Ontario,False,,,,,,
+177384,Atlantic Power Preferred Equity Ltd,False,ATLANTIC POWER PFD EQTY LTD,6799,523999,,,CAN
+177396,Education Management LLC,False,,,,,,
+177404,PPL Capital Funding Inc.,False,,,,,,
+178007,Avis Budget Car Rental LLC,False,,,,,,
+178549,Eurasia Drilling Co. Ltd.,False,,,,,,
+178589,Mecachrome International Inc.,False,MECACHROME INTERNATIONAL INC,3720,3364,,,CAN
+178988,Nostrum Oil and Gas PLC,False,,,,,,
+181548,California Water Service Co.,False,CALIFORNIA WATER SERVICE CO,4941,221310,,,USA
+182416,Munich Reins America Inc.,False,AMERICAN RE-INSURANCE CO,6331,524130,,,USA
+182450,Aegon USA Inc.,False,LIFE INVESTORS INC,6311,5241,,,USA
+182709,Nationwide Affinity Insurance Co. of America,False,WESTERN CASUALTY & SURETY CO,6331,524126,,,USA
+182713,First Colony Life Insurance Co.,False,FIRST COLONY LIFE INSURANCE CO,6311,524113,,,USA
+182751,Globe Life & Accident Insurance Co.,False,GLOBE LIFE & ACCIDENT INSURANCE CO,6311,524113,,,USA
+182761,Durham Life Insurance Co.,False,DURHAM LIFE INSURANCE CO,6311,524113,,,USA
+183674,Vornado Realty L.P.,False,VORNADO REALTY 7.875 PUB INC,6798,5311,,,
+184129,Dexia,False,,,,,,
+184130,Lloyds Bank PLC,False,,,,,,
+184502,Israel,False,,,,,,
+185589,Agroton Public Ltd.,False,,,,,,
+186488,"Maiden Holdings North America, Ltd. (US)",False,MAIDEN HLDGS NORTH AMER LTD,6331,524126,,,USA
+186869,Metinvest B.V.,False,,,,,,
+187077,Consolidation Coal Co.,False,CONSOLIDATION COAL CO,1220,2121,,,UNK
+200003,AM Konzernruckversicherung AG,False,,,,,,
+200004,AachenMuenchener Versicherung AG,False,,,,,,
+200019,FirstRand Ltd.,False,FIRSTRAND LTD,6020,522110,810,800,ZAF
+200022,ABS-CBN Broadcasting Corp.,False,,,,,,
+200048,Adamjee Insurance Co. Ltd.,False,,,,,,
+200051,Adelaide Bank Ltd.,False,,,,,,
+200055,Adler Real Estate AG,False,,,,,,
+200065,Affin Bank Berhad,False,,,,,,
+200107,Akita Bank Ltd.,False,,,,,,
+200115,Albingia Versicherungs AG,False,,,,,,
+200189,Antofagasta PLC,False,ANTOFAGASTA PLC,1000,212234,360,970,GBR
+200192,Aoki International Co. Ltd.,False,,,,,,
+200218,Arcelik A.S.,False,ARCELIK AS,3630,3352,315,976,TUR
+200264,Ashtead Group PLC,False,ASHTEAD GROUP PLC,7350,5324,175,976,GBR
+200335,Australian Guarantee Corp. Ltd.,False,,,,,,
+200344,Australis Media Ltd.,False,,,,,,
+200348,Autobacs Seven Co. Ltd.,False,,,,,,
+200359,Awa Bank Ltd. (The),False,,,,,,
+200361,AXA Assurances IARD Mutuelle,False,,,,,,
+200362,AXA Belgium,False,,,,,,
+200362,AXA Belgium S.A.,False,,,,,,
+200363,Atos SE,False,ATOS SE,7370,5415,185,940,FRA
+200380,Empresas Iansa S.A.,False,,,,,,
+200384,Proximus S.A.,False,PROXIMUS SA,4813,517111,,,BEL
+200397,Lojas Americanas S.A.,False,,,,,,
+200434,Charbonnages de France,False,,,,,,
+200445,Societe Nationale des Chemins de Fer Belges,False,,,,,,
+200460,Borealis AG,False,,,,,,
+200467,Alliance Bank Malaysia Berhad,False,,,,,,
+200520,PT Bakrie Sumatera Plantations Tbk.,False,,,,,,
+200526,Ballarpur Industries Ltd.,False,,,,,,
+200529,Tryg Forsikring A/S,False,,,,,,
+200534,Ban Hin Lee Bank Berhad,False,,,,,,
+200537,Banco Nacional de Mexico S.A.,False,,,,,,
+200539,"Banco Totta & Acores, S.A.",False,,,,,,
+200560,Bank Permata Tbk (PT),False,,,,,,
+200561,PT Bank Danamon Indonesia Tbk.,False,,,,,,
+200563,PT Bank Internasional Indonesia Tbk.,False,,,,,,
+200565,PT Bank CIMB Niaga Tbk.,False,,,,,,
+200565,PT Bank Niaga Tbk.,False,,,,,,
+200566,United Overseas Bank (Thai) Public Co. Ltd.,False,,,,,,
+200568,Bank of Cyprus Holdings PLC,False,,,,,,
+200569,Bank of Greece,False,,,,,,
+200571,Bank of Melbourne Ltd.,False,,,,,,
+200573,Bank of Nagoya Ltd.,False,,,,,,
+200575,Bank of Queensland Ltd.,False,BANK OF QUEENSLAND LTD,6020,522110,810,800,AUS
+200581,Bank Umum Nasional (P.T.),False,,,,,,
+200588,Banco Mercantil del Norte S.A. Institucion de Banca Multiple Grupo Financiero Banorte,False,,,,,,
+200590,BGL BNP Paribas S.A.,False,,,,,,
+200596,Mirvac Property Trust,False,,,,,,
+200632,Banca Agricola Mantovana SpA,False,,,,,,
+200634,Banca Lombarda SpA,False,,,,,,
+200639,Banca Popolare Commercio e Industria SCRL,False,,,,,,
+200640,Fineco SpA,False,,,,,,
+200642,Banca Popolare di Intra SCPA,False,,,,,,
+200644,Banca Popolare Italiana Societa Cooperativa,False,,,,,,
+200646,Banca Popolare di Sondrio SpA,False,,,,,,
+200647,BPER Banca S.p.A.,False,,,,,,
+200651,Banco de Colombia S.A.,False,,,,,,
+200668,"Banco Mercantil C.A., S.A.C.A.",False,,,,,,
+200669,"Banco Mexicano, S.A",False,,,,,,
+200670,Banca Popolare di Cremona SpA,False,,,,,,
+200671,Banco BPI S.A.,False,,,,,,
+200673,Banco Provincial S.A.,False,,,,,,
+200676,Bank Dagang Nasional Indonesia (P.T.),False,,,,,,
+200695,Bendigo and Adelaide Bank Ltd.,False,,,,,,
+200705,DNB Bank ASA,False,DNB BANK ASA,6020,522110,,,NOR
+200712,PT Berlian Laju Tanker Tbk.,False,,,,,,
+200731,Vienna Insurance Group AG Wiener Versicherung Gruppe,False,VIENNA INSURANCE GROUP,6331,524126,830,800,AUT
+200752,Grupo Bimbo S.A.B. de C.V.,False,GRUPO BIMBO S.A.B. DE C.V.,2050,3118,250,978,MEX
+200771,BNG Bank N.V.,False,,,,,,
+200772,Bank of the Philippine Islands,False,,,,,,
+200773,mBank S.A.,False,,,,,,
+200798,Boram Bank,False,,,,,,
+200864,Bumi Resources Tbk. PT,False,,,,,,
+200877,BUT S.A.S.,False,,,,,,
+200892,CMC Magnetics Corp.,False,,,,,,
+200908,Colbun S.A.,False,,,,,,
+200932,CIMB Group Holdings Bhd.,False,,,,,,
+200933,Emporiki Bank of Greece S.A.,False,,,,,,
+200935,Compal Electronics Inc.,False,,,,,,
+200952,Societa Italiana per Condotte d'Acqua S.p.A.,False,,,,,,
+201006,Sociedad de Inversiones Pampa Calichera S.A.,False,,,,,,
+201012,Orbia Advance Corp. S.A.B. de C.V.,False,,,,,,
+201022,CAP S.A.,False,,,,,,
+201037,Cardif Assurance Vie,False,,,,,,
+201066,Cathay Life Insurance Co. Ltd.,False,,,,,,
+201066,Cathay Financial Holding Co. Ltd.,False,,,,,,
+201102,UNACEM Corp. S.A.A.,False,,,,,,
+201152,Challenge Bank Ltd.,False,,,,,,
+201197,Chiba Kogyo Bank Ltd.,False,,,,,,
+201213,China Banking Corp.,False,,,,,,
+201216,CDIB Capital Group,False,,,,,,
+201216,KGI Financial Holding Co. Ltd.,False,,,,,,
+201238,CTBC Bank Co. Ltd.,False,,,,,,
+201238,CTBC Financial Holding Co. Ltd.,False,,,,,,
+201359,Cydsa S.A.B. de C.V.,False,,,,,,
+201360,Cyprus Popular Bank Public Co. Ltd.,False,,,,,,
+201383,Fubon Insurance Co. Ltd.,False,,,,,,
+201500,Dacom Corp.,False,,,,,,
+201533,Daio Paper Corp.,False,,,,,,
+201584,KDDI Corp.,False,KDDI CORP,4812,517312,463,974,JPN
+201606,Derwent London PLC,False,,,,,,
+201608,Danmarks Skibskredit A/S,False,,,,,,
+201628,Mitsubishi HC Capital Inc.,False,MITSUBISHI HC CAPITAL INC,6159,522298,175,976,JPN
+201650,FirstGroup PLC,False,FIRSTGROUP PLC,4011,482111,620,600,GBR
+201691,DVB Bank SE,False,,,,,,
+201727,East Japan Railway Co.,False,EAST JAPAN RAILWAY CO,4011,482111,610,600,JPN
+201790,Elektrim S.A.,False,,,,,,
+201806,Fedrigoni SpA,False,,,,,,
+201827,Farmers Bank of China,False,,,,,,
+201898,Japan Airlines Domestic Co. Ltd.,False,,,,,,
+201915,Jordan Islamic Bank,False,,,,,,
+202019,Energy Developments Pty Ltd.,False,,,,,,
+202021,Empresas CMPC S.A.,False,,,,,,
+202039,Ferreycorp S.A.A.,False,,,,,,
+202055,Anadolu Efes Biracilik ve Malt Sanayii AS,False,,,,,,
+202056,Eregli Demir ve Celik Fabrikalari T.A.S.,False,,,,,,
+202058,Ergobank S.A.,False,,,,,,
+202077,"Ethniki, Hellenic General Ins Co. S.A.",False,,,,,,
+202086,Getlink,False,,,,,,
+202132,Far East Bank & Trust Co.,False,,,,,,
+202197,First Bangkok City Bank Public Co. Ltd.,False,,,,,,
+202199,FBN Holdings PLC,False,,,,,,
+202199,First Bank of Nigeria PLC,False,,,,,,
+202204,First Fire and Marine Insurance Co. Ltd.,False,,,,,,
+202240,J.P. Morgan Fleming Overseas Investment Trust PLC,False,,,,,,
+202256,Foodcorp (Proprietary) Ltd.,False,,,,,,
+202265,"Forestal, Constructora y Comercial del Pacifico Sur S.A.",False,,,,,,
+202268,Formosa Chemicals & Fibre Corp.,False,,,,,,
+202271,Formosa Plastics Corp.,False,,,,,,
+202276,Hamnia Forsikrings AB,False,,,,,,
+202305,Fresenius SE & Co. KGaA,False,FRESENIUS SE & CO KGAA,8090,6214,300,905,DEU
+202351,Fukui Bank Ltd.,False,,,,,,
+202366,Gajah Tunggal Tbk. PT,False,,,,,,
+202552,Swiss National Bank,False,,,,,,
+202562,"Grupo Gigante, S. A. B. de C.V.",False,,,,,,
+202594,China Oil and Gas Group Ltd.,False,,,,,,
+202625,Grainger PLC,False,,,,,,
+202627,Compania General de Electricidad S.A.,False,,,,,,
+202662,Grohe Holding GmbH,False,,,,,,
+202664,Delta Office Fund,False,,,,,,
+202673,Zhejiang Expressway Co. Ltd.,False,ZHEJIANG EXPRESSWAY CO LTD,4700,488490,620,600,CHN
+202696,Iochpe-Maxion S.A.,False,,,,,,
+202711,China Merchants Port Holdings Co. Ltd.,False,,,,,,
+202719,Hamamatsu Photonics KK,False,,,,,,
+202724,Hana Bank,False,,,,,,
+202724,Hana Bank (Old),False,,,,,,
+202751,Japfa Comfeed Indonesia Tbk. PT,False,,,,,,
+202764,JG Summit Holdings Inc.,False,,,,,,
+202809,Jupiters Ltd.,False,,,,,,
+202810,Jupiters Ltd.,False,,,,,,
+202814,SmarTone Telecommunications Holdings Ltd.,False,,,,,,
+202816,CITIC International Financial Holdings Ltd.,False,,,,,,
+202854,KAS BANK N.V.,False,,,,,,
+202952,Klabin S.A.,False,KLABIN SA,2631,322,400,970,BRA
+202970,Shikoku Bank Ltd.,False,,,,,,
+202995,Shinsegae Co. Ltd.,False,,,,,,
+203033,Heiwado Co. Ltd.,False,,,,,,
+203094,Hitachi Software Engineering Co. Ltd.,False,,,,,,
+203177,Hon Hai Precision Industry Co. Ltd.,False,HON HAI PRECISION IND CO LTD,3674,334413,,,TWN
+203207,Hyakugo Bank Ltd.,False,,,,,,
+203215,Hyundai Mobis Co. Ltd.,False,,,,,,
+203216,KB Securities Co. Ltd.,False,,,,,,
+203225,Mega International Commercial Bank Co. Ltd.,False,,,,,,
+203269,Vale Indonesia Tbk. PT,False,,,,,,
+203287,Industrial Finance Corp. of Thailand,False,,,,,,
+203302,Caisses d'Epargne Participations,False,,,,,,
+203313,Shenzhen International Holdings Ltd.,False,,,,,,
+203358,Intrum AB (publ),False,,,,,,
+203361,AntarChile S.A.,False,,,,,,
+203374,Ionian & Popular Bank of Greece S.A.,False,,,,,,
+203398,Italiana Assicurazioni SpA,False,,,,,,
+203408,F&C Asset Management PLC,False,,,,,,
+203442,Koc Holding A.S.,False,KOC HOLDING AS,9997,999977,120,976,TUR
+203463,SCOR Deutschland Ruckversicherungs AG,False,,,,,,
+203478,Korea Long Term Credit Bank,False,,,,,,
+203482,Korean Reinsurance Co.,False,,,,,,
+203560,Larsen & Toubro Ltd.,False,LARSEN & TOUBRO LTD,8711,541330,240,925,IND
+203586,VTG GmbH,False,,,,,,
+203600,Li & Fung Ltd.,False,LI & FUNG LTD,2340,315,475,976,BMU
+203643,Shinhan Securities Co. Ltd.,False,,,,,,
+203646,St.George Bank Ltd.,False,,,,,,
+203652,Stagecoach Group Ltd.,False,,,,,,
+203666,State Bank of India,False,STATE BANK OF INDIA,6020,522110,810,800,IND
+203668,Standard Chartered Bank Australia Ltd.,False,,,,,,
+203714,Compania Sud Americana de Vapores,False,,,,,,
+203756,Grupo de Inversiones Suramericana S.A.,False,,,,,,
+203761,Suruga Bank Ltd.,False,,,,,,
+203775,S x L Corp.,False,,,,,,
+203783,Garanti BBVA,False,TURKIYE GARANTI BANKASI AS,6020,522110,810,800,TUR
+203836,TCC Group Holdings Co. Ltd.,False,,,,,,
+203892,Tata Steel Ltd.,False,TATA STEEL LTD,3312,331110,,,IND
+203894,Tata Power Co. Ltd.,False,,,,,,
+203929,Grand Commercial Bank,False,,,,,,
+203930,True Corp. Public Co. Ltd.,False,,,,,,
+203931,Empresa Nacional de Telecomunicaciones S.A.,False,,,,,,
+203961,Test Rite International Corp.,False,,,,,,
+204009,Namco Ltd.,False,,,,,,
+204012,Nan Ya Plastics Corp.,False,,,,,,
+204025,National Foods Ltd.,False,,,,,,
+204029,Dexus,False,,,,,,
+204041,NGC Holdings Ltd.,False,,,,,,
+204049,SK Hynix Inc.,False,,,,,,
+204124,Comsys Holdings Corp.,False,,,,,,
+204222,SoftBank Group Corp.,False,SOFTBANK GROUP CORP,4812,517312,190,940,JPN
+204254,Taiyo Fire & Marine Insurance Co. Ltd.,False,,,,,,
+204350,Yamada Denki Co. Ltd.,False,,,,,,
+204473,SANKYO Co. Ltd.,False,,,,,,
+204475,ACOM Co. Ltd.,False,ACOM CO LTD,6141,522210,845,800,JPN
+204479,Telefonica Holding de Argentina S.A.,False,,,,,,
+204489,UMC Japan Inc.,False,,,,,,
+204492,Atlantic Telecom Group PLC,False,,,,,,
+204571,Bavaria (State of),False,,,,,,
+204667,Ceska pojistovna a.s.,False,,,,,,
+204671,CEZ a.s.,False,CEZ A S,4931,2211,705,700,CZE
+204719,Komercni Banka A.S.,False,,,,,,
+204825,Hannover Rueck SE,False,HANNOVER RUECK SE,6311,524130,830,800,DEU
+204837,Medco Energi Internasional Tbk. PT,False,,,,,,
+204900,"Ceska Sporitelna, a.s.",False,,,,,,
+204959,Chung Kuo Insurance Co. Ltd.,False,,,,,,
+204963,PT Citra Marga Nusaphala Persada Tbk,False,,,,,,
+204972,Kawasan Industri Jababeka Tbk. PT,False,,,,,,
+204993,Double A (1991) Public Co. Ltd.,False,,,,,,
+205074,Standard Chartered Bank (Taiwan) Ltd.,False,,,,,,
+205139,Metropolitan Bank & Trust Co.,False,,,,,,
+205145,Suncorp Group Ltd.,False,SUNCORP GROUP LTD,6331,524126,810,800,AUS
+205174,Nexa Resources Peru S.A.A.,False,,,,,,
+205180,Minera Valparaiso S.A.,False,,,,,,
+205194,Mineral Resources Ltd.,False,,,,,,
+205221,NWS Holdings Ltd.,False,,,,,,
+205232,MLC Ltd.,False,,,,,,
+205239,PT Modernland Realty Tbk.,False,,,,,,
+205305,Musashino Bank Ltd.,False,,,,,,
+205365,Okinawa Electric Power Co. Inc.,False,,,,,,
+205392,Senshu Bank Ltd.,False,,,,,,
+205430,World Co. Ltd.,False,,,,,,
+205442,Ineos Vinyls Ltd.,False,,,,,,
+205630,Haitong International Securities Group Ltd.,False,,,,,,
+205651,YTL Power International Bhd.,False,,,,,,
+205654,Bank of Baroda,False,,,,,,
+205655,China Resources Land Ltd.,False,CHINA RESOURCES LAND LTD,6552,237210,305,976,CYM
+205687,Bank Handlowy w Warszawie S.A.,False,,,,,,
+205699,Swiss Life Holding AG,False,,,,,,
+205816,Aiful Corp.,False,,,,,,
+205871,Zagrebacka banka dd,False,,,,,,
+205875,Alicorp S.A.A.,False,,,,,,
+205879,Companhia de Eletricidade do Estado da Bahia,False,,,,,,
+205900,Falabella S.A.,False,,,,,,
+205905,Volcan Compania Minera S.A.A.,False,,,,,,
+205906,Banco de Credito e Inversiones,False,,,,,,
+205949,Ampla Energia e Servicos S.A,False,,,,,,
+206009,Sapporo Bank Ltd.,False,,,,,,
+206015,Steel Authority of India Ltd.,False,,,,,,
+206182,IRPC Public Co. Ltd.,False,,,,,,
+206192,Graninge AB,False,,,,,,
+206192,Graningeverkens AB,False,,,,,,
+206199,Consolidated Minerals Ltd. (Jersey),False,,,,,,
+206207,Stadshypotek AB,False,,,,,,
+206213,Cammell Laird Holdings PLC,False,,,,,,
+206245,Filtronic PLC,False,,,,,,
+206346,Engie Energia Chile S.A.,False,,,,,,
+206359,AXA Seguros S.A. de C.V.,False,,,,,,
+206359,Seguros La Comercial SA,False,,,,,,
+206381,Hong Leong Bank Bhd.,False,,,,,,
+206418,Banque de Tunisie,False,,,,,,
+206419,Banque du Sud,False,,,,,,
+206420,Banque Internationale Arabe de Tunisie,False,,,,,,
+206432,Societe Tunisienne de Banque,False,,,,,,
+206434,Union Bancaire pour le Commerce et l'Industrie,False,,,,,,
+206438,Credit du Maroc,False,,,,,,
+206451,Bank of Valletta PLC,False,,,,,,
+206460,HSBC Bank Malta PLC,False,,,,,,
+206461,Middlesea Insurance PLC,False,,,,,,
+206463,Moscow City Telephone Network (JSC),False,,,,,,
+206465,Novorossiysk Commercial Sea Port PJSC,False,NOVOROSSIYSK COML SEA PT,4400,4883,,,RUS
+206472,RAO UES of Russia,False,,,,,,
+206484,"Mapfre Vida, S.A., de Seguros y Reaseguros sobre la Vida Humana",False,,,,,,
+206488,Usinor S.A.,False,,,,,,
+206489,Clariant AG,False,,,,,,
+206518,Bank BPH S.A.,False,,,,,,
+206540,Far-Eastern Shipping Co. PLC,False,,,,,,
+206570,Banka Celje d.d,False,,,,,,
+206579,Inkombank (AB),False,,,,,,
+206580,Inter-Europa Bank Rt.,False,,,,,,
+206581,Investicna a Rozvojova Banka (IRB),False,,,,,,
+206583,Sual International Ltd.,False,,,,,,
+206584,"Irkutskenergo, AO EiE",False,,,,,,
+206607,Kredyt Bank S.A.,False,,,,,,
+206619,Magnitogorsk Iron and Steel Works PJSC,False,,,,,,
+206642,NLMK PJSC,False,NOVOLIPETSK STEEL,3312,331110,,,RUS
+206652,OTP Bank PLC,False,OTP BANK PLC,6020,522110,810,800,HUN
+206702,Severstal PAO,False,SEVERSTAL PJSC,3310,331110,,,RUS
+206735,"Vseobecna Uverova Banka, a.s.",False,,,,,,
+206736,Towarzystwo Ubezpieczen i Reasekuracji WARTA S.A.,False,,,,,,
+206759,O2 Czech Republic a.s.,False,,,,,,
+206763,UnitedNetworks Ltd.,False,,,,,,
+206850,Fubon Bank (Hong Kong) Ltd.,False,,,,,,
+206862,Kingboard Chemical Holdings Ltd.,False,KINGBOARD HOLDINGS LIMITED,2670,322220,355,925,CYM
+206877,China Resources Gas Group Ltd.,False,,,,,,
+206897,Noble Group Ltd.,False,NOBLE GROUP LTD,5150,4245,,,BMU
+206999,Security Bank Corp.,False,,,,,,
+207074,Reliance Industries Ltd.,False,RELIANCE INDUSTRIES LTD,2911,324110,160,970,IND
+207092,Rheinische Hypothekenbank AG,False,,,,,,
+207126,Rizal Commercial Banking Corp.,False,,,,,,
+207137,Rodamco Europe N.V.,False,,,,,,
+207137,Rodamco NV,False,,,,,,
+207167,RPC Group Plc,False,RPC GROUP PLC,3089,326199,355,925,GBR
+207191,Sadia S.A.,False,,,,,,
+207195,Safety Insurance Public Co. Ltd.,False,,,,,,
+207218,Samaggi Ins. Public Co. Ltd.,False,,,,,,
+207223,Samchully Co. Ltd.,False,,,,,,
+207224,GCL New Energy Holdings Ltd.,False,,,,,,
+207423,Orazul Energy Egenor S. en C. por A.,False,,,,,,
+207627,Road King Infrastructure Ltd.,False,ROAD KING INFRASTRUCTURE LTD,6552,237210,620,600,BMU
+207861,Daehan Fire & Marine Insurance Co. Ltd.,False,,,,,,
+207878,Hyundai Marine & Fire Insurance Co. Ltd.,False,,,,,,
+207894,Citibank Korea Inc.,False,,,,,,
+207918,Meritz Fire & Marine Insurance Co. Ltd.,False,,,,,,
+207923,Busan Bank,False,,,,,,
+207933,Hanwha General Insurance Co. Ltd.,False,,,,,,
+207940,Ssangyong Fire & Marine Insurance Co. Ltd.,False,,,,,,
+208017,China Vanke Co. Ltd.,False,,,,,,
+208044,Siam City Bank Public Co. Ltd.,False,,,,,,
+208048,Thai Commercial Ins. Public Co. Ltd. (The),False,,,,,,
+208093,Singapore Reinsurance Corporation Ltd.,False,,,,,,
+208095,Singapore Telecommunications Ltd.,False,SINGAPORE TELECOMMUNICATIONS,4812,517312,715,974,SGP
+208104,Popular y Porvenir Cia. de Seguros,False,,,,,,
+208124,SMC Corp.,False,SMC CORP,3822,334512,230,940,JPN
+208159,Solidbank Corp.,False,,,,,,
+208175,Oil and Natural Gas Corp. Ltd.,False,,,,,,
+208176,Organizacion Soriana S.A.B. de C.V.,False,,,,,,
+208192,Southern Bank Berhad,False,,,,,,
+208261,Bank Millennium Capital Group,False,,,,,,
+208276,Vozrozhdenie Bank,False,,,,,,
+208285,Companhia de Seguros Tranquilidade S.A.,False,,,,,,
+208299,Cognor Holding S.A.,False,,,,,,
+208304,PT Semen Indonesia (Persero) Tbk,False,PT SEMEN INDONESIA (PERSERO),3241,327310,202,970,IDN
+208309,Senko Co. Ltd.,False,,,,,,
+208341,Shenwan Hongyuan (H.K.) Ltd.,False,,,,,,
+208350,HIT Entertainment Ltd.,False,,,,,,
+208361,SIG PLC,False,,,,,,
+208372,Shibusawa Warehouse Co. Ltd.,False,,,,,,
+208376,PT Bank Pan Indonesia Tbk.,False,,,,,,
+208387,Kunlun Energy Co. Ltd.,False,KUNLUN ENERGY CO LTD,4923,221210,380,935,BMU
+208392,Paranapanema S.A.,False,,,,,,
+208466,Petrol Ofisi A.S.,False,,,,,,
+208473,PCF GmbH,False,,,,,,
+208475,Phatra Thanakit Public Co. Ltd.,False,,,,,,
+208477,Kovohute Bridlicna A.S.,False,,,,,,
+208479,Philippine Commercial International Bank,False,,,,,,
+208542,Polysindo Eka Perkasa (P.T.),False,,,,,,
+208552,Ports of Auckland Ltd.,False,,,,,,
+208554,Grupo Posadas S.A.B. de C.V.,False,,,,,,
+208574,Press Metal Aluminium Holdings Bhd.,False,,,,,,
+208581,Prime Property Fund LLC,False,,,,,,
+208614,Severomoravska Energetika  a.s.,False,,,,,,
+208623,PTT Exploration and Production Public Co. Ltd.,False,PTT EXPLORATION & PRODUCTION,1311,2111,380,935,THA
+208710,El Pacifico-Peruano-Suiza S.A.,False,,,,,,
+208724,Pakuwon Jati Tbk. PT,False,,,,,,
+208745,Northern Ireland Electricity Networks Ltd.,False,,,,,,
+208752,Nuernberger Beteiligungs-AG,False,,,,,,
+208765,Samsung Fire & Marine Insurance Co. Ltd.,False,,,,,,
+208821,Sartorius AG,False,SARTORIUS AG,3826,334516,230,940,DEU
+208888,DB Insurance Co. Ltd.,False,,,,,,
+209001,Circle K Sunkus Co. Ltd.,False,,,,,,
+209002,Thai Reinsurance Public Co. Ltd.,False,,,,,,
+209048,Titan Cement International,False,,,,,,
+209052,New World Infrastructure Ltd.,False,,,,,,
+209120,Kiraboshi Bank Ltd.,False,,,,,,
+209129,VolgaTelecom (OJSC),False,,,,,,
+209234,Italy,False,,,,,,
+209258,Tullow Oil,False,TULLOW OIL PLC,1311,2111,380,935,GBR
+209265,Turk Hava Yollari A.O.,False,,,,,,
+209289,Pfleiderer Group B.V. & Co. KG,False,,,,,,
+209300,Abbot Group Ltd.,False,,,,,,
+209306,Industrial and Commercial Bank of China (Asia) Ltd.,False,,,,,,
+209308,Union Bank of the Philippines,False,,,,,,
+209314,Union Insurance Co. Ltd.,False,,,,,,
+209324,Zapadoceska Energetika a.s.,False,,,,,,
+209360,Urbaine U.A.P. Cie. Belge d'Ass. et de Reass. S.A.,False,,,,,,
+209405,Vestel Elektronik Sanayi Ve Ticaret A.S.,False,,,,,,
+209411,Victoria PLC,False,,,,,,
+209499,Investa Property Group,False,,,,,,
+209513,Wilrig AS,False,,,,,,
+209521,Wing Hang Bank Ltd.,False,OCBC WING HANG BANK LTD,6020,522110,810,800,HKG
+209549,Wuerttembergische und Badische Vers. AG,False,,,,,,
+209571,Yapi ve Kredi Bankasi A.S.,False,,,,,,
+209571,Yapi ve Kredi Bankasi A.S. (former),False,,,,,,
+209610,SK Corp.,False,,,,,,
+209837,Kiwi Property Group Ltd.,False,,,,,,
+209843,Korean French Banking Corp.,False,,,,,,
+209913,Banco Portugues do Atlantico S.A.,False,,,,,,
+209982,Guardian National Insurance Co. Ltd.,False,,,,,,
+210152,LIG Insurance Co. Ltd.,False,,,,,,
+210201,Delta Electronics Inc.,False,,,,,,
+210230,Alcoa of Australia Ltd.,False,,,,,,
+210232,APN News & Media Ltd.,False,,,,,,
+210240,Bonlac Foods Ltd.,False,,,,,,
+210328,Robert Bosch GmbH,False,,,,,,
+210359,EWE AG,False,,,,,,
+210479,Renault S.A.,False,RENAULT SA,3711,336111,120,976,FRA
+210494,Societe Nationale SNCF,False,,,,,,
+210576,Hongkong Land Holdings Ltd.,False,HONGKONG LAND HOLDINGS LTD,6500,531,305,976,BMU
+210582,Minsur S.A.,False,,,,,,
+210598,Trust Bank New Zealand Ltd.,False,,,,,,
+210606,Reinsurance Australia Corporation Ltd. (ReAC),False,,,,,,
+210614,Go-Ahead Group Ltd. (The),False,,,,,,
+210638,Universal Robina Corp.,False,,,,,,
+210701,Kimberly-Clark de Mexico S.A.B. de C.V.,False,KIMBERLY-CLARK DE MEXICO SA,2670,322291,400,970,MEX
+210739,DB Group Ltd.,False,,,,,,
+210805,Perenti Ltd.,False,,,,,,
+210807,Beni Stabili SpA SIIQ,False,,,,,,
+210816,AG Insurance,False,,,,,,
+210829,R.M.C.A. Reinsurance Ltd.,False,,,,,,
+210835,3i Group PLC,False,3I GROUP PLC,6799,523910,850,800,GBR
+210865,Vicinity Centres,False,,,,,,
+210878,SGIO Insurance Ltd.,False,,,,,,
+210953,THK Co. Ltd.,False,THK CO LTD,3569,333999,345,925,JPN
+211137,Oriental Bank of Commerce,False,,,,,,
+211156,Rolta India Ltd.,False,,,,,,
+211383,Banque Tarneaud S.A.,False,,,,,,
+211389,Caisse Regionale de Credit Agricole de la Somme,False,,,,,,
+211390,Caisse Regionale de Credit Agricole Mutuel d'Ille et Vilaine,False,,,,,,
+211407,Derichebourg,False,,,,,,
+211412,Selectibail,False,,,,,,
+211425,Anglo-Elementar Versicherungs AG,False,,,,,,
+211437,G4S PLC,False,G4S PLC,7380,56162,175,976,GBR
+211443,Immofinanz AG,False,,,,,,
+211457,Raiffeisen Zentralbank Oesterreich AG,False,,,,,,
+211479,Cegedim S.A.,False,,,,,,
+211483,Caisse Regionale de Credit Agricole Mutuel du Languedoc,False,,,,,,
+211503,Teleperformance SE,False,TELEPERFORMANCE,7389,56142,456,976,FRA
+211512,Touax S.C.A.,False,,,,,,
+211599,Ei Group PLC,False,,,,,,
+211655,MTN Group Ltd.,False,MTN GROUP LTD,4812,517312,462,974,ZAF
+211751,Krungthai Thanakit Public Co. Ltd,False,,,,,,
+211768,Telemar Norte Leste S.A.,False,,,,,,
+211774,Banque Cantonale de Geneve,False,,,,,,
+211777,Cofinimmo S.A./N.V.,False,,,,,,
+211784,Hypothekenbank in Essen AG,False,,,,,,
+211792,Nuernberger Hypothekenbank AG,False,,,,,,
+211797,Steen & Strom AS,False,,,,,,
+211803,AEON Credit Service (Asia) Co. Ltd.,False,,,,,,
+211818,Mosel Vitelic Inc.,False,,,,,,
+211939,Corporacion GEO S.A.B. de C.V.,False,CORPORACION GEO SA DE CV,6552,237210,305,976,MEX
+211943,Sigma Alimentos S.A. de C.V.,False,,,,,,
+211946,"Banco Pinto & Sotto Mayor, S.A.",False,,,,,,
+211947,Banco Santander Totta S.A.,False,,,,,,
+211986,Islandsbanki hf,False,,,,,,
+212028,IMA SpA,False,,,,,,
+212038,Hansabank,False,,,,,,
+212113,Ricoh Leasing Co. Ltd.,False,,,,,,
+212137,Clubhaus PLC,False,,,,,,
+212167,SKYCITY Entertainment Group Ltd.,False,,,,,,
+212173,Petroquimica Comodoro Rivadavia S.A.,False,,,,,,
+212200,Hikari Tsushin Inc.,False,,,,,,
+212267,Attijariwafa Bank,False,,,,,,
+212380,Usinas Siderurgicas de Minas Gerais S.A.,False,USINAS SIDERURGICAS DE MINAS,3310,3311,460,970,BRA
+212386,Total Access Communication Public Co. Ltd.,False,,,,,,
+212393,Banco BBVA Peru,False,,,,,,
+212427,Fortescue Ltd,False,FORTESCUE LTD,1000,212210,,,AUS
+212495,Tingyi (Cayman Islands) Holding Corp.,False,TINGYI (CAYMAN ISLANDS) HLDG,2086,312111,250,978,CYM
+212500,Wan Hai Lines Ltd.,False,,,,,,
+212550,Giraudy S.A.,False,,,,,,
+212628,Aristocrat Leisure Ltd.,False,,,,,,
+212631,Bank of Western Australia Ltd.,False,,,,,,
+212709,Takefuji Corp.,False,,,,,,
+212763,Westfield America Trust,False,,,,,,
+212777,Indian Oil Corp. Ltd.,False,,,,,,
+212781,Brunner Mond Group PLC,False,,,,,,
+212786,Sol Melia S.A.,False,,,,,,
+212811,Piraeus Financial Holdings S.A.,False,,,,,,
+212820,Lavipharm S.A.,False,,,,,,
+212843,Hermis Bankas,False,,,,,,
+212856,Macquarie Group Ltd.,False,MACQUARIE GROUP LTD,6200,523,810,800,AUS
+212859,Dhipaya Insurance Public Co. Ltd.,False,,,,,,
+212866,Nakornthai Strip Mill Public Co. Ltd.,False,,,,,,
+212894,BorsodChem Rt,False,,,,,,
+212901,Central Japan Railway Co.,False,CENTRAL JAPAN RAILWAY CORP,4011,482111,610,600,JPN
+212922,Commercial International Bank (Egypt) S.A.E.,False,COMMERCIAL INTL BANK EGYPT,6020,522110,810,800,EGY
+212928,CK Infrastructure Holdings Ltd.,False,CK INFRASTRUCTURE HLDNGS LTD,4931,2211,155,976,BMU
+212948,Fast Retailing Co. Ltd.,False,FAST RETAILING CO LTD,5600,4481,452,976,JPN
+212955,Banca Mediolanum,False,,,,,,
+212970,Bank Negara Indonesia (Persero) Tbk. PT,False,,,,,,
+212974,Daya Guna Samudera Tbk (PT),False,,,,,,
+212978,PT Lippo Karawaci Tbk.,False,,,,,,
+213022,Haitong Bank S.A.,False,,,,,,
+213027,Tryg Garantiforsikring A/S,False,,,,,,
+213028,Belfius Bank SA/NV,False,,,,,,
+213028,Dexia Banque Belgique,False,,,,,,
+213029,DSV A/S,False,DSV A/S,4213,484121,615,600,DNK
+213042,Konecranes Terex Plc,False,,,,,,
+213067,Flughafen Zurich AG,False,FLUGHAFEN ZUERICH AG,4581,48811,620,600,CHE
+213068,Gerling-Konzern Allgemeine Versicherungs-AG,False,,,,,,
+213127,Gazprom Neft PJSC,False,GAZPROM NEFT PJSC,2911,324110,,,RUS
+213136,NGC Generation Holdings Ltd.,False,,,,,,
+213143,Wafabank,False,,,,,,
+213144,OAO NK Yukos,False,,,,,,
+213166,Eesti Uhispank,False,,,,,,
+213193,Oriental Land Co. Ltd.,False,,,,,,
+213194,SEAT PagineGialle SpA,False,,,,,,
+213202,Chiao Tung Bank,False,,,,,,
+213203,New Zealand Dairy Board,False,,,,,,
+213210,Ritek Corp.,False,,,,,,
+213217,Cathay United Bank Co. Ltd.,False,,,,,,
+213248,Ronin Property Group,False,,,,,,
+213252,Banco BICE,False,,,,,,
+213254,Scotiabank Chile,False,,,,,,
+213257,Banco do Estado de Sao Paulo S.A.,False,,,,,,
+213259,Banco Real S.A.,False,,,,,,
+213260,Empresa Electrica Pehuenche S.A.,False,,,,,,
+213278,Digital Telecommunications Philippines Inc.,False,,,,,,
+213290,Aguas Andinas S.A.,False,,,,,,
+213322,Hypo Vorarlberg Bank AG,False,,,,,,
+213327,Concordia Maritime AB,False,,,,,,
+213348,Swiss Re Mexico S.A.,False,,,,,,
+213367,Deutsche Pfandbriefbank AG,False,,,,,,
+213380,Ping An Bank Co. Ltd.,False,,,,,,
+213398,Lloyd Continental S.A.,False,,,,,,
+213408,Sueddeutsche Bodencreditbank AG,False,,,,,,
+213410,Vereinte Versicherung AG,False,,,,,,
+213423,Centrica PLC,False,CENTRICA PLC,4923,221210,710,700,GBR
+213436,AXA Portugal Companhia de Seguros,False,,,,,,
+213467,KCB Group Ltd.,False,,,,,,
+213472,Qatar National Bank ALAHLI S.A.E,False,,,,,,
+213491,Kier Group PLC,False,,,,,,
+213494,Kerry Properties Ltd.,False,KERRY PROPERTIES LTD,6500,237210,305,976,BMU
+213495,Shenzhen Expressway Corp. Ltd.,False,,,,,,
+213509,Yuexiu Transport Infrastructure Ltd.,False,,,,,,
+213531,Al-Ahram Beverages Co. S.A.E.,False,,,,,,
+213532,MOL Hungarian Oil and Gas PLC,False,MOL HUNGARIAN OIL,2911,324110,380,935,HUN
+213559,Ignitis Gamyba,False,,,,,,
+213860,Banco Internacional del Peru S.A.A. - Interbank,False,,,,,,
+213999,Egyptian American Bank S.A.E.,False,,,,,,
+214000,Equitable PCI Bank Inc.,False,,,,,,
+214519,SinoPac Holdings,False,,,,,,
+214523,E.SUN Financial Holding Co. Ltd.,False,,,,,,
+214523,E.SUN Commercial Bank Ltd.,False,,,,,,
+214527,Taishin Financial Holding Co. Ltd.,False,,,,,,
+214659,Erste Group Bank AG,False,ERSTE GROUP BK AG,6020,522110,810,800,AUT
+214759,Heidelberger Druckmaschinen AG,False,,,,,,
+214839,BRISA Auto-Estradas de Portugal S.A.,False,,,,,,
+214881,Nordea Bank Abp,False,NORDEA BANK ABP,6020,522110,810,800,FIN
+214882,Singapore Technologies Engineering Ltd.,False,SINGAPORE TECHNOLOGIES ENGR,3720,3364,220,925,SGP
+215100,Challenger Ltd.,False,,,,,,
+215179,Ayvens,False,,,,,,
+215620,Debenhams PLC,False,DEBENHAMS PLC,5311,452210,430,976,GBR
+215739,Kolbenschmidt Pierburg AG,False,,,,,,
+215842,Bank Audi S.A.L.,False,,,,,,
+215849,Gunes Sigorta A.S.,False,,,,,,
+216026,Belvedere S.A.,False,,,,,,
+216028,Bank of India,False,,,,,,
+216033,Corporation Bank,False,,,,,,
+216259,AAPT Ltd.,False,,,,,,
+216524,EnBW Energie Baden-Wuerttemberg AG,False,,,,,,
+216529,Hypothekenbank Frankfurt AG,False,,,,,,
+216531,Wuerttembergische Lebensversicherung AG,False,,,,,,
+216532,Hypo Real Estate Bank International AG,False,,,,,,
+216608,Munters AB,False,,,,,,
+216609,Metlen Energy & Metals S.A.,False,,,,,,
+216613,TGS ASA,False,,,,,,
+216614,Northern Offshore Ltd.,False,,,,,,
+216616,Ocean Rig UDW Inc.,False,,,,,,
+216629,Seche Environnement S.A.,False,,,,,,
+216659,Aeroporti di Roma SpA,False,,,,,,
+216660,Banca Carige SpA,False,,,,,,
+216662,Banco di Desio e della Brianza S.p.A.,False,,,,,,
+216669,IT Holding SpA,False,,,,,,
+216702,Taiwan Power Co.,False,,,,,,
+216719,Aneka Tambang Tbk. PT,False,,,,,,
+216721,PT MNC Investama Tbk.,False,,,,,,
+216723,PT Sentul City Tbk.,False,,,,,,
+216729,Menatep St. Petersburg,False,,,,,,
+216739,Airport Authority Hong Kong,False,,,,,,
+216839,Anhui Conch Cement Co. Ltd.,False,ANHUI CONCH CEMENT CO LTD,3241,327310,202,970,CHN
+216840,EDP Espirito Santo Distribuicao de Energia S.A.,False,,,,,,
+216900,Kazkommertsbank JSC,False,,,,,,
+217202,Concord New Energy Group Ltd.,False,,,,,,
+217459,Kowloon-Canton Railway Corp.,False,,,,,,
+217643,RHB Investment Bank Bhd.,False,,,,,,
+217719,Banco de Bogota S.A. y Subsidiarias,False,,,,,,
+217999,AMP Ltd.,False,,,,,,
+218468,"Petrol d.d., Ljubljana",False,,,,,,
+219451,TNT Ltd.,False,,,,,,
+219610,Caisse Regionale de Credit Agricole Mutuel de Centre Loire,False,,,,,,
+219611,Caisse Regionale de Credit Agricole Mutuel du Morbihan,False,,,,,,
+219612,Caisse Regionale de Credit Agricole Mutuel de L'oise,False,,,,,,
+219615,Caisse Regionale de Credit Agricole Mutuel de Loire-Haute Loire,False,,,,,,
+219616,Caisse Regionale de Credit Agricole Mutuel du Pas-de-Calais,False,,,,,,
+219617,Caisse Regionale de Credit Agricole Mutuel Toulouse 31,False,,,,,,
+219618,Caisse Regionale de Credit Agricole Mutuel de la Touraine et du Poitou,False,,,,,,
+219634,Altarea SCA,False,,,,,,
+220008,MNRB Holdings Bhd.,False,,,,,,
+220049,Scottish American Investment Co. PLC,False,,,,,,
+220097,Inti Indorayon Utama (P.T),False,,,,,,
+220125,Sumitomo Mitsui Finance and Leasing Co. Ltd.,False,,,,,,
+220161,Bank Polska Kasa Opieki S.A.,False,,,,,,
+220191,Gulf Investment Corporation G.S.C.,False,,,,,,
+220244,Qantas Airways Ltd.,False,QANTAS AIRWAYS LTD,4512,481111,605,600,AUS
+220301,Merck KGaA,False,MERCK KGAA,2834,325412,285,905,DEU
+220313,RENK GmbH,False,,,,,,
+220332,Marseille-Kliniken AG,False,,,,,,
+220347,LeasePlan Corp. N.V.,False,,,,,,
+220350,N.V. Nederlandse Gasunie,False,,,,,,
+220350,Gasunie (B.V. Nederlandse),False,,,,,,
+220375,Koninklijke Vendex KBB N.V.,False,,,,,,
+220376,Corio N.V.,False,,,,,,
+220382,Migros Genossenschaftsbund,False,,,,,,
+220399,Ford Otomotiv Sanayi A.S.,False,,,,,,
+220400,Sisecam,False,,,,,,
+220414,Geely Automobile Holdings Ltd.,False,GEELY AUTOMOBILE HLDGS LTD,3711,336111,454,940,CYM
+220426,Zurich Insurance Group.,False,ZURICH INSURANCE GROUP AG,6351,5241,850,800,CHE
+220454,ESKOM Holdings SOC Ltd.,False,,,,,,
+220475,CESP-Companhia Energetica de Sao Paulo,False,,,,,,
+220478,Eletropaulo Metropolitana Eletricidade de Sao Paulo S.A.,False,,,,,,
+220485,Chilectra S.A.,False,,,,,,
+220496,El Puerto de Liverpool S.A.B. de C.V.,False,,,,,,
+220509,Grupo Mexico S.A.B. de C.V.,False,GRUPO MEXICO SAB DE CV,1000,2122,360,970,MEX
+220520,Danfoss A/S,False,,,,,,
+220562,SES S.A.,False,,,,,,
+220575,SAS AB,False,,,,,,
+220586,Naturgy Energy Group S.A.,False,NATURGY ENERGY GROUP SA,4923,221210,710,700,ESP
+220601,Informa PLC,False,INFORMA PLC,7310,5418,410,976,GBR
+220626,Air Water Inc.,False,,,,,,
+220690,Kamps AG,False,,,,,,
+220833,Airbus SE,False,AIRBUS SE,3721,336411,220,925,NLD
+220840,Altran Technologies S.A.,False,,,,,,
+220867,AREVA,False,,,,,,
+220904,Delachaux Group SAS,False,,,,,,
+220920,Electricite de France S.A.,False,EDF,4911,2211,705,700,FRA
+220926,Eutelsat Communications S.A.,False,EUTELSAT GROUP,4899,517410,180,940,FRA
+220929,Covivio Hotels,False,,,,,,
+220933,Indigo Infra S.A.S.,False,,,,,,
+221130,Copenhagen Airports A/S,False,,,,,,
+221170,Workspace Group PLC,False,,,,,,
+221192,Matsumotokiyoshi Co. Ltd.,False,,,,,,
+221225,Companhia de Seguros Fidelidade - Mundial S.A.,False,,,,,,
+221225,Mundial Confianca Cia de Seguros S.A.,False,,,,,,
+221244,Adidas AG,False,ADIDAS AG,3021,316210,475,976,DEU
+221486,Elekta AB (publ),False,ELEKTA AB,3845,334510,300,905,SWE
+221497,Alfa S.A.B. de C.V.,False,,,,,,
+221523,Molibdenos y Metales S.A.,False,,,,,,
+221574,Capital Shopping Centres PLC,False,,,,,,
+221577,Corporacion Interamericana de Entretenimiento S.A.B. de C.V.,False,,,,,,
+221614,Deutsche Bahn AG,False,,,,,,
+221618,Kongsberg Automotive ASA,False,,,,,,
+221662,"Marfin Egnatia Bank, S.A.",False,,,,,,
+221666,Southern Telecommunications Co. (OJSC),False,,,,,,
+221685,North-West Telecom (JSC),False,,,,,,
+221754,Sanyo Shinpan Finance Co. Ltd.,False,,,,,,
+221838,National Development Bank PLC,False,,,,,,
+221858,Reckitt Benckiser Group PLC,False,RECKITT BENCKISER GROUP PLC,2840,3256,320,978,GBR
+221884,Gecina,False,GECINA SA,6798,531120,305,976,FRA
+222003,SMBC Consumer Finance Co. Ltd.,False,,,,,,
+222033,Bankas Snoras,False,,,,,,
+222046,Ahlstrom Holding 3 Oy,False,,,,,,
+222055,Pabrik Kertas Tjiwi Kimia Tbk (P.T),False,,,,,,
+222066,PT Hanjaya Mandala Sampoerna Tbk.,False,,,,,,
+222093,Mitsubishi Corp. Finance PLC,False,,,,,,
+222169,Empresas Copec S.A.,False,,,,,,
+222174,AB Ukio Bankas,False,,,,,,
+222186,"ACS, Actividades de Construccion y Servicios SA",False,ACS ACTIVIDADES DE CONSTRUCC,1600,237,240,925,ESP
+222199,ENCE Energia y Celulosa S.A.,False,,,,,,
+222202,Tabcorp Holdings Ltd.,False,,,,,,
+222203,Caisse Nationale des Autoroutes,False,,,,,,
+222206,La Doria S.p.A.,False,,,,,,
+222214,PTT Aromatics and Refining Public Co. Ltd.,False,,,,,,
+222235,Ervia,False,,,,,,
+222284,Covivio,False,,,,,,
+222290,EBN B.V.,False,,,,,,
+222301,Crown Resorts Ltd.,False,,,,,,
+222302,Intermediate Capital Group PLC,False,,,,,,
+222305,DCC plc,False,,,,,,
+222309,Astra International Tbk. PT,False,ASTRA INTERNATIONAL TBK (PT),9997,999977,130,976,IDN
+222313,Reed-Elsevier Group,False,,,,,,
+222333,Vattenfall AB,False,,,,,,
+222376,West Japan Railway Co.,False,WEST JAPAN RAILWAY CO,4100,485112,620,600,JPN
+222379,Kering S.A.,False,KERING SA,3100,316,430,976,FRA
+222395,DNO ASA,False,,,,,,
+222398,Aeon Co. Ltd.,False,AEON CO LTD,5399,452311,445,976,JPN
+222504,Castellum AB,False,CASTELLUM AB,6512,531120,305,976,SWE
+222505,SAAB AB,False,SAAB AB (PUBL),3720,3364,110,925,SWE
+222582,Universal Entertainment Corp.,False,,,,,,
+222601,A2A SpA,False,,,,,,
+222761,Auckland International Airport Ltd.,False,AUCKLAND INTL AIRPORT LTD,4581,48811,620,600,NZL
+222764,United Energy Distribution Pty Ltd.,False,,,,,,
+222765,Mizrahi Tefahot Bank Ltd.,False,,,,,,
+223003,CSL Ltd.,False,CSL LTD,2836,325414,280,905,AUS
+223060,Jain Irrigation Systems Ltd.,False,,,,,,
+223062,Kotak Mahindra Bank,False,,,,,,
+223089,Hornbach Baumarkt AG,False,,,,,,
+223096,Computershare Ltd.,False,COMPUTERSHARE LTD CPU,6211,523150,185,940,AUS
+223107,Shin Kong Life Insurance Co. Ltd.,False,,,,,,
+223142,S-Oil Corp.,False,S-OIL CORP,2911,324110,390,935,KOR
+223147,Ellaktor S.A.,False,,,,,,
+223150,SoftBank Corp.,False,,,,,,
+223174,Groupama Insurance Co. Ltd.,False,,,,,,
+223370,Banque Rhone Alpes S.A.,False,,,,,,
+223393,Impact Developer & Contractor SA,False,,,,,,
+223492,Assa Abloy AB,False,ASSA ABLOY AB,3442,332321,270,976,SWE
+223500,Permanent TSB Group Holdings PLC,False,,,,,,
+223502,MS Amlin PLC,False,,,,,,
+223521,CAPEX S.A.,False,,,,,,
+223528,Japan Tobacco Inc.,False,JAPAN TOBACCO INC,2111,312230,470,978,JPN
+223581,PT Davomas Abadi Tbk.,False,,,,,,
+223584,PT Fajar Surya Wisesa Tbk.,False,,,,,,
+223593,Mulialand (P.T.),False,,,,,,
+224159,Barry Callebaut AG,False,BARRY CALLEBAUT AG,2060,311351,250,978,CHE
+224431,Blom Bank sal,False,,,,,,
+224582,Arab Tunisian Bank,False,,,,,,
+224586,BH Bank,False,,,,,,
+224597,Banque Nationale Agricole,False,,,,,,
+224893,Israel Phoenix Assurance Co. Ltd.,False,,,,,,
+224977,Orange Polska S.A.,False,,,,,,
+225078,Baader Wertpapierhandelsbank AG,False,,,,,,
+225081,Banco BPM,False,,,,,,
+225081,Banco Popolare Societa Cooperativa SCRL,False,,,,,,
+225081,Banco Popolare di Verona e Novara SCRL,False,,,,,,
+225081,Banca Popolare di Verona - Banco San Geminiano e S. Prospero SpA,False,,,,,,
+225095,Singtel Optus Pty Ltd.,False,,,,,,
+225244,CNP Assurances,False,,,,,,
+225597,Fortum Oyj,False,FORTUM OYJ,4911,2211,380,935,FIN
+225817,Mohandes Insurance Co.,False,,,,,,
+225957,WestArt Trust,False,,,,,,
+226136,ASX Ltd.,False,ASX LTD,6200,523210,822,800,AUS
+226180,Australian Gas Networks Ltd.,False,,,,,,
+226625,Societe Tunisienne d'Ass. & de Reass.,False,,,,,,
+226659,Oracle Corp. Japan,False,,,,,,
+226916,BWP Trust,False,,,,,,
+227218,Befimmo S.A.,False,,,,,,
+227516,Caisse Regionale de Credit Agricole Mutuel Paris Ile-de-France,False,,,,,,
+227537,Eurobank Holdings,False,EUROBANK ERGASIAS SERVICES A,6020,522110,810,800,GRC
+227616,Hiscox Ltd.,False,HISCOX LTD,6331,524126,835,800,BMU
+227916,Contact Energy Ltd.,False,,,,,,
+227998,Dexus Office Trust Australia,False,,,,,,
+228336,Zurich Group Holding,False,,,,,,
+228477,Ferrovial SE,False,,,,,,
+228856,Mirvac Group,False,,,,,,
+228918,Geberit AG,False,GEBERIT AG,3430,332913,155,976,CHE
+229157,Taipei Fubon Commercial Bank Co. Ltd.,False,,,,,,
+229977,Rodamco North America N.V.,False,,,,,,
+230336,HIH Insurance Ltd.,False,,,,,,
+231038,Hutchison Telecommunications (Australia) Ltd.,False,,,,,,
+231081,GfK SE,False,,,,,,
+231087,Powerchip Semiconductor Corp.,False,,,,,,
+231137,Taiwan Business Bank,False,,,,,,
+231397,Lonza Group AG,False,LONZA GROUP AG,2800,325,285,905,CHE
+231496,Wuestenrot & Wuerttembergische AG,False,,,,,,
+231657,Taiwan Cooperative Bank Ltd.,False,,,,,,
+231657,Taiwan Cooperative Financial Holding Co. Ltd.,False,,,,,,
+231719,Petra Diamonds Ltd.,False,,,,,,
+231809,Unite Group PLC,False,,,,,,
+232085,DiGi. Com Berhad,False,,,,,,
+232106,H. Lundbeck A/S,False,H LUNDBECK A/S,2834,325412,285,905,DNK
+232256,Tiscali SpA,False,,,,,,
+232530,Banco Voiter S.A.,False,,,,,,
+232532,Neoenergia S.A.,False,NEOENERGIA SA,4911,2211,,,BRA
+232564,Colombia,False,,,,,,
+232630,"NOS, SGPS S.A.",False,NOS SGPS SA,4841,515210,150,978,PRT
+232646,Orsted A/S,False,ORSTED A/S,4991,2211,,,DNK
+232719,Bank of England,False,,,,,,
+232898,Carmila S.A.S.,False,,,,,,
+233102,Plaut AG,False,,,,,,
+233257,Acea SpA,False,,,,,,
+233273,Sanitec Oyj,False,,,,,,
+233273,Sanitec International S.A.,False,,,,,,
+233320,Poste Italiane Group,False,,,,,,
+233329,Development Bank of Japan Inc.,False,,,,,,
+233332,Japan Finance Corp.,False,,,,,,
+233332,Japan Bank for International Cooperation (Old),False,,,,,,
+233341,MegaFon PJSC,False,MEGAFON PJSC,4812,517312,,,RUS
+233422,Poland,False,,,,,,
+233435,S.C. Hidroelectrica S.A.,False,,,,,,
+233488,Korea Land and Housing Corp.,False,,,,,,
+233488,Korea National Housing Corp.,False,,,,,,
+233654,NEMI Forsikring ASA,False,,,,,,
+234087,Elisa Oyj,False,,,,,,
+234104,Kaufman & Broad S.A.,False,,,,,,
+234117,"Redeia Corporacion, S.A.",False,REDEIA CORPORACION S A,4911,2211,705,700,ESP
+234181,Fastighets AB Balder,False,,,,,,
+234376,KT&G Corp.,False,KT&G CORP,2111,312230,470,978,KOR
+234876,Boral Ltd.,False,BORAL LTD,3270,327320,202,970,AUS
+234876,Boral Ltd. (Old),False,BORAL LTD,3270,327320,202,970,AUS
+235320,Techem GmbH,False,,,,,,
+235520,Fubon Commercial Bank,False,,,,,,
+235636,Elior Group S.A.,False,,,,,,
+235653,TOM Group Ltd.,False,,,,,,
+235656,Coface S.A.,False,,,,,,
+235820,HCL Technologies Ltd.,False,,,,,,
+236236,Westpac New Zealand Ltd.,False,,,,,,
+236259,Rakuten Group Inc.,False,RAKUTEN GROUP INC,5961,454110,447,976,JPN
+236556,Industrial Bank of Korea,False,INDUSTRIAL BANK OF KOREA,6020,522110,,,KOR
+237159,Enitel ASA,False,,,,,,
+237419,Givaudan SA,False,GIVAUDAN SA,2080,311942,292,905,CHE
+237807,Taiwan Fire & Marine Insurance Co. Ltd.,False,,,,,,
+237808,Taiwan Life Insurance Co. Ltd.,False,,,,,,
+237996,Shanghai Industrial Urban Development Group Ltd.,False,,,,,,
+238456,Grenke AG,False,,,,,,
+238484,Logwin AG,False,,,,,,
+238523,Global Telecom Holdings S.A.E.,False,GLOBAL TELECOM HOLDING SAE,4812,517312,,,EGY
+238718,Caisse Regionale de Credit Agricole Mutuel Sud Rhone-Alpes,False,,,,,,
+238919,Vanguard International Semiconductor Corp.,False,,,,,,
+238936,Star Cruises Ltd.,False,,,,,,
+239056,SMRT Corp. Ltd.,False,,,,,,
+239116,Insurance Australia Group Ltd.,False,INSURANCE AUSTRALIA GROUP,6331,524126,835,800,AUS
+239398,China Taiping Insurance Holdings Co. Ltd.,False,,,,,,
+239496,Lawson Inc.,False,,,,,,
+239585,Central Telecommunications Co. (OJSC),False,,,,,,
+239603,Intralot S.A.,False,,,,,,
+239856,Korea Gas Corp.,False,,,,,,
+240640,Nanya Technology Corp.,False,,,,,,
+240736,Idemia France SAS,False,,,,,,
+240879,Georgica PLC,False,,,,,,
+240936,Investa Office Fund,False,,,,,,
+240943,Lattice Group Ltd.,False,,,,,,
+241000,Leica Geosystems Holdings AG,False,,,,,,
+241078,Banque Marocaine pour le Commerce et l'Industrie,False,,,,,,
+241161,Siemens Gamesa Renewable Energy S.A.,False,SIEMENS GAMESA RENB ENRG SA,3510,333611,705,700,ESP
+241326,Melrose Resources PLC,False,,,,,,
+241359,Alinta 2000 Ltd.,False,,,,,,
+241359,Alinta Ltd.,False,,,,,,
+241456,Deutsche Post AG,False,DEUTSCHE POST AG,4210,492110,605,600,DEU
+241537,CapitaLand Ltd.,False,,,,,,
+241561,easyJet PLC,False,EASYJET PLC,4512,481111,605,600,GBR
+241576,Itiviti Group AB,False,,,,,,
+241794,Credit Foncier et Communal d'Alsace et de Lorraine-Banque,False,,,,,,
+242144,Glenmark Pharmaceuticals Ltd.,False,,,,,,
+242215,Shinkin Central Bank,False,,,,,,
+242384,Companhia Forca e Luz Cataguazes-Leopoldina,False,,,,,,
+242582,Auswide Bank Ltd.,False,,,,,,
+242606,3D-Gold Jewellery Holdings Ltd.,False,,,,,,
+242641,euNetworks Holdings Ltd,False,,,,,,
+242777,Rain CII Carbon (Vizag) Ltd.,False,,,,,,
+242837,AXA Versicherung AG,False,,,,,,
+242865,PT Bank Central Asia Tbk,False,BANK CENTRAL ASIA TBK (PT),6020,522110,810,800,IDN
+243058,Agricultural Bank of Greece S.A.,False,,,,,,
+243090,Compass Group PLC,False,COMPASS GROUP PLC,5812,722310,420,978,GBR
+243143,Frigoglass SAIC,False,,,,,,
+243175,Glitnir Bank,False,,,,,,
+243224,Sjova-Almennar Trygg.,False,,,,,,
+243241,LG Uplus Corp.,False,,,,,,
+243344,Guaranty Trust Holding Co. PLC,False,,,,,,
+243355,New Jubilee Ins. Co. Ltd.,False,,,,,,
+243394,United Bank for Africa PLC,False,,,,,,
+243420,Banka Koper d.d.,False,,,,,,
+243476,First Insurance Co. Ltd. (The),False,,,,,,
+243489,Union Bank of Taiwan,False,,,,,,
+243503,Ta Chong Bank Ltd.,False,,,,,,
+243529,Shinkong Insurance Co. Ltd.,False,,,,,,
+243529,Shin Kong Fire and Marine Insurance Co. Ltd.,False,,,,,,
+243530,Central Reinsurance Corp.,False,,,,,,
+243533,Ratch Group Public Co. Ltd.,False,,,,,,
+243566,KGI Bank,False,,,,,,
+243580,Everlight Electronics Co. Ltd.,False,,,,,,
+243644,KGI Securities Co. Ltd.,False,,,,,,
+243657,Asia Aluminum Holdings Ltd.,False,,,,,,
+243774,Deutsche Boerse AG,False,DEUTSCHE BOERSE AG,6200,523210,822,800,DEU
+243787,Orange PLC,False,,,,,,
+243829,Shanghai Pudong Development Bank Co. Ltd.,False,,,,,,
+243925,Ecclesiastical Insurance Office PLC,False,,,,,,
+244341,IREN SpA,False,,,,,,
+244343,Al-Ahleia Insurance Co. S.A.K.,False,,,,,,
+244347,Banco do Nordeste do Brasil S.A.,False,,,,,,
+244349,Burgan Bank,False,,,,,,
+244356,Goodman Property Trust,False,,,,,,
+244357,Commercial Bank of Kuwait,False,,,,,,
+244381,Kuwait Projects Co. (Holding) K.S.C.,False,,,,,,
+244385,Kuwait Insurance Co. S.A.K.,False,,,,,,
+244397,National Bank of Kuwait S.A.K.,False,,,,,,
+244423,Powerco Ltd.,False,,,,,,
+244756,Deutsche Arzteversicherung AG,False,,,,,,
+245036,LG Chem Ltd.,False,,,,,,
+245097,Frontier Drilling ASA,False,,,,,,
+245197,Rumo S.A.,False,RUMO SA,4011,482111,,,BRA
+245200,Banco do Estado do Rio Grande do Sul S.A.,False,,,,,,
+245202,Chaoda Modern Agriculture (Holdings) Ltd.,False,CHAODA MODERN AGRICULTURE,0100,111,,,CYM
+245285,Deutsche Wohnen SE,False,DEUTSCHE WOHNEN SE,6500,531,,,DEU
+245343,Centrais Eletricas Matogrossenses S.A.,False,,,,,,
+245345,Companhia Energetica de Pernambuco (CELPE),False,,,,,,
+245382,Deoleo S.A.,False,,,,,,
+245436,Banco de Sabadell S.A.,False,,,,,,
+245628,Nordex SE,False,NORDEX SE,3510,333611,,,DEU
+245669,SinoPac Securities Corp.,False,,,,,,
+245672,OPAP S.A.,False,,,,,,
+245722,Marfin Investment Group Holdings S.A.,False,,,,,,
+246014,Goodman Group,False,,,,,,
+246198,BankMuscat S.A.O.G.,False,,,,,,
+246203,National Bank of Oman S.A.O.G.,False,,,,,,
+246208,Oman International Bank S.A.O.G.,False,,,,,,
+246216,JCDecaux SE,False,,,,,,
+246217,Nexans S.A.,False,,,,,,
+246378,Cereol S.A.,False,,,,,,
+246380,Provimi S.A.,False,,,,,,
+246438,Coca Cola Embonor S.A.,False,,,,,,
+246498,Euronext N.V.,False,EURONEXT NV,6200,523210,822,800,NLD
+246520,Friends Life FPG Ltd.,False,,,,,,
+246696,Altareit SCA,False,,,,,,
+246704,Axactor ASA,False,,,,,,
+246706,London Stock Exchange Group PLC,False,LONDON STOCK EXCH GROUP PLC,6200,523210,822,800,GBR
+246741,Ramsay Generale de Sante,False,,,,,,
+246778,Amplifon SpA,False,,,,,,
+247265,Gulf Bank,False,,,,,,
+247266,Gulf Insurance Group K.S.C.P.,False,,,,,,
+247459,ERGO Versicherung AG,False,,,,,,
+247490,Hopson Development Holdings Ltd.,False,,,,,,
+247552,Santander Bank Polska S.A.,False,,,,,,
+247705,Arca Continental Lindley S.A.,False,,,,,,
+247907,Lai Fung Holdings Ltd.,False,,,,,,
+247985,Posco International Corp.,False,,,,,,
+248001,Rock Building Society Ltd. (The),False,,,,,,
+248012,Ranhill Bhd.,False,,,,,,
+248178,TAG Immobilien AG,False,,,,,,
+248384,MMC Norilsk Nickel PJSC,False,PJSC MINING AND METALLURGICA,3330,331410,,,RUS
+248420,Lundin Energy AB,False,ORRON ENERGY AB (PUBL),1311,2111,380,935,SWE
+248438,Japan Real Estate Investment Corp.,False,,,,,,
+248767,AWB Ltd.,False,,,,,,
+248767,Australian Wheat Board,False,,,,,,
+248776,Aurora Oil & Gas Ltd.,False,AURORA OIL & GAS LTD,1311,2111,,,AUS
+248779,Cristal Mining Australia Ltd.,False,,,,,,
+248858,Al Rajhi Bank,False,,,,,,
+248860,arab national bank (anb),False,,,,,,
+248868,Riyad Bank,False,,,,,,
+248869,Samba Financial Group,False,,,,,,
+248870,The Saudi British Bank,False,,,,,,
+248875,Saudi Investment Bank (The),False,,,,,,
+248963,Saudi Basic Industries Corp.,False,,,,,,
+249018,Banque Saudi Fransi,False,,,,,,
+249018,AL Bank AL Saudi AL Fransi,False,,,,,,
+249023,Saudi Hollandi Bank,False,,,,,,
+249085,Broadspectrum Pty Ltd.,False,,,,,,
+249249,Banque de Tunisie et des Emirats,False,,,,,,
+249298,Dentsu Inc.,False,DENTSU GROUP INC,7311,541810,456,976,JPN
+249399,PTT Public Co. Ltd.,False,,,,,,
+249457,Snam SpA,False,SNAM SPA,4923,221210,710,700,ITA
+249479,Baoshan Iron & Steel Co. Ltd.,False,,,,,,
+249482,China Minsheng Banking Corp. Ltd.,False,CHINA MINSHENG BANKING CORP,6020,522110,,,CHN
+249512,Shizuoka Gas Co. Ltd.,False,,,,,,
+249604,Nomura Research Institute Ltd.,False,NOMURA RESEARCH INSTITUTE,7370,541519,185,940,JPN
+249638,Public Power Corp. S.A.,False,PUBLIC POWER CORPORATION SA,4911,2211,,,GRC
+249718,Caisse Regionale de Credit Agricole Mutuel de Normandie-Seine,False,,,,,,
+249738,Fubon Financial Holding Co. Ltd.,False,,,,,,
+250339,Arcelor S.A.,False,,,,,,
+250579,Japan Metropolitan Fund Investment Corp.,False,JAPAN METROPOLITAN FUND INVE,6798,531120,,,JPN
+250739,DEPFA Bank PLC,False,,,,,,
+250779,Xstrata Ltd.,False,,,,,,
+250798,Autoroutes du Sud de la France S.A.,False,,,,,,
+250801,HannStar Display Corp.,False,,,,,,
+250818,Daido Life Insurance Co.,False,T&D HLDGS INC,6311,524113,,,JPN
+250839,CITIC Resources Holdings Ltd.,False,,,,,,
+251118,Bharti Airtel Ltd.,False,,,,,,
+251138,Abu Dhabi Commercial Bank PJSC,False,,,,,,
+251141,Ahli United Bank B.S.C.,False,,,,,,
+251142,Al Ahlia Insurance Co. B.S.C.,False,,,,,,
+251165,Arab Banking Corp. B.S.C.,False,,,,,,
+251194,Bahrain Kuwait Insurance Co. BSC,False,,,,,,
+251201,Bahrain Telecommunications Co.,False,,,,,,
+251221,Qatar National Bank (Q.P.S.C.),False,,,,,,
+251223,Qatar Islamic Bank Q.P.S.C.,False,,,,,,
+251246,Dubai Islamic Bank,False,,,,,,
+251247,National Bank of Dubai,False,,,,,,
+251248,Emaar Properties PJSC,False,,,,,,
+251250,Emirates Bank International PJSC,False,,,,,,
+251303,LG Electronics Inc.,False,,,,,,
+251352,Shanghai Construction Group Co. Ltd.,False,,,,,,
+251400,South Staffordshire PLC,False,,,,,,
+251719,Punch Taverns Ltd.,False,,,,,,
+251720,ENN Energy Holdings Ltd.,False,ENN ENERGY HOLDINGS LTD,4932,221210,,,CYM
+251864,Intrum AB (publ),False,INTRUM AB (PUBL),7320,561440,,,SWE
+251865,ORIX JREIT Inc.,False,,,,,,
+251879,Shinhan Card Co. Ltd.,False,,,,,,
+251921,Alfa Laval AB,False,ALFA LAVAL AB PUBL,3569,333999,345,925,SWE
+252005,Japan Prime Realty Investment Corp.,False,,,,,,
+252018,Astaldi SpA,False,,,,,,
+252119,Nippon Building Fund Inc.,False,,,,,,
+252218,SRE Group Ltd.,False,,,,,,
+252238,Banco De Oro Unibank Inc.,False,BDO UNIBANK INC,6020,522110,,,PHL
+252268,Sydney Airport Holdings Ltd.,False,,,,,,
+252278,Axis Bank Ltd.,False,AXIS BANK LTD,6020,522110,,,IND
+252283,Towngas Smart Energy Co. Ltd.,False,,,,,,
+252290,BlueScope Steel Ltd.,False,BLUESCOPE STEEL LTD,3310,3311,,,AUS
+252295,Far EasTone Telecommunications Co. Ltd.,False,FAR EASTONE TELECOMMUNICTN,4812,517312,,,TWN
+252380,Coastal Greenland Ltd.,False,,,,,,
+252384,Intertek Group PLC,False,INTERTEK GROUP PLC,8700,541380,,,GBR
+252420,Ocean Grand Holdings Ltd.,False,,,,,,
+252461,China Water Affairs Group Ltd.,False,,,,,,
+252465,Enagas S.A.,False,ENAGAS SA,4922,486210,710,700,ESP
+252586,Beijing Energy International Holding Co. Ltd.,False,,,,,,
+252644,Korea Exchange Bank Credit Service Co. Ltd.,False,,,,,,
+252658,Aeon Mall Co. Ltd.,False,,,,,,
+253408,Tiger Resources Limited,False,TIGER RESOURCES LTD,1000,212,,,AUS
+253541,Home Building Society Ltd.,False,,,,,,
+253738,JFE Holdings Inc.,False,,,,,,
+254023,China Merchants Bank Co. Ltd.,False,,,,,,
+254058,Caisse Regionale de Credit Agricole Mutuel Nord de France,False,,,,,,
+254247,Quanta Display Inc.,False,,,,,,
+254518,ASM Brescia SpA,False,,,,,,
+254519,Conwert Immobilien Invest SE,False,,,,,,
+254578,Beazley PLC,False,,,,,,
+254639,Bakkavor Group ehf,False,,,,,,
+254641,China Oilfield Services Ltd.,False,,,,,,
+254642,Commercial Bank (P.S.Q.C.) (The),False,,,,,,
+254661,Tatra Banka,False,,,,,,
+254665,Worley Ltd.,False,WORLEY LTD,1382,213112,,,AUS
+254778,Atrium European Real Estate Ltd.,False,,,,,,
+254849,Transneft PJSC,False,,,,,,
+254858,Compania de Transporte de Energia Electrica en Alta Tension TRANSENER S.A.,False,,,,,,
+255118,CapitaLand Integrated Commercial Trust,False,,,,,,
+255244,Naver Corp.,False,,,,,,
+255701,Canara Bank,False,,,,,,
+255702,Punjab National Bank,False,,,,,,
+255820,Sojitz Corp.,False,,,,,,
+255858,Taiyo Life Insurance Co.,False,,,,,,
+255972,Hua Han Health Industry Holdings Ltd.,False,,,,,,
+256050,OJSC RBC Information Systems,False,,,,,,
+256099,PT Apexindo Pratama Duta Tbk.,False,,,,,,
+256358,Suncorp Insurance Services Ltd.,False,,,,,,
+256841,Northumbrian Water Group Ltd.,False,,,,,,
+256941,Singapore Post Ltd.,False,,,,,,
+256945,Petropavlovsk PLC,False,PETROPAVLOVSK PLC,1040,212221,,,GBR
+257078,Caisse Regionale de Credit Agricole Mutuel Alpes Provence,False,,,,,,
+257120,Citic Securities Co. Ltd.,False,,,,,,
+257130,Caisse Regionale de Credit Agricole Mutuel d'Aquitaine,False,,,,,,
+257156,Union Bank of India,False,,,,,,
+257282,Darty PLC,False,,,,,,
+257310,Forte PLC,False,,,,,,
+257360,UniCredit Bank Austria AG,False,,,,,,
+257399,Beijing Capital Land Ltd.,False,,,,,,
+257411,hibu PLC,False,,,,,,
+257421,Bank Mandiri (Persero) PT,False,BANK MANDIRI (PERSERO) TBK,6020,522110,,,IDN
+257664,Renesas Electronics Corp.,False,RENESAS ELECTRONICS CORP,3674,334413,,,JPN
+257860,Incitec Pivot Ltd.,False,INCITEC PIVOT LTD,2890,325920,,,AUS
+258080,Uralkali PJSC,False,,,,,,
+258259,Tokyu REIT Inc.,False,,,,,,
+258400,Tokyo Century Corp.,False,,,,,,
+258459,Hazama Corp.,False,,,,,,
+258518,Ymobile Corp.,False,,,,,,
+258644,Qatar Insurance Co. Q.S.P.C.,False,,,,,,
+258667,Doha Insurance Group Q.P.S.C.,False,,,,,,
+258694,Indian Overseas Bank,False,,,,,,
+258696,Industries Qatar QSC,False,,,,,,
+258702,Sri Lanka Telecom PLC,False,,,,,,
+258703,Investec Bank Ltd.,False,,,,,,
+258732,Nedbank Ltd.,False,,,,,,
+258778,Warba Insurance and Reinsurance Co. K.S.C.P.,False,,,,,,
+259199,China Resources Power Holdings Co. Ltd.,False,,,,,,
+259298,Nomura Real Estate Office Fund Inc.,False,,,,,,
+259440,Virgin Australia Holdings Ltd.,False,,,,,,
+259543,Zijin Mining Group Co. Ltd.,False,ZIJIN MINING GROUP CO LTD,1040,212221,,,CHN
+259598,Formosa Petrochemical Corp.,False,,,,,,
+259625,Northern Star Resources Ltd.,False,NTHN STAR RES LTD,1040,212220,,,AUS
+259738,Corporation VSMPO-AVISMA PSC,False,,,,,,
+259797,Countrywide Home Loans Inc.,False,,,,,,
+259799,Compass Aerospace Corp.,False,,,,,,
+259815,Southern Co. Gas Capital Corp.,False,,,,,,
+259831,Beijing New Building Materials Public Ltd. Co.,False,,,,,,
+259840,American United Life Insurance Co.,False,,,,,,
+259844,AmeriGas Finance Corp.,False,,,,,,
+259849,AMI Semiconductor Inc.,False,,,,,,
+259872,Argentina,False,,,,,,
+259896,Zoomlion Heavy Industry Science and Technology Co. Ltd.,False,ZOOMLION HEAVY IND SCIENCE,3531,333120,,,CHN
+259907,Central Bank of Tunisia,False,,,,,,
+259912,Bayan Telecommunications Inc.,False,,,,,,
+259914,BBVA Global Finance Ltd.,False,,,,,,
+259924,Better Minerals & Aggregates Co.,False,,,,,,
+259930,BP Capital Markets PLC,False,,,,,,
+259932,Brazil,False,,,,,,
+259935,British Telecommunications PLC,False,,,,,,
+259936,British Transco Finance Inc.,False,,,,,,
+259957,Canada Mortgage and Housing Corp.,False,,,,,,
+260010,Hua Xia Bank Co. Ltd.,False,,,,,,
+260022,Colonial Realty L.P.,False,,,,,,
+260029,Inner Mongolia Yili Industrial Group Co. Ltd.,False,,,,,,
+260048,J. Crew Operating Corp.,False,,,,,,
+260052,CSK Auto Inc.,False,,,,,,
+260054,CSR Finance Ltd.,False,,,,,,
+260112,Entercom Radio LLC,False,,,,,,
+260114,Enterprise Products Operating LLC,False,,,,,,
+260115,EOP Operating  L.P.,False,,,,,,
+260142,First Industrial L.P.,False,,,,,,
+260148,"First Union National Bank of Florida, Jacksonville",False,,,,,,
+260150,FirstBank Puerto Rico,False,,,,,,
+260163,Shanghai Electric Power Co. Ltd.,False,,,,,,
+260192,Sinochem International Corp.,False,,,,,,
+260210,Caesars Entertainment Operating Co. Inc.,False,,,,,,
+260267,Wanhua Chemical Group Co. Ltd.,False,,,,,,
+260287,KfW International Finance Inc.,False,,,,,,
+260293,Korea (the Republic of),False,,,,,,
+260297,Enbridge Energy L.P.,False,,,,,,
+260301,Eni USA Inc.,False,,,,,,
+260302,LBI Media Inc.,False,,,,,,
+260304,Lehman Brothers Inc.,False,,,,,,
+260310,Lombardy (Region of ),False,,,,,,
+260321,PT Perusahaan Gas Negara Tbk.,False,PERUSAHAAN GAS NEGARA TBK,4923,221210,,,IDN
+260333,Mellon Funding Corp.,False,,,,,,
+260334,Mendoza (Province of),False,,,,,,
+260337,Merisant Co.,False,,,,,,
+260355,Millennium America Inc.,False,,,,,,
+260374,Hungary (National Bank of),False,,,,,,
+260375,National Power Corp.,False,,,,,,
+260434,O'Sullivan Industries Inc.,False,,,,,,
+260441,Panama,False,,,,,,
+260449,Park-Ohio Industries Inc.,False,,,,,,
+260462,Peru,False,,,,,,
+260465,Petroliam Nasional Bhd.,False,,,,,,
+260468,Philippines,False,,,,,,
+260523,Renaissance Media LLC,False,,,,,,
+260554,Saskatchewan (Province of),False,,,,,,
+260570,Sheffield Steel Corp.,False,,,,,,
+260580,South Africa,False,,,,,,
+260582,Southern Investments U.K. PLC,False,,,,,,
+260594,Sprint Capital Corp.,False,,,,,,
+260608,Camden Summit Partnership L.P.,False,,,,,,
+260612,Sunoco Logistics Partners Operations L.P.,False,,,,,,
+260616,SUSA Partnership L.P.,False,,,,,,
+260617,Sweden,False,,,,,,
+260618,Swedish Export Credit Corp.,False,SWEDISH EXPORT CREDIT CORP,6159,522298,,,SWE
+260625,Tanger Properties L.P.,False,,,,,,
+260649,Thailand,False,,,,,,
+260654,Weichai Power Co. Ltd.,False,WEICHAI POWER CO LTD,3714,336310,,,CHN
+260658,Ulker Biskuvi,False,,,,,,
+260677,Turkiye,False,,,,,,
+260687,Union Carbide Chemicals & Plastics Co.,False,,,,,,
+260690,Union Planters Bank N.A.,False,,,,,,
+260696,Mexico,False,,,,,,
+260704,Uruguay,False,,,,,,
+260720,Ventas Realty L.P.,False,,,,,,
+260729,Iliad S.A.,False,,,,,,
+260750,BNP Paribas Fortis SA/NV,False,,,,,,
+260753,MRS Logistica S.A.,False,,,,,,
+260793,Al Dhafra Insurance Co. P.S.C.,False,,,,,,
+260794,Al Ain Ahlia Insurance Co. P.S.C.,False,,,,,,
+260795,Emirates Insurance Co. (PSC),False,,,,,,
+260796,Dubai Insurance Co. (P.S.C.),False,,,,,,
+260797,Mashreqbank,False,,,,,,
+260820,Banco Vitalicio de Espana,False,,,,,,
+260840,NN Group N.V.,False,NN GROUP N.V.,6311,5241,,,NLD
+260841,ING Bank N.V.,False,,,,,,
+260963,Nationwide Life Insurance Co.,False,NATIONWIDE LIFE INSURANCE CO,6311,524113,,,USA
+261039,Everest Reinsurance Holdings Inc.,False,,,,,,
+261066,Atlanta Gas Light Co.,False,,,,,,
+261111,Jackson National Life Insurance Co.,False,JACKSON NATIONAL INS CO -OLD,6311,524113,,,USA
+261111,Jackson National Life Insurance Co. of MI,False,JACKSON NATIONAL INS CO -OLD,6311,524113,,,USA
+261515,PNC Funding Corp.,False,,,,,,
+261568,SeaRiver Maritime Financial Holdings Inc.,False,,,,,,
+261667,Reckson Operating Partnership L.P.,False,,,,,,
+261670,Swiss Re Solutions Holding Corp.,False,,,,,,
+261690,FelCor Lodging L.P.,False,,,,,,
+261700,Lion Gables Realty L.P.,False,,,,,,
+261718,Huntsman LLC,False,,,,,,
+261822,OneBeacon U.S. Holdings Inc.,False,,,,,,
+261826,Cargill Inc.,False,,,,,,
+261897,BBVA USA,False,,,,,,
+261956,Post Apartment Homes L.P.,False,,,,,,
+262036,Verizon Global Funding Corp.,False,,,,,,
+262106,Trench Electric B.V.,False,,,,,,
+262132,Quebecor Media Inc.,False,,,,,,
+262893,City National Bank Beverly Hills,False,,,,,,
+263210,American Honda Finance Corp.,False,,,,,,
+263663,WESCO Distribution Inc.,False,,,,,,
+263690,Extendicare Health Services Inc.,False,,,,,,
+263730,ERP Operating L.P.,False,,,,,,
+263821,SESI LLC,False,,,,,,
+263894,Von Hoffmann Corp.,False,,,,,,
+263903,Collins & Aikman Products Co.,False,,,,,,
+263905,Highwoods Realty L.P.,False,,,,,,
+263930,American Water Capital Corp.,False,,,,,,
+263997,International Telephone & Telegraph Corp.,False,,,,,,
+264167,James River Corp. Of Virginia,False,,,,,,
+264167,Fort James Operating Co.,False,,,,,,
+264351,Yara International ASA,False,YARA INTERNATIONAL ASA,2870,32531,,,NOR
+264411,Block Communications Inc.,False,BLOCK COMMUNICATIONS INC,4841,515210,,,USA
+264773,Hines Nurseries Inc.,False,,,,,,
+264812,Jacobs Entertainment Inc.,False,,,,,,
+265109,Champion Home Builders Co.,False,,,,,,
+265305,Toll Brothers Finance Corp.,False,,,,,,
+265341,IESI Corp.,False,,,,,,
+265512,SunTrust Bank,False,,,,,,
+265816,Total Safety U.S. Inc.,False,,,,,,
+265974,Compass Minerals Group Inc.,False,,,,,,
+265975,Louisville & Nashville Railroad Co.,False,LOUISVILLE & NASHVILLE RR CO,4011,4821,,,UNK
+266077,Toll Corp.,False,,,,,,
+266339,Alamosa Delaware Inc.,False,,,,,,
+267002,SNS REAAL N.V.,False,,,,,,
+267035,Halyk Bank JSC,False,,,,,,
+267188,Cuscal Ltd.,False,,,,,,
+267371,Localiza Rent a Car S.A.,False,LOCALIZA RENT A CAR SA,7510,532111,,,BRA
+267407,Glencore PLC,False,GLENCORE PLC,1220,2121,,,JEY
+267442,Chilena Consolidada Seguros Generales S.A.,False,,,,,,
+267461,Bank of China Ltd.,False,BANK OF CHINA LTD,6020,522110,,,CHN
+267462,Bank of Communications Co. Ltd.,False,BANK OF COMMUNICATIONS CO,6020,522110,,,CHN
+267620,DZ Bank AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main,False,,,,,,
+267663,AXA Lebensversicherung AG,False,,,,,,
+267666,Delta Lloyd Lebensversicherung AG,False,,,,,,
+267882,Banque PSA Finance,False,,,,,,
+268120,National Grid Electricity Distribution (South Wales) PLC,False,,,,,,
+268159,Direct Line Insurance Group PLC,False,DIRECT LINE INSURANCE GRP,6331,5241,,,GBR
+268219,Premier Foods PLC,False,PREMIER FOODS PLC,2033,311421,,,GBR
+268315,PT Bank Tabungan Negara (Persero),False,,,,,,
+268321,New India Assurance Co. Ltd.,False,,,,,,
+268324,Power Finance Corp. Ltd.,False,,,,,,
+268325,NTPC Ltd.,False,,,,,,
+268326,Central Bank of India,False,,,,,,
+268421,Parmalat SpA,False,,,,,,
+268456,Nippon Life Insurance Co.,False,,,,,,
+268491,KazTransOil,False,,,,,,
+268563,"Credito Real, S.A.B. de C.V., SOFOM, E.N.R.",False,,,,,,
+268567,Urbi Desarrollos Urbanos S.A.B.de C.V.,False,,,,,,
+268593,Banque Centrale Populaire,False,,,,,,
+268629,Vector Ltd.,False,,,,,,
+268671,Polish Oil & Gas Company SA (PGNiG),False,,,,,,
+268686,Al-Khaleej Takaful Insurance Co. Q.P.S.C.,False,,,,,,
+268692,ALROSA PJSC,False,,,,,,
+268696,Saudi National Bank,False,,,,,,
+268720,Nova Ljubljanska Banka D.D.,False,,,,,,
+268759,Nobina AB,False,,,,,,
+268786,Shanghai Commercial & Savings Bank Ltd. (The),False,,,,,,
+268793,Sukoon Insurance PJSC,False,,,,,,
+268802,Joint Stock Commercial Bank for Investment and Development of Vietnam,False,,,,,,
+268827,Abu Dhabi National Insurance Co. (PSC),False,,,,,,
+268830,Turkiye Halk Bankasi A.S.,False,TURKIYE HALK BANKASI A.S.,6020,522110,,,TUR
+268835,Kazakhtelecom JSC,False,,,,,,
+268839,Unison Forsikring,False,,,,,,
+268844,Energisa S.A.,False,,,,,,
+268868,Deutsche Postbank AG,False,,,,,,
+268891,Nurbank JSC,False,,,,,,
+268956,DUET Group,False,,,,,,
+269027,Bulgarian American Credit Bank,False,,,,,,
+269104,Bauer AG,False,,,,,,
+269176,Caisse Regionale de Credit Agricole Mutuel Atlantique Vendee,False,,,,,,
+269269,NHPC Ltd.,False,,,,,,
+269277,Smurfit Kappa Funding PLC,False,,,,,,
+269313,Aozora Bank Ltd.,False,,,,,,
+269320,Seven Bank Ltd.,False,,,,,,
+269357,ATFBank JSC,False,,,,,,
+269422,Nemak S.A.B. de C.V.,False,,,,,,
+269532,Genesis Energy Ltd.,False,,,,,,
+269546,Powszechny Zaklad Ubezpieczen S.A.,False,,,,,,
+269554,C.N. Transelectrica S.A.,False,,,,,,
+269556,Rosneft Oil Co. PJSC,False,ROSNEFT OIL COMPANY,2911,324110,,,RUS
+269563,TransCreditBank,False,,,,,,
+269595,First Citizens Bank Ltd.,False,,,,,,
+269597,Thai Life Insurance Public Co. Ltd.,False,,,,,,
+269640,Ras Al-Khaimah National Ins Co.,False,,,,,,
+269641,Al Sagr National Insurance Co.,False,,,,,,
+269722,TAL Ltd.,False,,,,,,
+269744,Elia Group SA/NV,False,,,,,,
+269783,Agricultural Bank of China Ltd.,False,AGRICULTURAL BANK OF CHINA,6020,522110,,,CHN
+269784,China Everbright Bank Co. Ltd.,False,,,,,,
+269809,Talanx AG,False,,,,,,
+269835,Brenntag SE,False,BRENNTAG SE,5160,4246,,,DEU
+269922,PT XL Axiata Tbk.,False,PT XL AXIATA TBK,4812,517312,,,IDN
+269924,Indian Railway Finance Corp.,False,,,,,,
+269977,Kazakhstan Electricity Grid Operating Co. (JSC),False,,,,,,
+269978,Bank CenterCredit JSC,False,,,,,,
+269979,Kaspi Bank JSC,False,,,,,,
+269984,Tyco International Group S.A.,False,,,,,,
+270034,Telenet Group Holding N.V.,False,TELENET GROUP HOLDING NV,4841,516210,,,BEL
+270043,Mercury NZ Ltd.,False,,,,,,
+270045,Meridian Energy Ltd.,False,,,,,,
+270046,Fonterra Co-operative Group Ltd.,False,,,,,,
+270053,Sistema (PJSFC),False,SISTEMA PJSFC,4899,517919,,,RUS
+270074,Turkiye Vakiflar Bankasi TAO,False,TURKIYE VAKIFLAR BANKASI,6020,522110,,,TUR
+270079,PrivatBank,False,,,,,,
+270088,BTA Bank J.S.C.,False,,,,,,
+270226,CapitaLand Commercial Trust,False,,,,,,
+270266,UBI Banca SpA,False,,,,,,
+270266,Banca Popolare di Bergamo-Credito Varesino,False,,,,,,
+270274,Paysafe Group PLC,False,,,,,,
+270280,Kazanorgsintez OJSC,False,,,,,,
+270404,ams-OSRAM AG,False,AMS-OSRAM AG,3674,334413,,,AUT
+270405,China Mengniu Dairy Co. Ltd.,False,CHINA MENGNIU DAIRY CO,2020,311511,,,CYM
+270429,PT Energi Mega Persada Tbk.,False,,,,,,
+270451,Terna SpA,False,TERNA SPA,4911,2211,,,ITA
+270479,HC Group Inc.,False,,,,,,
+270529,Syndicate Bank,False,,,,,,
+270589,Pinewood Group Ltd.,False,,,,,,
+270615,Tencent Holdings Ltd.,False,TENCENT HOLDINGS LTD,7370,519130,,,CYM
+270750,Xinhu Zhongbao Co. Ltd.,False,,,,,,
+270779,Nacional Financiera S.N.C. (NAFIN),False,,,,,,
+270783,Pakistan Insurance Corporation,False,,,,,,
+270803,Frontier Real Estate Investment Corp.,False,,,,,,
+270804,PBG S.A.,False,,,,,,
+270885,Tata Consultancy Services Ltd.,False,,,,,,
+270934,Merrill Lynch European Investment Trust PLC,False,,,,,,
+271031,Electric Power Development Co. Ltd.,False,,,,,,
+271111,Thai Oil Public Co. Ltd.,False,,,,,,
+271112,Xinhua Finance Ltd.,False,,,,,,
+271182,Elpida Memory Inc.,False,,,,,,
+271187,Powszechna Kasa Oszczednosci Bank Polski S.A.,False,,,,,,
+271196,Inpex Corp.,False,INPEX CORP,1311,2111,,,JPN
+271196,INPEX Corp. (old),False,INPEX CORP,1311,2111,,,JPN
+271245,APRR S.A.,False,,,,,,
+271280,Mirabela Nickel Ltd.,False,MIRABELA NICKEL LTD,1000,212,,,AUS
+271311,Karoon Energy Ltd.,False,,,,,,
+271442,GFH Financial Group B.S.C,False,,,,,,
+271456,TVN S.A.,False,,,,,,
+271525,Atlas Iron Ltd.,False,,,,,,
+271533,Texhong Textile Group Ltd.,False,,,,,,
+271553,Peermont Global Ltd.,False,,,,,,
+271559,MKB Romexterra Bank S.A.,False,,,,,,
+271560,Synthos S.A.,False,,,,,,
+271717,Tupy S.A.,False,,,,,,
+271724,Sul America Cia Nacional de Seguros,False,,,,,,
+271763,LANXESS AG,False,LANXESS AG,2800,325,,,DEU
+271764,Entain PLC,False,ENTAIN PLC,7990,713290,,,IMN
+271810,Goodman Group,False,,,,,,
+271818,Ciech SA,False,,,,,,
+271832,BRB - Banco de Brasilia S.A.,False,,,,,,
+271834,Companhia Energetica do Rio Grande do Norte,False,,,,,,
+271999,GF Securities Co. Ltd.,False,,,,,,
+272030,Consol Glass (Proprietary) Ltd.,False,,,,,,
+272060,IGD Siiq SpA,False,,,,,,
+272138,Dr. Peng Telecom & Media Group Co. Ltd.,False,,,,,,
+272194,Sichuan Languang Development Co. Ltd.,False,,,,,,
+272268,Quintis Ltd.,False,,,,,,
+272278,Yango Group Co. Ltd.,False,,,,,,
+272340,ENN Natural Gas Co. Ltd.,False,,,,,,
+272359,Huayuan Property Co. Ltd.,False,,,,,,
+272388,Haitong Securities Co. Ltd.,False,,,,,,
+272627,Afren PLC,False,,,,,,
+272689,Sanef,False,,,,,,
+272817,Raiffeisen Bank International AG,False,RAIFFEISEN BANK INTERNATI AG,6020,522110,,,AUT
+272836,Shanghai Electric Group Co. Ltd.,False,,,,,,
+272960,IIFL Finance Ltd.,False,,,,,,
+273099,MTU Aero Engines Holding AG,False,MTU AERO ENGINES AG,3724,336412,,,DEU
+273153,China Shenhua Energy Co. Ltd.,False,CHINA SHENHUA ENERGY CO LTD,1220,2121,,,CHN
+273160,Billing Services Group Ltd.,False,,,,,,
+273168,Inmarsat PLC,False,INMARSAT PLC,4899,517410,,,GBR
+273183,Fukuoka REIT Corp.,False,,,,,,
+273198,China Glass Holdings Ltd.,False,,,,,,
+273225,PT Arpeni Pratama Ocean Line Tbk.,False,,,,,,
+273304,Piaggio & C. SpA,False,,,,,,
+273315,GFNZ Group Ltd.,False,,,,,,
+273316,Linsa Insurance Ltd.,False,,,,,,
+273334,Ukrsotsbank OJSC,False,,,,,,
+273405,Oman United Insurance Co. S.A.O.G.,False,,,,,,
+273407,Vicinity Centres,False,,,,,,
+273459,Guangzhou R&F Properties Co. Ltd.,False,,,,,,
+273626,Codere S.A.,False,,,,,,
+273633,Financiera Independencia S.A.B. de C.V. SOFOM E.N.R.,False,,,,,,
+273716,NOVATEK PJSC,False,PAO NOVATEK,1311,2111,,,RUS
+273763,Songa Offshore SE,False,,,,,,
+273813,IDFC Limited,False,,,,,,
+273959,Sava Re,False,,,,,,
+273961,Seven & i Holdings Co. Ltd.,False,SEVEN & I HOLDINGS CO LTD,5400,4451,,,JPN
+273982,Nova Kreditna Banka Maribor d.d.,False,,,,,,
+273985,G Steel Public Co. Ltd.,False,,,,,,
+274011,Parana Banco S.A,False,,,,,,
+274024,Impulsora del Desarrollo y el Empleo en America Latina S.A.B. de C.V.,False,,,,,,
+274064,Starhill Global Real Estate Investment Trust,False,,,,,,
+274143,Evoke PLC,False,,,,,,
+274181,Petrofac Ltd.,False,PETROFAC LTD,1382,213112,,,JEY
+274184,Alinta Infrastructure Holdings,False,,,,,,
+274186,Zenith Bank PLC,False,,,,,,
+274195,China State Construction International Holdings Ltd.,False,CHINA STATE CONSTRUCTION,1520,236,,,CYM
+274196,Indutrade AB,False,,,,,,
+274222,Saudi Electric Co.,False,,,,,,
+274234,Emirates Telecommunications Group Co. PJSC,False,,,,,,
+274262,Mercialys,False,,,,,,
+274337,Almarai Co.,False,,,,,,
+274342,Alliance Oil Co. Ltd.,False,,,,,,
+274364,China Construction Bank Corp.,False,CHINA CONSTR BANK CORP,6020,522110,,,CHN
+274373,ISS A/S,False,,,,,,
+274383,Sintex Industries Ltd.,False,,,,,,
+274408,Bank of South Pacific Ltd.,False,,,,,,
+274505,Lonking Holdings Ltd.,False,,,,,,
+274522,Hikma Pharmaceuticals PLC,False,,,,,,
+274535,Banco Nossa Caixa S.A.,False,,,,,,
+274578,Link Real Estate Investment Trust,False,,,,,,
+274626,Parkson Retail Group Ltd.,False,PARKSON RETAIL GROUP LIMITED,5311,455110,,,CYM
+274683,Banco Colpatria Red Multibanca Colpatria S.A.,False,,,,,,
+274689,Avolta AG,False,AVOLTA AG,5990,459999,,,CHE
+274720,Dongfeng Motor Group Co. Ltd.,False,DONGFENG MOTOR GROUP CO,3711,336111,,,CHN
+274745,Safilo Group SpA,False,,,,,,
+274770,REI Agro Ltd.,False,,,,,,
+274774,Lancashire Holdings Ltd.,False,,,,,,
+274820,AusNet Pty Ltd.,False,,,,,,
+274833,PTT Global Chemical Public Co. Ltd.,False,,,,,,
+274833,PTT Chemical Public Co. Ltd.,False,,,,,,
+274890,Drax Group PLC,False,,,,,,
+274898,National General Insurance Co. (PSC),False,,,,,,
+274899,National Central Cooling Co. PJSC,False,,,,,,
+274904,Goodman Fielder Ltd.,False,,,,,,
+274927,Yuexiu Real Estate Investment Trust,False,,,,,,
+274951,Wethaq Takaful Insurance Co. K.S.C.,False,,,,,,
+274959,Hyundai Glovis Co. Ltd.,False,,,,,,
+275066,Oman Telecommunications Co.,False,,,,,,
+275087,Company for Cooperative Insurance (Tawuniya) (The),False,,,,,,
+275092,Global Investment House KSCC,False,,,,,,
+275108,JBS S.A.,False,JBS SA,2011,311611,,,BRA
+275173,Trinidad Cement Ltd.,False,,,,,,
+275214,Intercontinental Bank PLC,False,,,,,,
+275258,China Fishery Group Ltd.,False,,,,,,
+275279,Banco Pan S.A.,False,BANCO PAN SA,6141,5222,,,BRA
+275285,JSC Azovstal Iron and Steel Works,False,,,,,,
+275332,PT Bakrie Telecom Tbk.,False,,,,,,
+275338,Open Joint Stock Co. Trade House Kopeyka,False,,,,,,
+275350,Comstar United TeleSystems (JSC),False,COMSTAR UNITED TELE SYS,4899,517919,,,RUS
+275439,Dubai Islamic Insurance & Reinsurance Co. (Aman),False,,,,,,
+275441,SALAMA/Islamic Arab Insurance Co. P.S.C.,False,,,,,,
+275674,Nine Dragons Paper (Holdings) Ltd.,False,,,,,,
+275696,Aker BP ASA,False,AKER BP ASA,1311,2111,,,NOR
+275880,Golden Eagle Retail Group Ltd.,False,GOLDEN EAGLE RETAIL GROUP,5311,455110,,,CYM
+275893,Playtech PLC,False,,,,,,
+275910,Frasers Commercial Trust,False,,,,,,
+275931,Peach Holdings Inc.,False,,,,,,
+276365,Reaseguradora Patria S.A.B.,False,,,,,,
+276407,Societe Tunisienne de Reassurance,False,,,,,,
+277006,Fosun International Ltd.,False,FOSUN INTERNATIONAL LTD,9997,999977,,,HKG
+277015,Magnit PJSC,False,,,,,,
+277039,Legrand S.A.,False,LEGRAND,3640,3351,,,FRA
+277043,Arkema S.A.,False,ARKEMA,2800,325,,,FRA
+277144,Europcar Mobility Group,False,,,,,,
+277346,ForteBank JSC,False,,,,,,
+277469,Via Celere,False,,,,,,
+277495,C.A.T. oil AG,False,,,,,,
+277544,Cambridge Industrial Trust,False,,,,,,
+277556,Sovcomflot PAO,False,,,,,,
+277561,TMK PAO,False,TMK PAO,3317,331210,,,RUS
+277567,Banco Daycoval S.A.,False,,,,,,
+277586,DBA Telecommunication (Asia) Holdings Ltd.,False,,,,,,
+277767,Icade S.A.,False,,,,,,
+277768,Lupatech S.A.,False,,,,,,
+277849,Summit Properties Ltd.,False,,,,,,
+277881,Thai Beverage Public Co. Ltd.,False,,,,,,
+277926,Advance Energy,False,,,,,,
+277941,Husqvarna AB (publ),False,HUSQVARNA AB,3523,333111,,,SWE
+277972,Coca-Cola Icecek AS,False,,,,,,
+278018,BANK URALSIB (PJSC),False,,,,,,
+278074,Rosseti Moscow Region PJSC,False,,,,,,
+278142,Aeroports de Paris,False,,,,,,
+278160,Utilico Emerging Markets Ltd.,False,,,,,,
+278187,Yanlord Land Group Ltd.,False,,,,,,
+278191,PJSC KREDOBANK,False,,,,,,
+278232,Poly Developments and Holdings Group Co. Ltd.,False,,,,,,
+278268,Frasers Centrepoint Trust,False,,,,,,
+278278,Shriram Finance Ltd.,False,,,,,,
+278283,Shimao Group Holdings Ltd.,False,,,,,,
+278298,abrdn plc,False,,,,,,
+278356,"Bolsas y Mercados Espanoles Sociedad Holding de Mercados y Sistemas Financieros, S.A.",False,,,,,,
+278358,Grupo Famsa S.A.B. de C.V.,False,,,,,,
+278360,Bank of Georgia,False,,,,,,
+278519,PT Media Nusantara Citra Tbk.,False,,,,,,
+278546,EMECO Holdings Ltd.,False,,,,,,
+278556,Branicks Group AG,False,BRANICKS GROUP AG,6500,531,,,DEU
+278577,Nippon Accommodations Fund Inc.,False,,,,,,
+278644,Greentown China Holdings Ltd.,False,,,,,,
+278751,Ecobank Nigeria Ltd.,False,,,,,,
+278764,Argus Group Holdings Ltd.,False,,,,,,
+278806,DEMIRE Deutsche Mittelstand Real Estate AG,False,,,,,,
+278810,Sharjah Islamic Bank,False,,,,,,
+278823,Al Baraka Group B.S.C.,False,,,,,,
+278825,Boubyan Bank K.S.C.P.,False,,,,,,
+278833,Rosbank OJSC JSCB,False,,,,,,
+279125,Banco Patagonia S.A.,False,,,,,,
+279157,Ecobank Transnational Inc.,False,,,,,,
+279173,Verisure Midholding AB,False,,,,,,
+279275,Middle East Insurance Co.,False,,,,,,
+279294,Petrol AD,False,,,,,,
+279311,Greenland Hong Kong Holdings Ltd.,False,,,,,,
+279330,Sound Global Ltd.,False,,,,,,
+279355,AmanahRaya Real Estate Investment Trust,False,,,,,,
+279378,Industrial and Commercial Bank of China Ltd.,False,INDUSTRIAL AND COMMERCIAL,6020,522110,,,CHN
+279406,Aedifica N.V./S.A.,False,,,,,,
+279426,PT Truba Alam Manunggal Engineering Tbk.,False,,,,,,
+279437,NagaCorp Ltd.,False,NAGACORP LTD,7990,713210,,,CYM
+279450,Britannia Bulk PLC,False,,,,,,
+279477,Shanghai International Port (Group) Co. Ltd.,False,,,,,,
+281408,Shamil Bank of Bahrain,False,,,,,,
+281431,Pingdingshan Tianan Coal Mining Co. Ltd.,False,,,,,,
+281560,Bulgarian Telecommunications Company EAD,False,,,,,,
+281561,Bulstrad Vienna Insurance Group.,False,,,,,,
+281571,Caja de Ahorros del Mediterraneo,False,,,,,,
+281657,Petroplus Holdings AG,False,,,,,,
+281657,Petroplus International N.V.,False,,,,,,
+281662,PT Mobile-8 Telecom Tbk.,False,,,,,,
+281712,Transmissora Alianca de Energia Eletrica S.A.,False,,,,,,
+281761,Zhaojin Mining Industry Co. Ltd.,False,,,,,,
+282105,Indiabulls Real Estate Ltd.,False,,,,,,
+282177,West China Cement Ltd.,False,,,,,,
+282205,AP Alternative Assets LP,False,,,,,,
+282315,Sul America S.A.,False,,,,,,
+282382,Qube Holdings Ltd.,False,,,,,,
+282446,PDG Realty S.A. Empreendimentos E Participacoes,False,PDG REALTY SA EMPREENDIMENT,6552,237210,,,BRA
+282622,Fufeng Group Ltd.,False,,,,,,
+282650,Diamond Bank PLC,False,,,,,,
+282653,Fidelity Bank PLC,False,,,,,,
+282732,Sao Martinho S.A.,False,,,,,,
+282749,BRAC Bank PLC,False,,,,,,
+282758,Nomura Real Estate Residential Fund Inc.,False,,,,,,
+282792,Skye Bank PLC,False,,,,,,
+282813,TGC-1 PJSC,False,,,,,,
+282835,Hong Long Holdings Ltd.,False,,,,,,
+282844,China Properties Group Ltd.,False,,,,,,
+282849,TAV Airports,False,,,,,,
+282851,GP Investments Ltd.,False,,,,,,
+282854,Bank of China (Brasil) Banco Multiplo S.A.,False,,,,,,
+282889,Indian Bank,False,,,,,,
+282949,First Gulf Bank PJSC,False,,,,,,
+282949,First Abu Dhabi Bank PJSC,False,,,,,,
+282979,A/S Latvijas Krajbanka,False,,,,,,
+283091,Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank),False,,,,,,
+283317,Consol Holdings Ltd.,False,,,,,,
+283341,Orient Insurance P.J.S.C.,False,,,,,,
+283342,Sukoon Takaful PJSC,False,,,,,,
+283655,S.N.T.G.N. Transgaz S.A. Medias,False,,,,,,
+284086,Al Buhaira National Insurance Co. (PSC),False,,,,,,
+284103,First Ship Lease Trust,False,FIRST SHIP LEASE TRUST,6159,522298,,,SGP
+284153,Aldar Properties PJSC,False,,,,,,
+284165,Alstria Office REIT-AG,False,,,,,,
+284229,Bajaj Finance Ltd.,False,,,,,,
+284251,Boart Longyear Ltd.,False,,,,,,
+284323,Avanti Communications Group PLC,False,,,,,,
+284394,AIMS APAC REIT,False,,,,,,
+284420,B&N Bank,False,,,,,,
+284420,MDM Bank (pre-merger),False,,,,,,
+284425,National Bank of Fujairah PJSC,False,,,,,,
+284458,China Citic Bank Corp. Ltd.,False,,,,,,
+284469,KazMunayGas NC JSC,False,,,,,,
+284482,Versatel AG,False,,,,,,
+284521,Prysmian SpA,False,PRYSMIAN SPA,3357,331420,,,ITA
+284533,Cineworld Group PLC,False,CINEWORLD GROUP,7830,51213,,,GBR
+284596,Banco Compartamos S.A. Institucion de Banca Multiple,False,,,,,,
+284610,Nutrinvestholding OJSC,False,,,,,,
+284805,Pacific National Holdings Pty Ltd.,False,,,,,,
+284856,DP World Ltd.,False,,,,,,
+284859,Al Wathba National Insurance Co. PJSC,False,,,,,,
+284873,Rosinter Restaurants Holding OJSC,False,,,,,,
+284944,Gerresheimer AG,False,,,,,,
+285014,Caisse Regionale de Credit Agricole Mutuel Brie Picardie,False,,,,,,
+285014,Caisse Regionale de Credit Agricole de la Brie,False,,,,,,
+285050,Thomas Cook Group PLC,False,,,,,,
+285094,Ferrexpo PLC,False,FERREXPO PLC,1000,212210,,,GBR
+285105,Almirall S.A.,False,,,,,,
+285150,Argan S.A.,False,,,,,,
+285169,Mondi PLC,False,MONDI PLC,2600,322,,,GBR
+285188,Marfrig Global Foods S.A.,False,MARFRIG GLOBAL FOODS SA,2011,311611,,,BRA
+285199,Albaraka Turk Katilim Bankasi AS,False,,,,,,
+285205,SK Innovation Co. Ltd.,False,,,,,,
+285231,KWG Group Holdings Ltd.,False,,,,,,
+285310,Dewan Housing Finance Corp. Ltd.,False,,,,,,
+285317,REN-Redes Energeticas Nacionais SGPS S.A.,False,,,,,,
+285327,AMG Critical Materials N.V.,False,,,,,,
+285361,China Automation Group Ltd.,False,,,,,,
+285364,Cikarang Listrindo PT.,False,,,,,,
+285519,Minerva S.A.,False,,,,,,
+285531,Banco Cruzeiro do Sul S.A.,False,,,,,,
+285631,Compagnie d'Assurances et de Reassurances Tuniso-Europeenne,False,,,,,,
+285716,Risesun Real Estate Development Co. Ltd.,False,,,,,,
+285742,Entertainment One Ltd.,False,,,,,,
+285876,Bank of Nanjing Co. Ltd.,False,,,,,,
+285880,China Jinmao Holdings Group Ltd.,False,,,,,,
+285968,Malath Cooperative Insurance & Reinsurance Co.,False,,,,,,
+285974,Walaa Cooperative Insurance Co.,False,,,,,,
+286054,"Telekom Slovenije, d.d.",False,,,,,,
+286281,NEPI Rockcastle N.V.,False,,,,,,
+286282,Sino-Ocean Group Holding Ltd.,False,,,,,,
+286310,Hidili Industry International Development Ltd.,False,,,,,,
+286346,SOHO China Ltd.,False,,,,,,
+286347,Canterbury Building Society,False,,,,,,
+286426,China Aoyuan Group Ltd.,False,,,,,,
+286434,Power Grid Corp. of India Ltd.,False,,,,,,
+286460,Banco ABC Brasil S.A.,False,,,,,,
+286461,Bosideng International Holdings Ltd.,False,BOSIDENG INTERNATIONAL HLDG,5600,4581,,,CYM
+286464,Core Education & Technologies Ltd.,False,,,,,,
+286879,"CaixaBank, S.A.",False,CAIXABANK SA,6020,522110,,,ESP
+286983,Emirates Bank International PJSC,False,,,,,,
+287117,Nyrstar N.V.,False,,,,,,
+287161,Fluidra S.A.,False,,,,,,
+287206,Greenko Group PLC,False,,,,,,
+287223,PT Jasa Marga (Persero) Tbk.,False,,,,,,
+287226,Mediterranean & Gulf Cooperative Insurance and Reinsurance Co.,False,,,,,,
+287294,CPI Property Group S.A.,False,,,,,,
+287311,China Railway Group Ltd.,False,,,,,,
+287454,"B3 S.A - Brasil, Bolsa, Balcao",False,B3 SA - BRASIL BOLSA BALCAO,6200,523210,,,BRA
+287490,Kernel Holding S.A.,False,,,,,,
+287525,Adani Ports and Special Economic Zone Ltd.,False,,,,,,
+287564,Isagen S.A. E.S.P.,False,,,,,,
+287618,Eurasian Natural Resources Corp. Ltd.,False,EURASIAN NATURAL RESOURCES,1000,212,,,GBR
+287661,PT Alam Sutera Realty Tbk.,False,,,,,,
+287673,RusHydro PJSC,False,RUSHYDRO PJSC,4911,2211,,,RUS
+287684,Xinjiang Goldwind Science & Technology Co. Ltd.,False,,,,,,
+287752,Dar Al Arkan Real Estate Development Co.,False,,,,,,
+287980,Globo PLC,False,GLOBO PLC,7370,519130,,,GBR
+288024,Vingroup Joint Stock Co.,False,,,,,,
+288260,Al Sagr Cooperative Insurance Co.,False,,,,,,
+288414,China Railway Construction Corp. Ltd.,False,,,,,,
+288562,Magnesita Refratarios S.A.,False,,,,,,
+288569,MiBanco Banco de La Microempresa S.A.,False,,,,,,
+288667,Axiata Group Bhd.,False,,,,,,
+288674,Hypera S.A.,False,HYPERA SA,2834,325412,,,BRA
+288761,Maoye International Holdings Ltd.,False,,,,,,
+288766,Cyfrowy Polsat S.A.,False,,,,,,
+288780,Euro Arab Insurance Group,False,,,,,,
+288799,Fresnillo PLC,False,FRESNILLO PLC,1040,212220,,,GBR
+288822,Bank of Moscow OJSC,False,,,,,,
+288862,Turk Telekom,False,TURK TELEKOMUNIKASYON ANONIM,4813,517311,,,TUR
+288923,Saudi Reinsurance Co.,False,,,,,,
+288983,Central China Real Estate Ltd.,False,,,,,,
+289004,Banco Popular S.A.,False,,,,,,
+289043,Oleo e Gas Participacoes S.A.,False,OLEO E GAS PART SA,1311,2111,,,BRA
+289049,Camil Alimentos S.A.,False,,,,,,
+289075,"Rosseti Centre, PJSC",False,,,,,,
+289156,Mriya Agro Holding PLC,False,,,,,,
+289200,China Shanshui Cement Group Ltd.,False,,,,,,
+289259,Suez S.A.,False,VIGIE SA,4941,221310,,,FRA
+289404,Dutch-Bangla Bank PLC,False,,,,,,
+289444,Bayan Resources Tbk. PT,False,,,,,,
+289445,Polnobanka,False,,,,,,
+289453,CRRC Corp. Ltd.,False,,,,,,
+289707,First Investment Bank,False,,,,,,
+289868,Manappuram Finance Ltd.,False,,,,,,
+290039,Triglav Insurance Co. PLC,False,,,,,,
+290045,Moscow Integrated Power Co. JSC,False,,,,,,
+290107,China Dili Group,False,,,,,,
+290154,Loomis AB,False,,,,,,
+290271,Abanka d.d.,False,,,,,,
+290393,Woori Financial Capital Co. Ltd.,False,,,,,,
+290724,Takaful International Co. BSC,False,,,,,,
+290728,Hoang Anh Gia Lai Joint Stock Co.,False,,,,,,
+290888,Bulgaria,False,,,,,,
+290946,Hotai Finance Co. Ltd.,False,,,,,,
+290956,Avation PLC,False,,,,,,
+290992,Alinma Bank,False,,,,,,
+291380,Mongolian Resources Corp.,False,,,,,,
+291533,Mercado de Valores de Buenos Aires S.A.,False,,,,,,
+291537,"Banco Monex, S.A., Institucion de Banca Multiple, Monex Grupo Financiero y Subsidiarias",False,,,,,,
+291740,SP Manweb PLC,False,MANWEB PLC,4911,2211,,,GBR
+291746,UK Power Networks Services (South East) Ltd,False,,,,,,
+291759,Rosseti PJSC,False,,,,,,
+292062,gategroup Holding AG,False,,,,,,
+292173,Banco do Estado do Para S.A.,False,,,,,,
+292176,China Lumena New Materials Corp.,False,,,,,,
+292221,Weqaya Takaful Insurance & Reinsurance Co.,False,,,,,,
+292263,361 Degrees International Ltd.,False,,,,,,
+292268,Bank for Foreign Trade of Vietnam,False,,,,,,
+292279,China Qinfa Group Ltd.,False,,,,,,
+292367,Al Rajhi Co. for Cooperative Insurance,False,,,,,,
+292388,Vietnam Joint Stock Commercial Bank for Industry and Trade,False,,,,,,
+292388,Industrial and Commercial Bank of Vietnam,False,,,,,,
+292431,China State Construction Engineering Corp. Ltd.,False,,,,,,
+292439,Gulf Insurance Group (A Saudi Joint Stock Company),False,,,,,,
+292676,Metallurgical Corp. of China Ltd.,False,,,,,,
+292861,Aktia Bank PLC,False,,,,,,
+292892,Glorious Property Holdings Ltd.,False,,,,,,
+292932,Enjoy S.A.,False,,,,,,
+292961,Wynn Macau Ltd.,False,WYNN MACAU LTD,7990,721120,,,CYM
+292995,Powerlong Real Estate Holdings Ltd.,False,,,,,,
+293107,Vietnam Export Import Commercial Joint Stock Bank,False,,,,,,
+293133,Yuzhou Properties Co. Ltd.,False,,,,,,
+293139,China Evergrande Group,False,,,,,,
+293216,Mingfa Group (International) Co. Ltd.,False,,,,,,
+293282,Longfor Group Holdings Ltd.,False,,,,,,
+293421,Fantasia Holdings Group Co. Ltd.,False,,,,,,
+293425,Sands China Ltd.,False,SANDS CHINA LTD,7990,721120,,,CYM
+293441,China Forestry Holdings Co. Ltd.,False,,,,,,
+293526,Kaisa Group Holdings Ltd.,False,,,,,,
+293536,China Longyuan Power Group Corp. Ltd.,False,,,,,,
+293811,S.F. Holding Co. Ltd.,False,,,,,,
+293871,Bank Tavrichesky,False,,,,,,
+293927,China SCE Group Holdings Ltd.,False,,,,,,
+294048,Huatai Securities Co. Ltd.,False,,,,,,
+294183,Hanwha Life Insurance Co. Ltd.,False,,,,,,
+294212,East Money Information Co. Ltd.,False,,,,,,
+294220,TalkTalk Telecom Group Ltd.,False,,,,,,
+294225,BR Properties S.A.,False,BR PROPERTIES SA,6500,531,,,BRA
+294266,Zhongsheng Group Holdings Ltd.,False,,,,,,
+294282,EnQuest PLC,False,,,,,,
+294410,China Minzhong Food Corp. Ltd.,False,,,,,,
+294436,Nadra Bank,False,,,,,,
+294452,JSL S.A.,False,,,,,,
+294508,Amadeus IT Group S.A.,False,AMADEUS IT GROUP SA,7370,5415,,,ESP
+294553,"Empresa de Energia del Pacifico S.A., E.S.P.",False,,,,,,
+294594,Hangzhou Hikvision Digital Technology Co. Ltd.,False,,,,,,
+294713,KazInvestBank,False,,,,,,
+294807,Edenred SE,False,EDENRED SE,7374,518210,,,FRA
+294833,Wataniya Insurance Co.,False,,,,,,
+294908,PT Berau Coal Energy Tbk.,False,,,,,,
+295006,Guotai Junan International Holdings Ltd.,False,,,,,,
+295315,Vietnam Technological And Commercial Joint Stock Bank,False,,,,,,
+295397,iEnergizer Ltd.,False,,,,,,
+295421,Evonik Industries,False,EVONIK INDUSTRIES AG,2800,325,,,DEU
+295526,Pandora A/S,False,PANDORA AS,3911,339910,,,DNK
+295575,Exova Group Ltd.,False,,,,,,
+295591,Mongolian Mining Corp.,False,,,,,,
+295595,Winsway Enterprises Holdings Ltd.,False,,,,,,
+295620,GLP Pte. Ltd.,False,GLOBAL LOGISTIC PROPERTIES,6500,531,,,SGP
+295628,Sunac China Holdings Ltd.,False,,,,,,
+295638,Banco Davivienda S.A.,False,,,,,,
+295682,Prio S.A.,False,,,,,,
+295728,Eximbank Kazakhstan JSC,False,,,,,,
+295729,Daqing Dairy Holdings Ltd.,False,,,,,,
+295733,Sovcombank PJSC,False,,,,,,
+295735,AIA Group Ltd.,False,AIA GROUP LTD,6311,524113,,,HKG
+295792,Pesquera Exalmar S.A.A.,False,,,,,,
+295844,Peach Property Group AG,False,,,,,,
+295910,Aurizon Holdings Ltd.,False,,,,,,
+295922,China Modern Dairy Holdings Ltd.,False,,,,,,
+296004,Floatel International Ltd.,False,,,,,,
+296091,Gjensidige,False,GJENSIDIGE FORSIKRING BA,6331,5241,,,NOR
+296108,Scentre Group,False,,,,,,
+296248,China Zhengtong Auto Services Holding Ltd.,False,,,,,,
+296309,Health and Happiness (H&H) International Holdings Ltd.,False,,,,,,
+296476,SABANA SHARI'AH COMPLIANT REIT,False,,,,,,
+296575,OJSC RBC Information Systems,False,,,,,,
+296584,Servicios Corporativos Javer S.A.B. de C.V.,False,,,,,,
+296608,HMS Hydraulic Machines & Systems Group PLC,False,,,,,,
+296665,Fortaleza Materiales S.A.P.I. de C.V.,False,,,,,,
+296895,DBS Bank Ltd.,False,,,,,,
+296900,IVS Group SA,False,,,,,,
+296946,Sumitomo Mitsui Banking Corp.,False,,,,,,
+296963,Avis Solutions Group PLC,False,,,,,,
+297013,"Grupo Azucarero Mexico, S.A. de C.V.",False,,,,,,
+297101,Hutchison Port Holdings Trust,False,,,,,,
+297120,China Hongqiao Group Ltd.,False,,,,,,
+297140,Far East Horizon Ltd.,False,,,,,,
+297185,KION Group AG,False,KION GROUP AG,3537,333924,,,DEU
+297223,Perform Group Ltd.,False,,,,,,
+297233,TNT Express N.V.,False,TNT EXPRESS NV,4513,492110,,,NLD
+297289,"Grupo Aeromexico, S.A.P.I. de C.V.",False,,,,,,
+297479,CFR Pharmaceuticals S.A.,False,,,,,,
+297533,Muthoot Finance Ltd.,False,,,,,,
+297608,Refresco Group B.V.,False,,,,,,
+297608,Refresco Group N.V.,False,,,,,,
+297742,KRUK S.A.,False,,,,,,
+297832,Creativ Group OJSC,False,,,,,,
+297894,PT Buana Lintas Lautan Tbk.,False,,,,,,
+297935,Bank Gospodarki Zywnosciowej S.A.,False,,,,,,
+297957,Bankia S.A.,False,,,,,,
+297998,MGM China Holdings Ltd.,False,MGM CHINA HOLDINGS LTD,7990,721120,,,CYM
+298069,First Heartland Jusan Bank JSC,False,,,,,,
+298073,E-MART Inc.,False,,,,,,
+298150,Dubai Electricity and Water Authority,False,,,,,,
+298181,Distribuidora Internacional de Alimentacion S.A.,False,DISTRIBUIDORA INTERNACIONAL,5399,452311,,,ESP
+298317,PhosAgro PJSC,False,,,,,,
+298400,Banca Civica S.A.,False,,,,,,
+298549,Chimpharm JSC,False,,,,,,
+303389,PT Solusi Tunas Pratama Tbk.,False,,,,,,
+308388,Chorus Ltd.,False,CHORUS LTD,4899,517919,,,NZL
+309187,People's Leasing & Finance PLC,False,,,,,,
+311314,Baoxin Auto Group Ltd.,False,,,,,,
+311319,Trade Me Group Ltd.,False,,,,,,
+311549,Credit Bank of Moscow,False,,,,,,
+311587,Andino Investment Holding S.A.A.,False,,,,,,
+311727,Xiwang Special Steel Co. Ltd.,False,,,,,,
+312012,VodafoneZiggo Group B.V.,False,,,,,,
+312098,NMC Health PLC,False,,,,,,
+312148,Banco BTG Pactual S.A.,False,,,,,,
+312416,Alpek S.A.B. de C.V.,False,,,,,,
+312871,D.E MASTER BLENDERS 1753 N.V,False,,,,,,
+313020,BOC Aviation Ltd.,False,,,,,,
+313158,China Aluminum International Engineering Corp. Ltd.,False,,,,,,
+313201,PT MNC Sky Vision,False,,,,,,
+313302,Qualitas Controladora S.A.B. de C.V.,False,,,,,,
+313305,Inversiones La Construccion S.A.,False,,,,,,
+313636,Clinigen Group PLC,False,,,,,,
+313697,Hankook Tire & Technology Co. Ltd.,False,,,,,,
+313844,Geo Energy Resources Ltd.,False,,,,,,
+314179,Seazen Group Ltd.,False,,,,,,
+314198,Oil and Gas Company Russneft OJSC,False,,,,,,
+314214,The People's Insurance Co. (Group) of China Ltd.,False,,,,,,
+314384,IG Seismic Services PLC,False,,,,,,
+314404,Alior Bank S.A.,False,,,,,,
+314569,Rosgosstrakh PJSC,False,,,,,,
+314672,Golden Wheel Tiandi Holdings Co. Ltd.,False,,,,,,
+314787,OCI N.V.,False,OCI NV,2870,3253,,,NLD
+314884,Nine Entertainment Co. Holdings Ltd.,False,,,,,,
+314896,Lenta Ltd.,False,,,,,,
+314962,Grand City Properties S.A.,False,GRAND CITY PROPERTIES SA,6510,5311,,,LUX
+315108,Infraestructura Energetica Nova S.A.P.I de C.V.,False,,,,,,
+315113,HellermannTyton Group PLC,False,,,,,,
+315140,FIBRA Terrafina,False,,,,,,
+315226,Pegasus Hava Tasimaciligi A.S.,False,,,,,,
+315394,China Galaxy Securities Co. Ltd.,False,,,,,,
+315423,Ahlstrom Holding 3 Oy,False,,,,,,
+315446,PT Mitra Pinasthika Mustika Tbk.,False,,,,,,
+315453,Bravida Holding AB,False,,,,,,
+315495,Nomura Real Estate Master Fund Inc.,False,,,,,,
+315531,PT Sri Rejeki Isman Tbk.,False,,,,,,
+315566,bpost SA/NV,False,,,,,,
+315582,Stabilus SA,False,,,,,,
+315682,Vonovia SE,False,VONOVIA SE,6531,531311,,,DEU
+315842,Sammaan Capital Ltd.,False,,,,,,
+315862,Globalworth Real Estate Investments Ltd.,False,,,,,,
+315947,Soilbuild Business Space REIT,False,,,,,,
+316100,Midea Group Co. Ltd.,False,,,,,,
+316257,Nexteer Automotive Group Ltd.,False,,,,,,
+316264,International Distribution Services PLC,False,INTERNATIONAL DISTRIBUTIONS,4210,492110,,,GBR
+316269,Arrow Global Group PLC,False,,,,,,
+316409,Dalian Wanda Commercial Management Group Co. Ltd,False,,,,,,
+316424,Cembra Money Bank AG,False,,,,,,
+316466,Altice France Holding S.A.,False,,,,,,
+316511,Yestar Healthcare Holdings Co. Ltd.,False,,,,,,
+316577,Merlin Entertainments PLC,False,MERLIN ENTERTAINMENTS PLC,7990,713,,,GBR
+316725,Bank of Chongqing Co. Ltd.,False,,,,,,
+316732,Hydoo International Holding Ltd.,False,,,,,,
+316749,Jingrui Holdings Ltd.,False,,,,,,
+316822,Damac Real Estate Development Ltd.,False,,,,,,
+316826,China Cinda Asset Management Co. Ltd.,False,,,,,,
+316869,Sawit Sumbermas Sarana Tbk. PT,False,,,,,,
+316898,Logan Group Co. Ltd.,False,,,,,,
+316923,Times China Holdings Ltd.,False,,,,,,
+317079,Scout24 AG,False,,,,,,
+317093,OUE Real Estate Investment Trust,False,,,,,,
+317102,Altice Europe N.V.,False,,,,,,
+317115,HK Electric Investments Ltd.,False,,,,,,
+317310,Sunshine 100 China Holdings Ltd.,False,,,,,,
+317312,Hispania Activos Inmobiliarios Socimi S.A.,False,,,,,,
+317329,Play Communications S.A.,False,,,,,,
+317379,Thurgauer Kantonalbank,False,,,,,,
+317425,eDreams ODIGEO S.A.,False,,,,,,
+317429,Seplat Energy PLC,False,,,,,,
+317478,WH Group Ltd.,False,WH GROUP LTD,2011,31161,,,CYM
+317487,Buwog AG,False,,,,,,
+317570,Masmovil Ibercom SA.,False,,,,,,
+317586,OCP S.A.,False,,,,,,
+317629,Saga PLC,False,,,,,,
+317755,Akelius Residential Property AB,False,,,,,,
+317781,B&M European Value Retail S.A.,False,B&M EUROPEAN VALUE RETAIL,5399,455219,,,LUX
+317787,Com Hem Holding AB (publ),False,,,,,,
+317810,FIBRA Prologis,False,,,,,,
+317821,ZPG Ltd.,False,,,,,,
+317828,Ontex Group N.V.,False,,,,,,
+317839,Yida China Holdings Ltd.,False,,,,,,
+317859,Cerved Group S.p.A.,False,,,,,,
+317860,Glarner Kantonalbank,False,,,,,,
+317868,BMI Group S.a r.l.,False,,,,,,
+317891,Worldline S.A.,False,WORLDLINE,7374,518210,,,FRA
+317911,FinecoBank S.p.A.,False,,,,,,
+317948,China Citic Financial Asset Management Co. Ltd.,False,,,,,,
+317961,Guorui Properties Ltd.,False,,,,,,
+317978,Merlin Properties Socimi S.A.,False,MERLIN PROPERTIES SOCIMI SA,6798,5311,,,ESP
+318069,China Development Bank Financial Leasing Co. Ltd.,False,,,,,,
+318122,Bank of Astana JSC,False,,,,,,
+318194,Speedcast International Ltd.,False,,,,,,
+318202,IREIT Global,False,,,,,,
+318207,Pushpay Holdings Limited,False,,,,,,
+318231,China VAST Industrial Urban Development Co. Ltd.,False,,,,,,
+318363,Jalles Machado S.A.,False,,,,,,
+318453,Emaar Malls PJSC,False,,,,,,
+318510,Recruit Holdings Co. Ltd.,False,RECRUIT HOLDINGS CO LTD,7361,561311,,,JPN
+318573,TLG Immobilien AG,False,,,,,,
+318619,Shanghai Rural Commercial Bank Co. Ltd.,False,,,,,,
+318713,Muangthai Capital Public Co. Ltd.,False,,,,,,
+318761,EuroChem Group AG,False,,,,,,
+318847,Samsung C&T Corp.,False,,,,,,
+318900,BAIC Motor Corp. Ltd.,False,,,,,,
+318920,China Reinsurance (Group) Corp.,False,,,,,,
+318975,Guosen Securities Co. Ltd.,False,,,,,,
+318981,Shenhua Hong Kong Ltd.,False,,,,,,
+319038,Beijing Kunlun Tech Co. Ltd.,False,,,,,,
+319193,HSS Hire Group PLC,False,,,,,,
+319195,Sunrise Communications Group AG,False,,,,,,
+319230,Elis S.A.,False,,,,,,
+319284,Dongxing Securities Co. Ltd.,False,,,,,,
+319360,Zegona Communications plc,False,,,,,,
+319434,Orient Securities Co. Ltd.,False,,,,,,
+319659,Cellnex Telecom S.A.,False,CELLNEX TELECOM SA,4899,517810,,,ESP
+319687,South32 Ltd.,False,SOUTH32 LTD,1000,2122,,,AUS
+319718,Global Power Synergy Public Co. Ltd.,False,,,,,,
+319746,Unifin Financiera S.A.B. de C.V.,False,,,,,,
+319759,CK Asset Holdings Ltd.,False,CK ASSET HOLDINGS LIMITED,6552,237210,,,CYM
+319912,Infrastrutture Wireless Italiane SpA,False,,,,,,
+319920,Red Star Macalline Group Corp. Ltd.,False,,,,,,
+319938,Adler Group S.A.,False,,,,,,
+319957,Guotai Junan Securities Co. Ltd.,False,,,,,,
+320028,Operadora de Sites Mexicanos S.A.B. de C.V.,False,,,,,,
+320029,B2 Impact ASA,False,,,,,,
+320031,Euskaltel S.A.,False,,,,,,
+320078,Aroundtown S.A.,False,AROUNDTOWN SA,6510,5311,,,LUX
+320124,Schaeffler AG,False,,,,,,
+320479,Worldpay Group Ltd.,False,,,,,,
+320486,Intertrust N.V.,False,,,,,,
+320609,Japan Post Bank Co. Ltd.,False,,,,,,
+320610,Japan Post Insurance Co. Ltd.,False,,,,,,
+320631,SCR-Sibelco NV,False,,,,,,
+320676,China International Capital Corp. Ltd.,False,,,,,,
+320759,Banco Internacional,False,,,,,,
+320764,ABN AMRO Bank N.V.,False,ABN AMRO BANK NV,6020,522110,,,NLD
+320785,Dometic Group AB,False,,,,,,
+321000,SFI PJSC,False,,,,,,
+321100,Seazen Holdings Co. Ltd.,False,,,,,,
+321113,Ronshine China Holdings Ltd.,False,,,,,,
+321217,Virgin Money UK PLC,False,,,,,,
+321386,Suntory Holdings Ltd.,False,,,,,,
+321431,China Zheshang Bank Co. Ltd.,False,,,,,,
+321502,VAT Group AG,False,,,,,,
+321620,"MONETA Money Bank, a.s.",False,,,,,,
+321632,Uniper SE,False,UNIPER SE,4911,2211,,,DEU
+321698,Signify N.V.,False,SIGNIFY NV,3640,33513,,,NLD
+321814,Frasers Logistics & Commercial Trust,False,,,,,,
+322067,Zheneng Jinjiang Environment Holding Co. Ltd.,False,,,,,,
+322176,Future Retail Ltd.,False,,,,,,
+322494,Postal Savings Bank of China Co. Ltd.,False,POSTAL SAVINGS BANK OF CHINA,6020,522110,,,CHN
+322524,NETS A/S,False,,,,,,
+322571,Vinte Viviendas Integrales S.A.B. de C.V.,False,,,,,,
+322597,innogy,False,,,,,,
+322728,Convatec Group PLC,False,CONVATEC GROUP PLC,3842,339113,,,GBR
+322880,Doosan Bobcat Inc.,False,,,,,,
+322951,DNA PLC,False,,,,,,
+322986,CSC Financial Co. Ltd.,False,,,,,,
+323352,Gamesys Group PLC,False,,,,,,
+323355,SMU S.A.,False,,,,,,
+323374,Movida Participacoes S.A.,False,,,,,,
+323393,Serba Dinamik Holdings Bhd.,False,,,,,,
+323433,Becle S.A.B. de C.V.,False,,,,,,
+323554,CORESTATE Capital Holding S.A.,False,,,,,,
+323562,LXI REIT PLC,False,,,,,,
+323578,PJSC Detsky Mir,False,,,,,,
+323648,Prosegur Cash S.A.,False,,,,,,
+323683,Tikehau Capital SCA,False,,,,,,
+323849,Neinor Homes S.A.,False,,,,,,
+323931,Gestamp Automocion,False,,,,,,
+324228,DIGI Communications N.V.,False,,,,,,
+324686,Heimstaden AB (publ),False,,,,,,
+324765,Guangzhou Rural Commercial Bank Co. Ltd.,False,,,,,,
+324770,Essity AB,False,,,,,,
+324859,Delivery Hero SE,False,DELIVERY HERO SE,5961,454110,,,DEU
+324977,Metro AG,False,,,,,,
+324988,doValue SpA,False,,,,,,
+324989,GetBack S.A.,False,,,,,,
+325059,IRB-Brasil Resseguros S.A.,False,,,,,,
+325073,Oma Savings Bank PLC,False,,,,,,
+325195,S4 Capital PLC,False,,,,,,
+325248,Samhallsbyggnadsbolaget i Norden AB (publ),False,,,,,,
+325572,Pirelli & C. SpA,False,,,,,,
+325686,Aedas Homes S.A.,False,,,,,,
+325699,AB Ignitis Group,False,,,,,,
+325735,HelloFresh SE,False,HELLOFRESH SE,5960,454,,,DEU
+325749,Befesa S.A.,False,,,,,,
+325798,TI Fluid Systems PLC,False,,,,,,
+325914,ContourGlobal Ltd.,False,,,,,,
+326037,Stoneweg European Real Estate Investment Trust,False,,,,,,
+326273,Guala Closures SpA,False,,,,,,
+326377,Zhenro Properties Group Ltd.,False,,,,,,
+326796,Energean PLC,False,,,,,,
+327126,CEVA Logistics AG,False,,,,,,
+327134,Vivo Energy Ltd.,False,,,,,,
+327386,Foxconn Industrial Internet Co. Ltd.,False,,,,,,
+327401,Adyen N.V.,False,ADYEN N.V,7374,518210,,,NLD
+327415,Contemporary Amperex Technology Co. Ltd.,False,,,,,,
+327453,Arion Bank,False,,,,,,
+327466,Epiroc AB,False,EPIROC AB,3532,333131,,,SWE
+327599,Xiaomi Corp.,False,XIAOMI CORPORATION,3663,334220,,,CYM
+327645,Redsun Properties Group Ltd.,False,,,,,,
+327665,Viva Energy Group Ltd.,False,,,,,,
+327735,E-House (China) Enterprise Holdings Ltd.,False,,,,,,
+328083,Meituan,False,MEITUAN,5961,454110,,,CYM
+328163,Haidilao International Holding Ltd.,False,,,,,,
+328488,Orient Takaful PJSC,False,,,,,,
+328494,Aston Martin Lagonda Global Holdings PLC,False,ASTON MARTIN LAGONDA GLOBAL,3711,336111,,,GBR
+328623,World Co. Ltd.,False,,,,,,
+328643,DaFa Properties Group Ltd.,False,,,,,,
+328745,Knorr-Bremse AG,False,KNORR-BREMSE AKTIE,3743,336510,,,DEU
+328904,Shurgard Self Storage Ltd,False,,,,,,
+329032,SIG Group AG,False,,,,,,
+329056,Consus Real Estate AG,False,,,,,,
+329498,Coles Group Ltd.,False,,,,,,
+331108,Dexin China Holdings Co. Ltd.,False,,,,,,
+331614,Nexi SpA,False,,,,,,
+331821,Adevinta ASA,False,,,,,,
+332044,Life insurance company Freedom Life JSC,False,,,,,,
+332256,Arabian Centres Company,False,,,,,,
+332293,SUSE S.A.,False,,,,,,
+332302,Pujiang International Group Ltd.,False,,,,,,
+332311,TRATON SE,False,,,,,,
+332410,CSSC (Hong Kong) Shipping Co. Ltd.,False,,,,,,
+332771,Freedom Finance JSC,False,,,,,,
+333645,Prosus N.V.,False,PROSUS NV,5961,454110,,,NLD
+333754,M&G PLC,False,M&G PLC,6200,5239,,,GBR
+333866,EQT AB (publ),False,,,,,,
+334028,Verallia S.A.,False,,,,,,
+334217,Helios Towers PLC,False,HELIOS TOWERS PLC,4812,51711,,,GBR
+334759,Sinic Holdings (Group) Co. Ltd.,False,,,,,,
+335149,AK Altynalmas JSC,False,,,,,,
+336884,Titan Cement Co. S.A.,False,,,,,,
+338548,Zhongtai Securities Co. Ltd.,False,,,,,,
+338557,JDE Peet's N.V.,False,JDE PEET'S N V,2090,311920,,,NLD
+338892,Abu Dhabi National Energy Co. PJSC,False,,,,,,
+338931,China Bohai Bank Co. Ltd.,False,,,,,,
+339015,Metso Oyj,False,METSO OYJ,3530,333120,,,FIN
+339022,Ambipar Participacoes e Empreendimentos S.A.,False,,,,,,
+340051,THG PLC,False,THG PLC,5960,456120,,,GBR
+340071,Simpar S.A.,False,,,,,,
+340153,Siemens Energy,False,SIEMENS ENERGY AG,3510,333611,,,DEU
+341847,Colombia Telecomunicaciones S.A. E.S.P.,False,,,,,,
+343925,Radiance Holdings (Group) Co. Ltd.,False,,,,,,
+344060,Brava Energia S.A.,False,,,,,,
+345390,Rede D'Or Sao Luiz S.A.,False,,,,,,
+346210,QLM Life & Medical Insurance Co.,False,,,,,,
+346453,"Vamos Locacao de Caminhoes, Maquinas e Equipamentos S.A.",False,,,,,,
+346546,Technip Energies,False,TECHNIP ENERGIES,1600,237120,,,NLD
+346839,Sinoasia B&R Insurance JSC,False,,,,,,
+347036,Vantage Towers AG,False,,,,,,
+347115,CTP N.V.,False,,,,,,
+347352,Harbour Energy PLC,False,,,,,,
+347562,Synlab AG,False,,,,,,
+347739,Aydem Renewables,False,,,,,,
+348744,Pepco Group N.V.,False,,,,,,
+348760,Parts Holding Europe SAS,False,,,,,,
+348767,REVO Insurance SpA,False,,,,,,
+348887,Bank Norwegian ASA,False,,,,,,
+349562,Groupe Josi 1909,False,,,,,,
+349929,Van Lanschot Kempen N.V.,False,,,,,,
+349953,Raizen S.A.,False,,,,,,
+350353,Azelis Group NV,False,,,,,,
+350366,Universal Music Group N.V.,False,UNIVERSAL MUSIC GROUP N V,7812,512110,,,NLD
+350475,Praemia Healthcare,False,,,,,,
+350620,Storskogen Group AB (publ),False,,,,,,
+350666,OVHcloud,False,,,,,,
+350764,AutoStore Holdings Ltd.,False,,,,,,
+350930,Sisal S.p.A.,False,,,,,,
+350952,Volvo Car AB,False,VOLVO CAR AB PUBL,3711,336110,,,SWE
+350970,Fertiglobe PLC,False,,,,,,
+350993,Softline Holding PLC,False,,,,,,
+351070,Ventia Services Group Ltd.,False,,,,,,
+352012,LG Energy Solution Ltd.,False,,,,,,
+352335,Abu Dhabi Ports Co. PJSC,False,,,,,,
+352341,Var Energi ASA,False,,,,,,
+353070,Lottery Corp. Ltd.,False,,,,,,
+354462,CGE Transmisión S.A.,False,,,,,,
+354658,"Sitios Latinoamerica, S.A.B. de C.V.",False,,,,,,
+356706,Lottomatica Group SpA,False,,,,,,
+357646,Petrofina S.A.,False,,,,,,
+358690,RENK Group AG,False,,,,,,
+358790,Mandatum Plc,False,,,,,,
+359443,Indian Renewable Energy Development Agency Ltd.,False,,,,,,
+359645,Syensqo,False,,,,,,
+360332,Pluxee N.V.,False,,,,,,
+365900,Asmodee Group AB,False,,,,,,
